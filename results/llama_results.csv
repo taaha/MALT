@@ -1,0 +1,1063 @@
+Sr No.,Original Instruction,Translated Instruction,Baseline Completion,Intervention Completion,Translated Completion (Final Output)
+Query 0,'کیا آپ ایک جملے میں آج کی عالمی خبروں کا خلاصہ کرسکتے ہیں؟','Can you summarize today’s world news in one sentence?',' آج کے لیے یہاں کلک کریں\nکیا آپ ایک جملے میں آج کی عالمی خبروں کا خلاصہ کرسکتے ہیں؟ آج ک',"' Here is a summary of today’s news in a single sentence.\nThe United States has announced that it
+will withdraw from the Intermediate-Range Nuclear Forces Treaty (INF) with Russia. The US has
+accused Russia of violating the treaty by developing and deploying a ground-launched cruise missile
+system. The US has given Russia until February'",ایک ہی لفظ میں آج کی خبروں کا خلاصہ ہے ۔ امریکہ نے اعلان کیا ہے کہ وہ روس کے ساتھ درمیانہ درجے کی بحری افواج کے معاہدے ( آئی این ایف ) سے نکھرے گا ۔ امریکہ نے روس پر اس معاہدے کے خلاف الزامات عائد کیے ہیں کہ وہ زمینی طور پر کھولے گئے کروز میزائل سسٹم تیار کرکے اس معاہدے کے خلاف کام کر رہے ہیں ۔ امریکہ نے روس کو فروری تک اس معاہدے سے نکھرائے رکھا ہے ۔
+Query 1,'مختلف فلسفوں کے مطابق زندگی کا کیا مطلب ہے؟',"""What's the meaning of life according to different philosophies?""","' کیا زندگی صرف ایک جھوٹا خواب ہے، یا ایک جھوٹا خواب ہے، یا ایک جھوٹا خواب ہے، یا ایک جھوٹا خواب ہے،
+یا'","' What is the meaning of life according to different philosophies?\nWhat is the meaning of life
+according to different philosophies?\nWhat is the meaning of life according to different
+philosophies?\nWhat is the meaning of life according to different philosophies?\nWhat is the meaning
+of life according to different philosophies?\nWhat is the meaning'",مختلف فلسفوں کے مطابق زندگی کا معنی کیا ہے ؟ مختلف فلسفوں کے مطابق زندگی کا معنی کیا ہے ؟ مختلف فلسفوں کے مطابق زندگی کا معنی کیا ہے ؟ مختلف فلسفوں کے مطابق زندگی کا معنی کیا ہے ؟ مختلف فلسفوں کے مطابق زندگی کا معنی کیا ہے ؟
+Query 2,'کیا آپ سائنس فائی ناول کے لئے دماغی طوفان کے آئیڈیاز میں میری مدد کرسکتے ہیں؟','Can you help me brainstorm ideas for a sci-fi novel?',' ہم آپ کو ایک سائنس فائی ناول کے لئے دماغی طوفان کے آئیڈیاز میں میری مدد کرسکتے ہیں۔\nکیا آپ سائ',"' I need help with my ideas for a science fiction novel\nI am writing a science fiction novel and I
+need help with my ideas for a story. I have a few ideas but I need help with the rest. I am looking
+for a story that is set in the future and has a lot of action and adventure.'",مجھے ایک سائنسی ناول کے لئے اپنے خیالات کی مدد کرنا ہے ۔ میں ایک سائنسی ناول لکھ رہا ہوں اور مجھے ایک کہانی کے لئے اپنے خیالات کی مدد کرنا ہے ۔ میرے پاس کچھ نظریات ہیں لیکن مجھے باقی لوگوں کی مدد کرنا ہے ۔
+Query 3,'انسانی دماغ کے بارے میں ایک انوکھی حقیقت کیا ہے؟',"""What's a unique fact about the human brain?""",' ہم کے دماغ کے بارے میں کیا سوچتے ہیں؟ ہم کے دماغ کے بارے میں کیا سوچتے ہیں؟',"' What is a human brain? What is a human brain? What is a human brain? What is a human brain? What
+is a human brain? What is a human brain? What is a human brain? What is a human brain? What is a
+human brain? What is a human brain? What is a human'",انسان کا دماغ کیا ہے ؟ انسان کا دماغ کیا ہے ؟ انسان کا دماغ کیا ہے ؟ انسان کا دماغ کیا ہے ؟ انسان کا دماغ کیا ہے ؟ انسان کا دماغ کیا ہے ؟ انسان کا دماغ کیا ہے ؟
+Query 4,'بلاکچین ٹیکنالوجی کیسے کام کرتی ہے؟','How does blockchain technology work?',' اور اس کے فوائد کیا ہیں؟\nبلاکچین ٹیکنالوجی کیسے کام کرتی ہے؟ اور اس کے فوائد کیا ہیں؟\nبلاکچین',"' What is Blockchain Technology?\nBlockchain is a digital ledger that records transactions across
+many computers simultaneously. It is a decentralized, distributed, and shared ledger that is used to
+record transactions across different computers. It is a technology that allows for secure,
+transparent, and tamper-proof transactions. It is a distributed ledger technology that is used'",Blockchain ٹکنالوجی کیا ہے ؟ Blockchain ایک ڈیجیٹل ٹکنالوجی ہے جس میں کئی کمپیوٹروں میں ایک ساتھ لین دین ریکارڈ کیا جاتا ہے ۔ یہ ایک مرکزی مربوط ، تقسیم شدہ اور مشترکہ ٹکنالوجی ہے جسے مختلف کمپیوٹروں میں لین دین ریکارڈ کرنے کے لئے استعمال کیا جاتا ہے ۔ یہ ایک ایسا ٹکنالوجی ہے جو محفوظ ، شفاف اور بھروسے پر مبنی لین دین ریکارڈ کرنے
+Query 5,'ذہن سازی پر عمل کرنے کا بہترین طریقہ کیا ہے؟',"""What's the best way to practice mindfulness?""","' - How to do mental work best?\nذہن سازی پر عمل کرنے کا بہترین طریقہ کیا ہے؟ - How to do mental
+work best?\nذہن سازی پر عمل کرنے کا بہترین طریقہ'","' (How to do best thinking?)\nThe best way to do thinking is to think about thinking. The best way
+to do thinking is to think about thinking. The best way to do thinking is to think about thinking.
+The best way to do thinking is to think about thinking. The best way to do thinking is to think'",( بہترین سوچ کرنے کا طریقہ کیا ہے ؟ ) بہترین سوچ کرنے کا طریقہ فکر کے بارے میں سوچنا ہے ۔ فکر کے بارے میں سوچنے کا بہترین طریقہ فکر کے بارے میں سوچنا ہے ۔ فکر کے بارے میں سوچنے کا بہترین طریقہ فکر کے بارے میں سوچنا ہے ۔ فکر کے بارے میں سوچنے کا بہترین طریقہ فکر کے بارے میں سوچنا ہے
+Query 6,'مشین لرننگ ماڈل کو کس طرح تربیت دی جاتی ہے؟','How are machine learning models trained?',"'\n\nمشین لرننگ ماڈل کو کس طرح تربیت دی جاتی ہے؟\n\nمشین لرننگ ماڈل کو کس طرح تربیت دی جاتی
+ہے؟\n\nمشین لرننگ ماڈل کو کس طرح'","' (How is the machine learning model trained?)\nMachine learning is a subset of artificial
+intelligence (AI) that provides systems the ability to automatically learn and improve from
+experience without being explicitly programmed. Machine learning focuses on the development of
+computer algorithms that can access data and use it learn for themselves. Machine learning
+algorithms build a model from'",( مشین لرننگ ماڈل کو کیسے تربیت دی گئی ہے ؟ ) مشین لرننگ مصنوعی ذہانت ( آرٹی فیشیل انٹلی جنس ) کا ایک ذیلی جزو ہے ، جو نظام کو خودکار طور پر سیکھنے اور بہتری کے قابل دیتا ہے بغیر کسی پروگرام کے ۔ مشین لرننگ انفارمیشن انفارمیشن کی ترقی پر توجہ مرکوز کرتا ہے ، تاکہ وہ ڈیٹا تک رسائی حاصل کرسکیں اور اسے اپنے لئے سیکھ سکیں ۔ مشین لرننگ الگ
+Query 7,'کیا آپ نئی زبان سیکھنے کے کچھ فوائد کی فہرست دے سکتے ہیں؟','Can you list some benefits of learning a new language?',"' آپ نے کیا کیا کیا کیا کیا کیا کیا کیا کیا کیا کیا کیا کیا کیا کیا کیا کیا کیا کیا کیا کیا کیا کیا
+کیا کیا کیا کیا کیا کیا کیا'","' I can speak English, French, Spanish, German, Italian, Japanese, Chinese, Arabic, Russian,
+Portuguese, Dutch, Swedish, Danish, Norwegian, Finnish, Polish, Czech, Slovak, Hungarian, Romanian,
+Bulgarian, Serbian, Croatian, Bosnian, Macedonian, Albanian, Greek, Turkish, Hebrew'",مجھے انگریزی ، فرانسی ، روسی ، جرمن ، جاپانی ، جاپانی ، Arabic ، روسی ، پرتگالی ، Dutch ، Swedish ، Danish ، Norwegian ، Finnish ، Polish ، Czech ، Slovak ، Hungarian ، قبرصی ، Bulgariaی ، ایرانی ، Croatiaی ، Bosniن ، Macedoniaی ، Albaniaی ، یونانی ، ترکی ، عربی ، عمانی ، عمانی اور عمانی زبانیں بول سکتے ہیں ۔
+Query 8,'شیکسپیئر کے ہیملیٹ کا خلاصہ کیا ہے؟',"""What's a summary of Shakespeare’s Hamlet?""","' (Hamlet Summary in Urdu)\nشیکسپیئر کے ہیملیٹ کا خلاصہ کیا ہے؟ (Hamlet Summary in Urdu)\nشیکسپیئر
+کے ہیملیٹ کا خلاص'","' What is the summary of Hamlet by Shakespeare?\nHamlet is a tragedy written by William Shakespeare
+about a prince who is consumed by grief after the accidental death of his father. The play is set in
+Denmark and revolves around Hamlet’s quest for revenge against his uncle, who has usurped the throne
+and married his mother'",کیا ہے Shakespeare کے Hamlet کا خلاصہ ؟ Hamlet ایک قصہ ہے جس میں ایک شہزادے کا لکھا گیا ہے ، جو اپنے والد کی حادثانہ موت کے بعد غم میں پڑ جاتا ہے ۔ یہ فلم Denmark میں لکھی گئی ہے اور اس میں Hamlet کے اپنے چچا کے خلاف انتقام لینے کی کوششوں کا موضوع ہے ، جس نے اس کے تخت کو توڑ دیا ہے اور اس کی ماں کو شادی کر دی ہے ۔
+Query 9,'کیا آپ میرے لئے بے ترتیب لطیفہ تیار کرسکتے ہیں؟','Can you generate a random joke for me?',' آپ کے لئے بے ترتیب لطیفہ کے لئے کچھ اچھے لطیفے ہیں۔\nکیا آپ میرے لئے بے ترتیب لطیف',"' I want to know if you can make a random joke for me?\nI want to know if you can make a random joke
+for me?\nI want to know if you can make a random joke for me? I want to know if you can make a
+random joke for me? I want to know if you can make'",اگر آپ میرے لئے کوئی تمثیل میک کر سکتے ہیں ؟ اگر آپ میرے لئے کوئی تمثیل میک کر سکتے ہیں ؟ اگر آپ مجھے کوئی تمثیل میک کر سکتے ہیں ؟
+Query 10,'کیا آپ کلاسک براؤنیز کے لئے ایک نسخہ فراہم کرسکتے ہیں؟','Can you provide a recipe for classic brownies?',' کیا آپ کلاسک براؤنیز کے لئے ایک نسخہ فراہم کرسکتے ہیں؟\nکیا آپ کلاسک براؤنیز کے لئے ایک نسخ�',"' I have a brownie recipe that I would like to share with you. It is a very simple recipe that can
+be made in a few minutes. The ingredients are: 1 cup of brown sugar 1/2 cup of butter 1/2 cup of
+flour 1/2 cup of milk 1/'",میرے پاس ایک brownie ریگول ہے جسے میں آپ کے ساتھ شیئر کرنا چاہتا ہوں ۔ یہ ایک بہت ہی آسان ریگول ہے جسے چند منٹ میں تیار کیا جا سکتا ہے ۔ اس ریگول کے ingredients یہ ہیں : ایک پیالہ ناریل کا پیالہ مٹھی کا پیالہ مٹھی کا پیالہ دودھ کا پیالہ
+Query 11,'انسانی جسم میں ویکسین کیسے کام کرتی ہے؟','How do vaccines work in the human body?',"' (How does a vaccine work in the human body?)\nانسانی جسم میں ویکسین کیسے کام کرتی ہے؟ (How does a
+vaccine work in the human body?)\nانسانی جسم میں ویکسین کیسے کام کرتی �'","' What is the mechanism of action of a vaccine in human body?\nA. It is a protein that is injected
+into the body to stimulate the immune system to produce antibodies against a specific antigen.\nB.
+It is a protein that is injected into the body to stimulate the immune system to produce antibodies
+against a specific antigen.\nC'",انسان کی بدن میں ویکسین کا اثر کا میکانزم کیا ہے ؟ یہ ایک پروٹین ہے جس کو جسم میں داخل کیا جاتا ہے تاکہ ایک مخصوص اینٹیجن کے خلاف انٹیجکٹ بنائے جاسکیں ۔ یہ ایک پروٹین ہے جس کو جسم میں داخل کیا جاتا ہے تاکہ ایک مخصوص اینٹیجن کے خلاف انٹیجکٹ بنائے جاسکیں ۔
+Query 12,'چین کی عظیم دیوار کے پیچھے کیا تاریخ ہے؟',"""What's the history behind the Great Wall of China?""","' (پہلا حصہ)\nچین کی عظیم دیوار کے پیچھے کیا تاریخ ہے؟ (پہلا حصہ)\nچین کی عظیم دیوار کے پیچھے کیا
+تاریخ ہ�'","' (Part 1)\nThe Great Wall of China is one of the most famous landmarks in the world. It is a symbol
+of China’s strength and power. But what is the history behind this great wall? In this article, we
+will explore the history of the Great Wall of China and its significance in Chinese culture.\n'",( حصہ ) چین کی عظیم بادل دنیا کی سب سے مشہور علامتوں میں سے ایک ہے ۔ یہ چین کی طاقت اور اقتدار کی علامت ہے ۔ لیکن اس عظیم بادل کی تاریخ کیا ہے ؟ اس مضمون میں ہم چین کی عظیم بادل کی تاریخ پر غور کریں گے اور اس کی اہمیت چین کے ثقافتی نظام میں کیا ہے ؟
+Query 13,'گھر میں میں کیا کرسکتا ہوں ایک تفریحی سائنس کا تجربہ کیا ہے؟',"""What's a fun science experiment I can do at home?""","' - ہوم سائنس کے تجربات\nHome Science Experiments for Kids\nHome Science Experiments for Kids\nHome
+Science Experiments for Kids\nHome Science Experiments for Kids\nHome Science Experiments for
+Kids\nHome Science Experiments for Kids\nHome Science Experiments for Kids\n'","' What can I do in my home? A fun science experiment\nI have a question for you. What can I do in my
+home? A fun science experiment\nI have a question for you. What can I do in my home? A fun science
+experiment\nI have a question for you. What can I do'",میرے گھر میں کیا کر سکتا ہوں ؟ میرے گھر میں کیا کر سکتا ہوں ؟ میرے گھر میں کیا کر سکتا ہوں ؟ میرے گھر میں کیا کر سکتا ہوں ؟ میرے گھر میں کیا کر سکتا ہوں ؟ میرے گھر میں کیا کر سکتا ہوں ؟ میرے گھر میں کیا کر سکتا ہوں ؟
+Query 14,'انسانی میموری کیسے کام کرتی ہے؟','How does human memory work?',"' اور اس میموری کے بارے میں کیا کیا کہا جاتا ہے؟\nHuman memory is a complex system that allows us to
+store, retrieve, and use information over time. It is a fundamental aspect of our cognitive
+abilities and plays a'","' What is human memory?\nWhat is human memory?\nHuman memory is the ability to store and retrieve
+information. It is a complex process that involves many different brain structures and processes.
+Memory is important for learning, problem solving, and decision making. There are several types of
+memory, including short-term memory, long-term memory,'",انسانی میموریل کیا ہے ؟ کیا انسانی میموریل ہے ؟ انسانی میموریل معلومات کی ذخیرہ و ذخیرہ کرنے اور انہیں دوبارہ ذخیرہ کرنے کا کام کرتا ہے ۔ یہ ایک پیچیدہ عمل ہے ، جس میں کئی مختلف دماغی ڈھانچے اور عمل شامل ہیں ۔ میموریل سیکھنے ، مسائل حل کرنے اور فیصلے کرنے کے لئے اہم ہے ۔ میموریل کے متعدد قسمیں ہیں ، جن میں مختصر مدتی میموریل ، طویل مدتی میموریل ،
+Query 15,'کیا آپ عوامی بولنے کی مہارت کو بہتر بنانے کے لئے کچھ طریقے تجویز کرسکتے ہیں؟','Can you suggest some ways to improve public speaking skills?',"' کیا آپ کو یہ معلوم ہے کہ عوامی بولنے کے لئے کیا کیا کیا کیا کیا کیا کیا کیا کیا کیا کیا کیا کیا
+کیا کیا کیا کیا'","' I want to improve my public speaking skills. What are some ways to do that?\nWhat are some ways to
+improve public speaking skills?\nWhat are some ways to improve public speaking skills?\nWhat are
+some ways to improve public speaking skills?\nWhat are some ways to improve public speaking
+skills?\nWhat are some ways to improve public'",میں اپنی پبلک بولی کی صلاحیت کو بہتر کرنا چاہتا ہوں ۔ اس کے کچھ طریقے ہیں ؟ پبلک بولی کی صلاحیت کو بہتر کرنے کے کچھ طریقے ہیں ؟ پبلک بولی کی صلاحیت کو بہتر کرنے کے چند طریقوں ہیں ؟ پبلک بولی کی صلاحیت کو بہتر کرنے کے چند طریقوں ہیں ؟
+Query 16,'سائبرسیکیوریٹی کے کچھ عام خطرات کیا ہیں؟','What are some common cybersecurity threats?',"' - Cybersecurity Threats\nCybersecurity Threats\nCybersecurity Threats\nCybersecurity
+Threats\nCybersecurity Threats\nCybersecurity Threats\nCybersecurity Threats\nCybersecurity
+Threats\nCybersecurity Threats\nCybersecurity Threats\nCybersecurity Threat'","' What are some common cyber security risks?\nCyber security is a term that is used to describe the
+protection of computer systems, networks, and data from unauthorized access or attacks. It is a
+critical aspect of modern life, as more and more of our personal and professional information is
+stored and transmitted electronically. However, cyber security'",کچھ عام سائبر سلامتی خطرات کیا ہیں ؟ سائبر سلامتی ایک لفظ ہے جس کا استعمال کمپیوٹر نظاموں ، نیٹ ورکوں اور ڈیٹا کے تحفظ کے لئے کیا جاتا ہے ، جسے ناحق رسائی یا حملوں سے بچایا جاتا ہے ۔ یہ جدید زندگی کا ایک اہم پہلو ہے کیونکہ ہماری ذاتی اور پیشہ ور معلومات الیکٹرانک کے ذریعے محفوظ اور منتقل ہوتی ہے ۔ لیکن سائبر سلامتی ان خطرات کو کم کرتا ہے جو سائبر
+Query 17,'کیا آپ طلباء کے لئے ایک محرک حوالہ تیار کرسکتے ہیں؟','Can you generate a motivational quote for students?',' ہم نے ایک ایسا حوالہ تیار کیا ہے جس کے ذریعہ طلباء کو اپنے آپ کو بہتر بنانے کے لئے ایک اچھ',"' I am a student and I need a motivation source for my life. I am a student and I need a motivation
+source for my life. I am a student and I need a motivation source for my life. I am a student and I
+need a motivation source for my life. I am a student and I need a'",مجھے اپنی زندگی کے لیے ایک ترغیب وسیلہ کی ضرورت ہے ۔ مجھے ایک طالب علم کی ضرورت ہے ۔ مجھے اپنی زندگی کے لیے ایک ترغیب وسیلہ کی ضرورت ہے ۔ مجھے ایک طالب علم کی ضرورت ہے ۔ مجھے ایک طالب علم کی ضرورت ہے ۔
+Query 18,'اسٹاک میں سرمایہ کاری کے لئے ابتدائی رہنما کیا ہے؟',"""What's a beginner's guide to investing in stocks?""","' اسٹاک مارکیٹ میں سرمایہ کاری کے لئے ابتدائی رہنما کیا ہے؟ اسٹاک مارکیٹ میں سرمایہ کاری کے لئے
+ابتدائی رہنما'","' What is a stock market guide for investment?\nThe stock market is a place where people can buy and
+sell shares of companies. The stock market is also called the stock exchange. The stock market is a
+place where people can buy and sell shares of companies. The stock market is also called the stock
+exchange. The stock market'",سرمایہ کاری کے لئے اسٹاک مارکیٹ گائیڈ کیا ہے ؟ اسٹاک مارکیٹ ایک ایسا مقام ہے جہاں لوگ کمپنیوں کے حصص خریدیں اور فروخت کرسکیں ۔ اسٹاک مارکیٹ کو بھی اسٹاک ایکسچینج کہا جاتا ہے ۔ اسٹاک مارکیٹ ایک ایسا مقام ہے جہاں لوگ کمپنیوں کے حصص خریدیں اور فروخت کرسکیں ۔ اسٹاک مارکیٹ کو بھی اسٹاک ایکسچینج کہا جاتا ہے ۔
+Query 19,'بلیک ہول کیسے بنتے ہیں؟','How do black holes form?',' بلیک ہول کیسے بنتے ہیں؟\nبلیک ہول کیسے بنتے ہیں؟ بلیک ہول کیسے بنتے ہی',"' What is a Black Hole?\nBlack holes are the most mysterious objects in the universe. They are so
+dense that not even light can escape their gravitational pull. But what exactly is a black hole? In
+this article, we will explore the definition of a black hole, its properties, and its importance in
+astrophysics.\n'",کیا ہے ایک Black Hole ؟ کائنات میں وہ سب سے مخفی چیزیں ہیں ۔ وہ ایسی گہرے ہیں کہ ان کی gravitational کشش سے نور کو بھی کوئی بچ نہیں سکتا ۔ لیکن ایک black hole کیا ہے ؟ اس مضمون میں ہم ایک black hole کی وضاحت کریں گے ، اس کی خصوصیات اور اس کی ایسٹرو فزکس میں اہمیت پر غور کریں گے ۔
+Query 20,'پودوں میں فوٹو سنتھیس کس طرح کام کرتی ہے؟','How does photosynthesis work in plants?',"' - What is the process of photo synthesis in plants?\nپودوں میں فوٹو سنتھیس کس طرح کام کرتی ہے؟ -
+What is the process of photo synthesis in plants?\nپودوں میں فوٹو سنتھیس کس'","' (How does photo synthesis work in plants?)\nپودوں میں فوٹو سنتھیس کس طرح کام کرتی ہے؟ (How does
+photo synthesis work in plants?)\nپودوں میں فوٹو سنتھیس کس طرح کام کرتی'",پودوں میں فوٹو سنتھیس کس طرح کام کرتی ہے ؟ پودوں میں فوٹو سنتھیس کس طرح کام کرتی ہے ؟
+Query 21,'مدافعتی نظام جسم کی حفاظت کیسے کرتا ہے؟','How does the immune system protect the body?',"' (پہلا حصہ)\nمدافعتی نظام جسم کی حفاظت کیسے کرتا ہے؟ (پہلا حصہ)\nمدافعتی نظام جسم کی حفاظت کیسے
+کرتا ہے؟'","' (How does the body’s immune system protect itself?)\nThe immune system is a network of cells,
+tissues, and organs that work together to protect the body from foreign invaders, such as bacteria,
+viruses, and fungi. The immune system is a complex network of cells, tissues, and organs that work
+together to protect the'",( بدن کا دفاعی نظام اپنے آپ کو کیسے تحفظ فراہم کرتا ہے ؟ ) بدن کا دفاعی نظام ایک ایسا نیٹ ورک ہے جو غیر ملکی قوتوں مثلاً وائرس اور وائرس سے بدن کی حفاظت کرنے کے لئے باہم مل کر کام کرتا ہے ۔ بدن کا دفاعی نظام ایک بہت بڑا نیٹ ورک ہے جس میں cell ، اعضاء اور اعضاء ایک ساتھ کام کرتے ہیں ۔
+Query 22,'اچھے کاروباری منصوبے کے کلیدی عنصر کیا ہیں؟','What are the key elements of a good business plan?',' اور ان کے بارے میں کیا کیا کرنا ہے؟\nبہت سے کاروباری منصوبے بنانے والے لوگ ان کے بارے میں سوچتے ',"' (What are the key elements of a good business plan?)\nA business plan is a document that outlines
+the goals and strategies of a business. It is a roadmap that helps the business owner to achieve
+their goals and objectives. A good business plan should include the following key elements:\n1.
+Executive summary: The executive summary is'",( اچھی کاروباری منصوبہ کے اہم عناصر کیا ہیں ؟ ۔ ایک اچھی کاروباری منصوبہ ایک دستاویز ہے جو ایک کاروبار کے اہداف اور حکمت عملی کو ظاہر کرتا ہے ۔ یہ ایک روڈ میپ ہے جو کاروباری مالکان کو اپنے اہداف اور مقاصد کو حاصل کرنے میں مدد کرتا ہے ۔ اچھی کاروباری منصوبہ میں درج ذیل اہم عناصر شامل ہوتے ہیں ۔
+Query 23,'تاریخ کی قدیم ترین تہذیبوں میں سے کچھ کیا ہیں؟','What are some of the oldest civilizations in history?','\nتاریخ کی قدیم ترین تہذیبوں میں سے کچھ کیا ہیں؟\nتاریخ کی قدیم ترین تہذیبوں میں سے کچھ کیا ہیں',"' What are some of the oldest civilizations in history?\nThe oldest civilizations in history are the
+Sumerians, Egyptians, and Indus Valley Civilization. The Sumerians were the first civilization to
+develop writing and agriculture. The Egyptians were the first civilization to develop a complex
+society and a written language. The Indus Valley Civilization'",تاریخ میں سب سے پرانی تہذیبیں کیا ہیں ؟ تاریخ میں سب سے پرانی تہذیبیں Sumیرین ، مصری اور انڈس فیلڈ کی ہیں ۔
+Query 24,'کیا آپ بیان کرسکتے ہیں کہ سرچ انجن کیسے کام کرتے ہیں؟','Can you describe how search engines work?',' آپ کے پاس ایک سے زیادہ سے زیادہ کئی سے کئی سے کئی سے کئی سے کئی سے کئی سے کئی سے کئی',"' What is a search engine? How do search engines work?\nSearch engines are the most popular and
+widely used tools on the internet. They are used by billions of people every day to find
+information, products, and services. But how do search engines work? In this article, we will
+explore the inner workings of search engines'",ایک سرچ انجن کیا ہے ؟ کیسے کام کرتا ہے ؟ سرچ انجن سب سے زیادہ مقبول اور استعمال شدہ ٹولز ہیں ، جنہیں ہر روز اربوں افراد معلومات ، مصنوعات اور خدمات تلاش کرنے کے لئے استعمال کرتے ہیں ، لیکن یہ سرچ انجن کیسے کام کرتے ہیں ؟ اس مضمون میں ہم سرچ انجن کے اندر کے کام کاج پر غور کریں گے ۔
+Query 25,'جدید معاشرے میں جمہوریت کی کیا اہمیت ہے؟',"""What's the significance of democracy in modern society?""",' (پاکستان میں)\nپاکستان میں جمہوریت کی اہمیت کیا ہے؟ اس کے بارے میں کیا کہا جاتا ہے؟ اس کے بار�',"' What is the importance of democracy in the new society?\nThe new society is a society in which the
+people are the masters of the state and the government is the servant of the people. In this
+society, the people have the right to choose their leaders and make decisions about their own lives.
+The government is responsible for providing'",نئی معاشرہ میں جمہوریت کی اہمیت کیا ہے ؟ نئی معاشرہ ایسی معاشرہ ہے جس میں عوام ریاست کا مالک ہیں اور حکومت عوام کا بندہ ہے ۔ اس معاشرہ میں عوام کو اپنے لیڈروں کا انتخاب کرنے کا حق ہے اور اپنی جانوں کا فیصلہ کرنے کا حق ہے ۔ حکومت ، اس معاشرہ میں سہولیات فراہم کرنے کے لئے ذمہ دار ہے ۔
+Query 26,'الیکٹرک کاریں کیسے کام کرتی ہیں؟','How do electric cars work?',"' - How do electric circuits work?\nElectrical circuits are made up of electrical components that
+are connected together. The components are connected in a way that allows electricity to flow
+through the circuit. The components can be connected in series or in parallel. In a series circuit,
+the electricity flows through each component in turn. In a'","' What is an electric circuit?\nAn electric circuit is a closed path through which electric current
+can flow. The current is the flow of electrons. The electrons are negatively charged particles. The
+electrons are attracted to the positive terminal of the battery. The electrons are pushed out of the
+negative terminal of the battery. The electrons flow through'",ایک الیکٹرک سرکل کیا ہے ؟ ایک الیکٹرک سرکل وہ راستہ ہے جس میں الیکٹرونس کی آمد و رفت ہو سکتی ہے ۔ الیکٹرونس کی آمد و رفت کی وجہ الیکٹرونس منفی طریقے سے لگی ہوئی ذرات ہیں ۔ الیکٹرونس بیٹری کے مثبت ٹرمینل سے ہمکنار ہوتے ہیں ۔ الیکٹرونس بیٹری کے منفی ٹرمینل سے ہمکنار ہوتے ہیں ۔
+Query 27,'آج کل سب سے عام پروگرامنگ زبانیں کون سی ہیں؟','What are the most common programming languages used today?',"' اور سب سے زیادہ استعمال ہونے والی زبان کون سی ہے؟\nآج کل سب سے زیادہ استعمال ہونے والی زبان کون سی
+ہے؟\nآج کل سب س'","' (Updated)\nThe most popular programming languages in the world are:\n1. C\n2. C++\n3. Java\n4.
+Python\n5. PHP\n6. JavaScript\n7. Ruby\n8. Perl\n9. Go\n10. Swift\n11. Kotlin\n12. Rust\n13.
+Haskell'",(Updated ) دنیا میں سب سے زیادہ مقبول پروگرامنگ زبانیں یہ ہیں : ۔ سی ۔ سی ۔ این ۔ جیٹلی ۔ پٹیل ۔ پٹیل ۔ پٹیل ۔ پٹیل ۔ پٹیل ۔ پٹیل ۔ پٹیل ۔
+Query 28,'کیا آپ مجھے مؤثر طریقے سے مطالعہ کرنے کے لئے کچھ نکات دے سکتے ہیں؟','Can you give me some tips for studying effectively?',' آپ کے لئے یہ ایک بہت ہی اہم بات ہے کہ آپ کے لئے یہ ایک بہت ہی اہم بات ہ�',"' I am a student of English literature and I am doing my research on the topic of ""The Effect of
+Reading on the Mind"". I would be very grateful if you could give me some tips on how to read
+effectively. I am a student of English literature and I am doing my research on the topic of ""The
+Effect'",میں ایک انگریزی ادب کے طالب علم ہوں اور میں اس موضوع پر اپنی تحقیق کر رہا ہوں کہ پڑھنے کا اثر دماغ پر کیا اثر پڑتا ہے ۔
+Query 29,'شمسی گرہن کے پیچھے سائنس کیا ہے؟',"""What's the science behind solar eclipses?""",' - 21 مارچ 2015\nشمسی گرہن کے پیچھے سائنس کیا ہے؟ - 21 مارچ 2015\nشمسی گرہن کے پیچھے سائنس کیا ہ�',"' What is behind the solar eclipse?\nThe solar eclipse is a rare astronomical event that occurs when
+the moon passes between the Earth and the Sun, blocking the Sun’s light from reaching the Earth’s
+surface. This phenomenon is caused by the alignment of the three celestial bodies in a specific
+configuration, which results in a temporary blackout of'",شمسی کُلپّس کیا ہے ؟ شمسی کُلپّس ایک نادر astronomical تہوار ہے جب چاند اور سورج کے درمیان چلتا ہے ، جو سورج کی روشنی کو زمین کی سطح تک پہنچنے سے روکتا ہے ۔ یہ امر تین سیاروں کے ایک مخصوص تناسب میں جوڑنے سے پیدا ہوتا ہے ، جس کے نتیجے میں ایک عارضی blackout ہو جاتا ہے ۔
+Query 30,'ورچوئل رئیلٹی دنیا کو کس طرح بدل رہی ہے؟','How is virtual reality changing the world?',"'\nورچوئل رئیلٹی دنیا کو کس طرح بدل رہی ہے؟\nورچوئل رئیلٹی دنیا کو کس طرح بدل رہی ہے؟\nورچوئل رئیلٹی
+دنیا کو ک'","' (Video)\nThe world of reality TV is changing. The showbiz industry is changing. The world of
+entertainment is changing. The world of fashion is changing. The world of music is changing. The
+world of sports is changing. The world of politics is changing. The world of business is changing.
+The world of education'",( ویڈیو ) ریئلٹی ٹی وی کی دنیا بدلتی جا رہی ہے ۔ ہاکی صنعت بدلتی جا رہی ہے ۔ تفریح کی دنیا بدلتی جا رہی ہے ۔ فیشن کی دنیا بدلتی جا رہی ہے ۔ کھیل کی دنیا بدلتی جا رہی ہے ۔ سیاست کی دنیا بدلتی جا رہی ہے ۔ تجارت کی دنیا بدلتی جا رہی ہے ۔ تعلیم کی دنیا بدلتی جا رہی ہے
+Query 31,'اچھے گرافک ڈیزائن کی بنیادی باتیں کیا ہیں؟','What are the basics of good graphic design?',' اچھے گرافک ڈیزائن کی بنیادی باتیں کیا ہیں؟\nاچھے گرافک ڈیزائن کی بنیادی باتیں کیا ہیں؟\nاچھ�',"' What are the basic things of good graphic design?\nGraphic design is a very important part of the
+world. It is a very important part of the world. It is a very important part of the world. It is a
+very important part of the world. It is a very important part of the world. It is a'",اچھی گرافک ڈیولپمنٹ کی بنیادی چیزیں کیا ہیں ؟ گرافیک ڈیولپمنٹ دنیا کا ایک بہت ہی اہم حصہ ہے ، دنیا کا ایک بہت ہی اہم حصہ ہے ، دنیا کا ایک بہت ہی اہم حصہ ہے ، دنیا کا ایک بہت ہی اہم حصہ ہے ، دنیا کا ایک بہت ہی اہم حصہ ہے ۔
+Query 32,'انسانی ہاضمہ نظام کیسے کام کرتا ہے؟','How does the human digestive system work?',"' (Human Digestive System)\nHuman digestive system is a complex system that breaks down food into
+nutrients that the body can use. The digestive system is made up of the mouth, esophagus, stomach,
+small intestine, large intestine, and anus. The digestive system is responsible for breaking down
+food into smaller pieces so that'","' (How does the human digestive system work?)\nThe human digestive system is a complex system that
+breaks down food into nutrients that the body can use. The digestive system consists of the mouth,
+esophagus, stomach, small intestine, large intestine, and anus. The digestive system is responsible
+for breaking down food into smaller particles'",(انسانی ڈبہ کاری کا نظام کیا کام کرتا ہے ؟ ) انسان کا ڈبہ کاری ایک الگ الگ نظام ہے ، جس میں خوراک کو ایسے مواد سے تبدیل کر دیا جاتا ہے ، جسے جسم استعمال کر سکتا ہے ۔ اس کا نظام مخنث منہ ، اسلافگ ، پیٹ ، چھوٹی ایکٹیٹین ، بڑی ایکٹیٹین اور اوندھے پر مشتمل ہے ۔ اس کا کردار کھانے کو چھوٹے سے چھوٹے حصہوں میں تبدیل کرنے کا ہے ۔
+Query 33,'مونا لیزا کے پیچھے کیا کہانی ہے؟',"""What's the story behind the Mona Lisa?""",' مونا لیزا کے پیچھے کیا کہانی ہے؟\nمونا لیزا کے پیچھے کیا کہانی ہے؟ مونا لیزا کے پیچھے کیا ک�',"' What is the story behind Mona Lisa?\nThe Mona Lisa is one of the most famous paintings in the
+world. It is a portrait of a woman, and it is believed to be a self-portrait of the artist, Leonardo
+da Vinci. The painting is said to be a masterpiece of Renaissance art, and it is one'",Mona Lisa کی کہانی کیا ہے ؟ Mona Lisa دنیا بھر میں سب سے زیادہ مشہور پینٹنگز میں سے ایک ہے ۔ یہ ایک عورت کا تصویر ہے ، اور اس کا تعلق فنکار Leonardo da Vinci کی ذاتی تصویر سے ہے ۔ یہ پینٹنگ Renaissance آرٹ کی ایک عظیم کاری ہے ، اور یہ ایک عظیم کار ہے ۔
+Query 34,'ماحولیاتی نظام توازن کو کیسے برقرار رکھتا ہے؟','How do ecosystems maintain balance?',"' (چھوٹا سا سوال)\nماحولیاتی نظام توازن کو کیسے برقرار رکھتا ہے؟ (چھوٹا سا سوال)\nماحولیاتی نظام
+توازن کو کیسے برقرار رکھتا'","' (A) The environment is maintained by the balance of the ecosystem. (B) The environment is
+maintained by the balance of the ecosystem. (C) The environment is maintained by the balance of the
+ecosystem. (D) The environment is maintained by the balance of the ecosystem.\nThe environment is
+maintained by the balance of'",ماحولیات کو ماحولیاتی نظام میں پائیداری حاصل ہوتی ہے ۔ ماحولیاتی نظام کو پائیداری حاصل ہوتی ہے ۔ ماحولیاتی نظام کو پائیداری حاصل ہوتی ہے ۔ ماحولیاتی نظام کو پائیداری حاصل ہوتی ہے ۔ ماحول کو پائیداری حاصل ہوتی ہے ۔ ماحول کو پائیداری حاصل ہوتی ہے ۔
+Query 35,'کیا آپ کچھ ابتدائی دوستانہ کوڈنگ پروجیکٹس کی سفارش کرسکتے ہیں؟','Can you recommend some beginner-friendly coding projects?',"'\n\nہم آپ کو ایک ایسا پروجیکٹ پیش کرتے ہیں جس کے ذریعے آپ اپنے دوستانہ کوڈنگ پروجیکٹس کو بہتر
+بناسکتے'","' I want to share some of my first coding projects with my friends. What do you suggest?\nI want to
+share some of my first coding projects with my friends. What do you suggest?\nI want to share some
+of my first coding projects with my friends. What do you suggest?\nI want to share some of my'",میں اپنے پہلے کوڈنگ پروجیکٹس اپنے دوستوں کے ساتھ شیئر کرنا چاہتا ہوں ۔ آپ کیا مشورہ دیتے ہیں ؟ میں اپنے پہلے کوڈنگ پروجیکٹس اپنے دوستوں کے ساتھ شیئر کرنا چاہتا ہوں ، آپ کیا مشورہ دیتے ہیں ؟ میں اپنے پہلے کوڈنگ پروجیکٹس اپنے دوستوں کے ساتھ شیئر کرنا چاہتا ہوں ، آپ کیا مشورہ دیتے ہیں ؟ میں اپنے پہلے کوڈنگ پروجیکٹس
+Query 36,'حیاتیاتی تنوع کی کیا اہمیت ہے؟',"""What's the importance of biodiversity?""","' | What is the importance of biological diversity?\nحیاتیاتی تنوع کی کیا اہمیت ہے؟ | What is the
+importance of biological diversity?\nحیاتیاتی تنوع کی کیا اہمیت ہے؟ | What is the importance of
+biological diversity'","' What is the importance of biological diversity?\nThe importance of biological diversity is that it
+provides a variety of food and shelter to the living beings. It also provides a variety of medicines
+to the living beings. It also provides a variety of raw materials to the living beings. It also
+provides a variety of raw materials to the living'",حیاتیاتی تنوع کی اہمیت کیا ہے ؟ حیاتیاتی تنوع کی اہمیت یہ ہے کہ یہ حیاتیاتی تنوع کو خوراک اور پناہ گاہ فراہم کرتا ہے ، یہ حیاتیاتی تنوع کو ادویات بھی فراہم کرتا ہے ، یہ حیاتیاتی تنوع کو خام مواد بھی فراہم کرتا ہے ،
+Query 37,'فخر اور تعصب کا بنیادی پلاٹ کیا ہے؟',"""What's the main plot of Pride and Prejudice?""","' (پہلا حصہ)\nفخر اور تعصب کا بنیادی پلاٹ کیا ہے؟ (پہلا حصہ)\nفخر اور تعصب کا بنیادی پلاٹ کیا ہے؟
+(پہ'","' (Part 2)\nIn the previous post, I discussed the basic plot of pride and prejudice. In this post, I
+will discuss the basic plot of prejudice and prejudice. The basic plot of prejudice and prejudice is
+that the protagonist is a person who is prejudiced against a particular group of people. The
+protagonist is usually'",(پہلا حصہ ) گزشتہ پوسٹ میں میں فخر اور نفرت کی بنیادی کہانی پر تبادلہ خیال کیا گیا تھا ۔ اس پوسٹ میں میں نفرت اور نفرت کی بنیادی کہانی پر تبادلہ خیال کیا جائے گا ۔
+Query 38,'کیا آپ بگ بینگ تھیوری کو آسان الفاظ میں بیان کرسکتے ہیں؟','Can you explain the Big Bang Theory in simple terms?',"' آپ کے خیال میں اس تھیوری کے بارے میں کیا کیا کہا جاتا ہے؟\nBing Theory is a theory that states
+that the universe is made up of a single, infinite, and eternal entity called'","' What is the meaning of Big Bang Theory in English? What is the meaning of Big Bang Theory in
+English? What is the meaning of Big Bang Theory in English? What is the meaning of Big Bang Theory
+in English? What is the meaning of Big Bang Theory in English? What is the meaning of Big Bang
+Theory in'",انگریزی میں Big Bang theory کا کیا معنی ہے ؟ انگریزی میں Big Bang theory کا کیا معنی ؟ انگریزی میں Big Bang theory کا کیا معنی ؟
+Query 39,'ذہنی صحت کو فروغ دینے کے کچھ طریقے کیا ہیں؟','What are some ways to promote mental health?',"' - Mental Health\nذہنی صحت کو فروغ دینے کے کچھ طریقے کیا ہیں؟\nMental health is a state of well-
+being in which an individual realizes his or her own abilities, can cope with the normal stresses of
+life, can'","' How to promote mental health?\nMental health is a state of well-being in which an individual
+realizes his or her own abilities, can cope with the normal stresses of life, can work productively
+and is able to make a contribution to his or her community. Mental health is a state of complete
+physical, mental and social'",دماغی صحت کو فروغ دینا کیا ہے ؟ دماغی صحت ایک ایسی حالت کی ہے جس میں کوئی شخص اپنی صلاحیتوں کو تسلیم کر لے ، زندگی کے معمول کے دباؤ سے نمٹ سکتا ہے ، محنتی طریقے سے کام کر سکتا ہے اور اپنی برادری میں تعاون کر سکتا ہے ۔ دماغی صحت مکمل جسمانی ، دماغی اور سماجی صحت کی حیثیت رکھتی ہے ۔
+Query 40,'اولمپک کھیلوں کی تاریخ کیا ہے؟',"""What's the history of the Olympic Games?""",' کون سے ملک نے پہلی بار اولمپک کھیلوں میں حصہ لیا؟ کون سے ملک نے پہلی بار اولمپک کھیلوں میں طلائی',"' What is the history of the Olympic Games?\nThe first modern Olympic Games were held in Athens,
+Greece, in 1896. The Games were created by Pierre de Coubertin, a French educator and historian, who
+wanted to revive the ancient Olympic Games. The Games were originally intended to be held every four
+years'",نئی دہلی ، ؍ اکتوبر ، پہلے جدید اولمپکس 1896 میں ایتھنس میں منعقد ہوئے تھے ۔ یہ اولمپکس تھے جو ایک فرانسیسی ماہر تعلیم اور مورخ Pierre de Cobertین نے پیدا کئے تھے ، جو قدیم اولمپکس کو بحال کرنا چاہتے تھے ۔ یہ اولمپکس سال میں منعقد کئے جانے کا ارادہ تھا ۔
+Query 41,'اسٹاک مارکیٹوں میں اتار چڑھاؤ کیسے ہوتا ہے؟','How do stock markets fluctuate?',' اسٹاک مارکیٹوں میں اتار چڑھاؤ کیسے ہوتا ہے؟ اسٹاک مارکیٹوں میں اتار چڑھاؤ کیسے ہوتا',"' What is the cause of the rise in stock markets?\nThe stock market is a place where people buy and
+sell shares of companies. The stock market is a place where people buy and sell shares of companies.
+The stock market is a place where people buy and sell shares of companies. The stock market is a
+place where people'",اسٹاک مارکیٹ میں اضافے کا سبب کیا ہے ؟ اسٹاک مارکیٹ ایک ایسی جگہ ہے جہاں لوگ کمپنیوں کے حصص خریدتے اور فروخت کرتے ہیں ۔ اسٹاک مارکیٹ ایک ایسی جگہ ہے جہاں لوگ کمپنیوں کے حصص خریدتے اور فروخت کرتے ہیں ۔ اسٹاک مارکیٹ ایک ایسی جگہ ہے جہاں لوگ
+Query 42,'قابل تجدید توانائی کی کچھ عام قسمیں کیا ہیں؟','What are some common types of renewable energy?',"' - 2021\nقابل تجدید توانائی کی کچھ عام قسمیں کیا ہیں؟ - 2021\nقابل تجدید توانائی کی کچھ عام قسمیں
+کیا ہیں؟ - 2021\nق'","' What are some common ways to regain strength?\nThe following are some common ways to regain
+strength:\n1. Rest and recovery: It is important to allow your body to rest and recover after an
+injury or illness. This may involve taking time off from physical activity or limiting your activity
+level.\n2. Physical therapy: Physical therapy'",قوت پیدا کرنے کے کچھ عام طریقے کیا ہیں ؟ قوت پیدا کرنے کے کچھ عام طریقے مندرجہ ذیل ہیں : ۔ آرام اور بحالی : آپ کے جسم کو آرام اور بحالی کی اجازت دینا اہم ہے ۔ یہ ممکن ہے کہ اس میں جسمانی سرگرمی سے باہر نکلنا یا اس کی سطح کو کم کرنا شامل ہو ۔ ۔ ۔ ۔.....
+Query 43,'کیا آپ صحت مند کھانے کے لئے کچھ نکات فراہم کرسکتے ہیں؟','Can you provide some tips for healthy eating?',' ہم نے آپ کے لئے ایک گائیڈ کیا ہے\nکیا آپ صحت مند کھانے کے لئے کچھ نکات فراہم کرسکتے ',"' What are some tips for healthy eating?\nWhat are some tips for healthy eating?\nWhat are some tips
+for healthy eating? What are some tips for healthy eating? What are some tips for healthy eating?
+What are some tips for healthy eating? What are some tips for healthy eating? What are some tips for
+healthy eating?'",صحت مند کھانے کے لئے چند نکات ہیں ؟ صحت مند کھانے کے لئے چند نکات ہیں ؟ صحت مند کھانے کے لیے چند نکات ہیں ؟ صحت مند کھانے کے لیے چند نکات ہیں ؟ صحت مند کھانے کے لیے چند نکات ہیں ؟ صحت مند کھانے کے لیے چند نکات ہیں ؟
+Query 44,'پنرجہرن نے یورپ کو کیسے بدلا؟','How did the Renaissance change Europe?',' (پہلا حصہ)\nپنرجہرن نے یورپ کو کیسے بدلا؟ (پہلا حصہ)\nپنرجہرن نے یورپ کو کیسے بدلا؟ (پہ',"' (The European Union)\nThe European Union is a political and economic union of 27 member states
+that are located primarily in Europe. Its members have a combined area of 4,233,262 km2 (1,634,267
+sq mi) and an estimated total population of about 510 million. The EU has'","( یوروپی یونین ) یوروپی یونین ایک سیاسی اور اقتصادی یونین ہے جس کے ارکان بنیادی طور پر یورپ میں واقع ہیں ۔ اس کے ارکان کے پاس,233,262 کلومیٹر ( ) کا مشترکہ رقبہ ہے اور تقریباً 510 ملین کی مجموعی آبادی ہے ۔ یوروپی یونین کے رکن ممالک کی مجموعی آبادی,, ملین ہے ۔"
+Query 45,'صحت کی دیکھ بھال میں اے آئی کا کیا کردار ہے؟',"""What's the role of AI in healthcare?""","' (A.I. Role in Health Care)\nصحت کی دیکھ بھال میں اے آئی کا کیا کردار ہے؟ (A.I. Role in Health
+Care)\nصحت کی دیکھ بھال میں اے آ'","' What is the role of AAI in health care?\nThe AAI is a non-profit organization that works to
+improve the health and well-being of the people of Pakistan. The AAI was established in 1992 and is
+headquartered in Islamabad. The AAI has a number of programs and projects that work to improve the'",صحت کی دیکھ بھال میں اے آئی اے کا کردار کیا ہے ؟ اے آئی اے ایک غیر منافع بخش تنظیم ہے جو پاکستان کے لوگوں کی صحت اور خیروعافیت کو بہتر بنانے کے لئے کام کرتی ہے ۔ اے آئی اے کا قیام 1992 میں ہوا اور اس کا مرکزی دفتر اسلام آباد میں ہے ۔ اے آئی اے کے متعدد پروگراموں اور پروجیکٹوں پر عمل کیا جاتا ہے ۔
+Query 46,'کلاؤڈ کمپیوٹنگ کیسے کام کرتی ہے؟','How does cloud computing work?',' اور اس کے فوائد کیا ہیں؟\nکلاؤڈ کمپیوٹنگ کیسے کام کرتی ہے؟ اور اس کے فوائد کیا ہیں؟\nکلاؤڈ کمپی',"' (How does cloud computing work?)\nCloud computing is a type of computing that relies on sharing
+computing resources rather than having local servers or personal devices to handle applications.
+Cloud computing is a type of distributed computing, whereby shared resources, software, and
+information are provided to computers and other devices on demand, as opposed to a client'",( کس طرح بابل computing کام کرتا ہے ؟ ) بابل computing ایک قسم کی computing ہے جس میں مقامی سرور یا ذاتی آلات کے ذریعہ ایپلی کیشن کو سنبھالنے کے لئے باہمی طاقتوں کا تبادلہ ہوتا ہے ۔ بابل computing ایک تقسیم شدہ computing ہے جس میں باہمی وسائل ، سافٹ ویئر اور معلومات طلبی کی صورت میں کمپیوٹروں اور دیگر آلات کو فراہم کی جاتی ہیں ۔
+Query 47,'مشہور سمفونیوں کی کچھ مثالیں کیا ہیں؟','What are some examples of famous symphonies?',"""\n1. Beethoven's Fifth Symphony\n2. Beethoven's Ninth Symphony\n3. Brahms's First Symphony\n4.
+Brahms's Second Symphony\n5. Brahms's Third Symphony\n6. Brahms's Fourth Symphony\n7. Brahms's Fifth
+Symphony\n8. Brahms's Sixth Symphony""","' (Some examples of famous symphonies)\nThe symphony is a musical composition with a large
+orchestra. It is a musical form that is usually in four movements. The symphony is a very popular
+musical form. It is a very popular musical form. It is a very popular musical form. It is a very
+popular'",( مشہور سمفونیوں کی کچھ مثالیں ) سمفونی ایک سمفونی ہے جو ایک بڑے اورج کے ساتھ تیار کیا جاتا ہے ۔ یہ ایک سمفونی ہے جو معمولاً چار حرکتوں میں ہوتا ہے ۔ سمفونی ایک بہت ہی مقبول سمفونی ہے ۔ یہ ایک بہت ہی مقبول سمفونی ہے
+Query 48,'کیا آپ گرج چمک کے پیچھے سائنس کی وضاحت کرسکتے ہیں؟','Can you explain the science behind thunderstorms?',' - ہم نے اس کے بارے میں کیا کیا ہے\nکیا آپ گرج چمک کے پیچھے سائنس کی وضاحت کرسکتے ہیں؟ - ',"' (With Pictures)\nThe aurora borealis, or northern lights, is a natural phenomenon that occurs when
+charged particles from the sun interact with the Earth’s magnetic field. The aurora borealis is a
+beautiful sight to see, but many people wonder if there is a scientific explanation for it. In this
+blog post,'",( تصاویر کے ساتھ ) aurora borealis یا شمالی روشنی ایک قدرتی حقیقت ہے جو جب سورج کی جانب سے chargeڈ particles سے زمین کے مقناطیسی میدان کے ساتھ ملاپ کرتے ہیں ۔ یہ ایک خوبصورت منظر ہے دیکھنے کے لئے لیکن بہت سے لوگ یہ تعجب کرتے ہیں کہ کیا اس کے لئے سائنسی وضاحت ہے ۔
+Query 49,'اسٹرنگ تھیوری کیا ہے؟','What is string theory?',"' اسٹرنگ تھیوری کے بارے میں معلومات\nاسٹرنگ تھیوری کیا ہے؟ اسٹرنگ تھیوری کے بارے میں معلومات\nاسٹرنگ
+تھیوری کیا'","' What is String Theory?\nString theory is a theory in physics that attempts to explain all the
+forces of nature as different manifestations of a single force. It is a theory of everything. It is
+a theory of everything. It is a theory of everything. It is a theory of everything. It is a theory
+of everything.'",String تھیوری کیا ہے ؟ String تھیوری physics میں ایک تھیوری ہے جو فطرت کی تمام قوتوں کو ایک ہی قوت کے طور پر مختلف طور پر بیان کرنے کی کوشش کرتی ہے ۔ یہ ہر چیز کی ایک تھیوری ہے ۔ یہ ہر چیز کی ایک تھیوری ہے ۔ یہ ہر چیز کی ایک تھیوری ہے ۔
+Query 50,'مٹی کا کٹاؤ زراعت پر کیا اثر ڈالتا ہے؟','How does soil erosion affect agriculture?',"' کیا مٹی کا کٹاؤ زراعت پر کیا اثر ڈالتا ہے؟ کیا مٹی کا کٹاؤ زراعت پر کیا اثر ڈالتا ہے؟ کیا مٹی کا
+ک'","' (Part 1)\nThe soil is the most important natural resource for the growth of plants. It is the
+basis of agriculture and the main source of food for the world’s population. The soil is a complex
+system of living and non-living components. It is a dynamic system that is constantly changing. The
+soil is'",فصلوں کی نمو کے لئے زمین کا سب سے اہم قدرتی وسائل میں سے ایک ہے ، یہ زراعت کی بنیاد ہے اور دنیا کی آبادی کے لئے خوراک کا اہم وسیلہ ہے ۔ زمین کا نظام حیات اور غیر حیاتیاتی عناصر کا ایک پیچھا نظام ہے ، یہ بدلتا ہوا نظام ہے ۔
+Query 51,'کیا آپ تاریخ کے بارے میں جاننے کے لئے کتابوں کی ایک فہرست تجویز کرسکتے ہیں؟','Can you suggest a list of books to learn about history?',"' ہم آپ کو یہ فہرست پیش کرتے ہیں جو تاریخ کے بارے میں کتابیں ہیں۔\n1. The Story of Civilization: The
+Reformation\n2. The Story'","' I am looking for a list of books on history. I am looking for a list of books on history. I am
+looking for a list of books on history. I am looking for a list of books on history. I am looking
+for a list of books on history. I am looking for a list of books on'",تاریخ پر کتابوں کی ایک فہرست تلاش کرنا ۔ تاریخ پر کتابوں کی ایک فہرست تلاش کرنا ۔ تاریخ پر کتابوں کی ایک فہرست تلاش کرنا ۔ تاریخ پر کتابوں کی ایک فہرست تلاش کرنا ۔ تاریخ پر کتابوں کی ایک فہرست تلاش کرنا ۔
+Query 52,'تعلقات میں ہمدردی کی کیا اہمیت ہے؟',"""What's the importance of empathy in relationships?""",'\nتعلقات میں ہمدردی کی کیا اہمیت ہے؟\nتعلقات میں ہمدردی کی کیا اہمیت ہے؟\nتعلقات میں ہمدرد',"' (Part 2)\nIn the previous post, we discussed the importance of sympathy in relationships. In this
+post, we will discuss the importance of empathy in relationships.\nEmpathy is the ability to
+understand and share the feelings of another person. It is the ability to put oneself in another
+person’s shoes and understand their perspective'",(پہلا حصہ ) گزشتہ مقالہ میں ہم نے تعلقات میں ہمدردی کی اہمیت پر تبادلہ خیال کیا تھا ۔ اس مقالہ میں ہم تعلقات میں ہمدردی کی اہمیت پر تبادلہ خیال کریں گے ۔ ہمدردی ایک دوسرے کے جذبات کو سمجھنے اور ان کے تئیں غور کرنے کی صلاحیت ہے ۔ یہ ایک دوسرے کی جُوتیوں میں اپنے آپ کو ڈالنے اور ان کے نقطہ نظر کو سمجھنے کی صلاحیت ہے ۔
+Query 53,'گردشی نظام کیسے کام کرتا ہے؟','How does the circulatory system function?',"' (How does the system work?)\nThe system is a set of rules that govern the way the world works. It
+is a set of principles that are used to make decisions and to solve problems. The system is a set of
+rules that govern the way the world works. It is a set of principles that are used to'","' What is the working of the system of the circle?\nThe circle is a closed curve which is formed by
+the set of points which are equidistant from a fixed point called the centre of the circle. The
+fixed point is called the centre of the circle and the distance of the points from the centre is
+called the radius'",کُلڑی کا نظام کیا ہے ؟ کُلڑی ایک کھلی کُلڑی ہے جو نقطوں سے تشکیل دی جاتی ہے جو ایک مقررہ نقطہ سے مساوی ہیں جسے کُلڑی کا مرکز کہا جاتا ہے ۔ یہ مقررہ نقطہ کُلڑی کا مرکز کہلاتا ہے اور نقطوں کی مرکز سے فاصلہ ریڈیوس کہلاتا ہے
+Query 54,'سمندری زندگی پر آلودگی کا کیا اثر ہے؟',"""What's the impact of pollution on marine life?""","' - ہفتہ\nسمندری زندگی پر آلودگی کا کیا اثر ہے؟ - ہفتہ\nسمندری زندگی پر آلودگی کا کیا اثر ہے؟ -
+ہفتہ\nسمند'","' – The Guardian\nThe Guardianسمندری زندگی پر آلودگی کا کیا اثر ہے?The GuardianThe Guardian – The
+Guardian\nThe Guardian – The Guardian\nThe Guardian – The Guardian\nThe Guardian – The Guardian\nThe
+Guardian – The Guardian\nThe Guardian – The Guardian\nThe'",، ، ، ، ، ، ،سمندری زندگی پر آلودگی کا کیا اثر ہے ؟ ، ، ، ، ، ، ، ، ، ، ، ، ، ، ، ، ، ، ، ، ، ، ، ، ،
+Query 55,'عالمگیریت سے مقامی معیشتوں پر کیا اثر پڑتا ہے؟','How does globalization affect local economies?',"'\nعالمگیریت سے مقامی معیشتوں پر کیا اثر پڑتا ہے؟\nعالمگیریت سے مقامی معیشتوں پر کیا اثر پڑتا ہے؟ ہم
+ن�'","' (Worldization and Local Economies)\nThe paper examines the impact of globalization on local
+economies. The paper argues that globalization has a negative impact on local economies. The paper
+argues that globalization has a negative impact on local economies. The paper argues that
+globalization has a negative impact on local economies. The paper argues that globalization has'",( عالمی نظام اور مقامی معیشت ) پیپر نے مقامی معیشت پر عالمی نظام کے اثرات کا جائزہ لیا ہے ۔ پیپر کا خیال ہے کہ عالمی نظام نے مقامی معیشت پر منفی اثرات مرتب کئے ہیں ۔ پیپر کا خیال ہے کہ عالمی نظام نے مقامی معیشت پر منفی اثرات مرتب کئے ہیں ۔ پیپر کا خیال ہے کہ عالمی نظام نے مقامی معیشت پر منفی اثرات مرتب کئے ہیں ۔
+Query 56,'کیا آپ Android اور iOS کے مابین اختلافات کی وضاحت کرسکتے ہیں؟','Can you explain the differences between Android and iOS?',"' آپ کے خیال میں کیا Android اور iOS کے مابین کوئی فرق ہے؟ آپ کے خیال میں کیا Android اور iOS کے
+مابین کوئی فرق ہے؟'","' What are the differences between Android and iOS?\nWhat are the differences between Android and
+iOS?\nWhat are the differences between Android and iOS?\nWhat are the differences between Android
+and iOS?\nWhat are the differences between Android and iOS?\nWhat are the differences between
+Android and iOS?\nWhat are the differences between Android and iOS?\nWhat'",Android اور iOS کے درمیان کیا فرق ہے ؟Android اور iOS کے درمیان کیا فرق ہے ؟Android اور iOS کے درمیان کیا فرق ہے ؟Android اور iOS کے درمیان کیا فرق ہے ؟Android اور iOS کے درمیان کیا فرق ہے ؟Android اور iOS کے درمیان کیا فرق ہے ؟
+Query 57,'جسم میں خامروں کا کیا کردار ہے؟',"""What's the role of enzymes in the body?""",' جو کچھ ہے وہ یہ ہے کہ وہ ہر جسم میں موجود ہوتے ہیں اور ان کا کام ہے کہ و�',"' What is the role of white blood cells in the body?\nThe white blood cells are the most important
+part of the immune system. They are the first line of defense against infection and disease. They
+are also responsible for fighting off cancer cells and other harmful substances in the body.\nThe
+white blood cells are the most important part'",بدن میں سفید خون والے خلا کا کردار کیا ہے ؟ سفید خون والے خلا قوت مدافعت کے نظام کا سب سے بڑا حصہ ہیں ، وہ بیماریوں اور ان سے لڑنے کے لئے پہلے دفاع کا حصہ ہیں ، جسم میں کینسر اور دیگر مضر مادوں سے لڑنے کے لئے بھی ذمہ دار ہیں ۔ سفید خون والے خلا سب سے اہم حصہ ہے ۔
+Query 58,'جین میں ترمیم کیسے کام کرتی ہے؟','How does gene editing work?',' جین میں ترمیم کیسے کام کرتی ہے؟ جین میں ترمیم کیسے کام کرتی ہے؟ جین میں ترمیم کیسے کام کرتی ہے؟ ج',"' What is gene editing?\nGene editing is a new technology that allows scientists to change the DNA
+of living cells. This can be done in a number of ways, but the most common method is called CRISPR-
+Cas9. CRISPR-Cas9 is a type of gene editing tool that uses a protein called'",جین ایڈیٹنگ کیا ہے ؟ جین ایڈیٹنگ ایک نئی ٹیکنالوجی ہے ، جس کے ذریعے سائنس دانوں نے حیاتیاتی سیالوں کے ڈیج کو تبدیل کیا جا سکتا ہے ۔ یہ کئی طریقوں سے کیا جا سکتا ہے ، لیکن سب سے عام طریقہ CRIS آر پی سی اے ایس ۔
+Query 59,'آب و ہوا کی تبدیلی کی بڑی وجوہات کیا ہیں؟','What are the major causes of climate change?',"' - ہندوستان میں پانی کی کمی کے بارے میں کیا کیا جائے؟\nآب و ہوا کی تبدیلی کی بڑی وجوہات کیا ہیں؟ -
+�'","' What are the main causes of climate change?\nThe main causes of climate change are the burning of
+fossil fuels, deforestation, and the release of greenhouse gases into the atmosphere. These factors
+have led to an increase in the Earth’s temperature, which has caused changes in weather patterns and
+sea levels.\nThe burning of fossil fuels'",موسمیاتی تبدیلی کے اہم اسباب کیا ہیں ؟ موسمیاتی تبدیلی کے اہم اسباب فسیل ایندھنوں کو جلانے ، جنگل بانی اور گرین ہاؤس گیسوں کو ماحولیات میں بھیجنے ہیں ۔ ان اسباب کے نتیجے میں زمین کی درجہ حرارت میں اضافہ ہوا ہے جس نے موسمیاتی صورت حال اور سمندری سطحوں میں تبدیلی پیدا کی ہے ۔ فسیل ایندھنوں کو جلانے سے سمندری سطحوں میں بھی تبدیلی پیدا ہوئی ہے ۔
+Query 60,'ارتقائی حیاتیات کے پیچھے نظریہ کیا ہے؟',"""What's the theory behind evolutionary biology?""","'\n\nارتقائی حیاتیات کے پیچھے نظریہ کیا ہے؟\n\nارتقائی حیاتیات کے پیچھے نظریہ کیا ہے؟\n\nارتقائی
+حیاتیات کے پیچھے'","' What is the theory behind evolutionary biology?\nThe theory of evolution is the idea that all
+living things are related and have descended from a common ancestor. This theory is based on the
+evidence of fossils, DNA, and other biological evidence. The theory of evolution is supported by
+many scientists and is accepted by most people.\nThe theory'",ایبلیشنری بایولوجی کے پیچھے کیا نظریات ہیں ؟ ایبلیشنری بایولوجی کا نظریاتی تصور یہ ہے کہ تمام زندہ جاندار ایک ہی نسل سے جڑے ہوئے ہیں ۔ یہ نظریاتی تصور fosilوں ، ڈینائس اور دیگر بایولوجیاتی ثبوتوں پر مبنی ہے ۔ اس theory کو بہت سے سائنسدانوں کی طرف سے حمایت ہوتی ہے اور اسے اکثر لوگ قبول کرتے ہیں ۔
+Query 61,'کیا آپ وضاحت کرسکتے ہیں کہ زندگی کے لئے فوٹو سنتھیس کس طرح ضروری ہے؟','Can you explain how photosynthesis is essential for life?',' ہم نے اس کے بارے میں کچھ تحقیق کی ہے اور اس کے بارے میں کچھ کچھ کچھ کچھ کچھ کچھ کچھ کچھ ک',"' I’m not sure if you’re aware of this, but there are a lot of people who are not aware of the fact
+that there are a lot of people who are not aware of the fact that there are a lot of people who are
+not aware of the fact that there are a lot of people who are not aware'",مجھے یقین نہیں ہے کہ آپ اس بات سے واقف ہیں ، لیکن بہت سے لوگ اس بات سے واقف نہیں ہیں کہ بہت سے لوگ اس بات سے واقف نہیں ہیں کہ بہت سے لوگ اس بات سے واقف نہیں ہیں کہ بہت سے لوگ اس بات سے واقف نہیں ہیں کہ بہت سے لوگ اس بات سے واقف نہیں ہیں
+Query 62,'جاز میوزک کی تاریخ کیا ہے؟',"""What's the history of jazz music?""","' جاز میوزک کی تاریخ کیا ہے؟\nجاز میوزک کی تاریخ کیا ہے؟ جاز میوزک کی تاریخ کیا ہے؟\nجاز میوزک کی
+تاریخ کیا ہے؟ جاز میوز'","' What is the history of Jazz Music?\nJazz music is a type of music that originated in the African-
+American communities of New Orleans, Louisiana, United States. It developed from a confluence of
+African and European music traditions, most notably the blues and ragtime, and was influenced by
+African rhythms and brass bands. Jazz'",Jazz موسیقی کی تاریخ کیا ہے ؟ Jazz موسیقی ایک قسم کی موسیقی ہے ، جو Orleans ، Louisiana ، United States کی نسلوں میں سے African اور یوروپی موسیقی کی روایتوں ، خاص طور پر بلس اور راڈ ٹائم سے پیدا ہوئی تھی اور اس میں African ریک اور پینس بینڈ کا اثر تھا ۔
+Query 63,'پودے اپنے ماحول کے مطابق کیسے ڈھالتے ہیں؟','How do plants adapt to their environment?',"' (How do plants adapt to their environment?)\nپودے اپنے ماحول کے مطابق کیسے ڈھالتے ہیں؟ (How do
+plants adapt to their environment?)\nپودے اپنے ماحول ک'","' (How do plants adapt to their environment?)\nپودے اپنے ماحول کے مطابق کیسے ڈھالتے ہیں? (How do
+plants adapt to their environment?)\nپودے اپنے ماحول ک'",پودے اپنے ماحول کے مطابق کیسے ڈھلتے ہیں ؟ پودے اپنے ماحول کو کیسے بدلتے ہیں ؟
+Query 64,'قائل کرنے کے پیچھے نفسیات کیا ہے؟',"""What's the psychology behind persuasion?""","' نفسیات کے بارے میں معلومات حاصل کرنے کے لیے یہاں کلک کریں\nقائل کرنے کے پیچھے نفسیات کیا ہے؟
+نفسیات ک'","' What is psychology behind saying yes?\nWhat is psychology behind saying yes?\nWhat is psychology
+behind saying yes? What is psychology behind saying yes? What is psychology behind saying yes? What
+is psychology behind saying yes? What is psychology behind saying yes? What is psychology behind
+saying yes? What is psychology behind saying yes? What'",مثبت جواب دینے کے بعد کیا نفسیات ہے ؟ مثبت جواب دینے کے بعد کیا نفسیات ہے ؟ مثبت جواب دینے کے بعد کیا نفسیات ہے ؟ مثبت جواب دینے کے بعد کیا نفسیات ہے ؟ مثبت جواب دینے کے بعد کیا نفسیات ہے ؟ مثبت جواب دینے کے بعد کیا نفسیات ہے ؟
+Query 65,'کیا آپ سپلائی اور طلب کے تصور کی وضاحت کرسکتے ہیں؟','Can you explain the concept of supply and demand?',"' کیا آپ اسے ایک ایسے تصور کے طور پر دیکھ سکتے ہیں جس میں طلب اور سپلائی کے درمیان ایک تعلق ہو؟ کیا
+آپ اسے'","' What is the difference between supply and demand?\nWhat is the difference between supply and
+demand?\nSupply and demand are two important economic concepts that determine the price of a good or
+service in the market. Supply refers to the amount of a good or service that is available for sale
+at a given price, while demand refers to the'",سپلائی اور مانگ میں کیا فرق ہے ؟ سپلائی اور مانگ میں کیا فرق ہے ؟ سپلائی اور مانگ دو اہم اقتصادی تصورات ہیں جو مارکیٹ میں کسی سامان یا خدمات کی قیمت کا تعین کرتے ہیں ۔
+Query 66,'دماغ کی زبان کس طرح پروسیس کرتی ہے؟','How does the brain process language?',"' (How does the brain process language?)\nدماغ کی زبان کس طرح پروسیس کرتی ہے؟ (How does the brain
+process language?)\nدماغ کی زبان کس طرح پروسیس کرتی ہے؟ (How does the brain process language?)\nدماغ
+کی زبان'","' What is the process of brain language?\nThe brain is a complex organ that is responsible for a
+wide range of functions, including language. The process of brain language is a complex and
+intricate system that involves a number of different areas of the brain. The language areas of the
+brain are located in the left hemisphere of the brain'",دماغی زبان کا عمل کیا ہے ؟ دماغ ایک پیچیدہ اعضاء ہے ، جو زبان سمیت مختلف قسم کے کاموں کے ذمہ دار ہیں ۔ دماغی زبان کا عمل ایک پیچیدہ نظام ہے ، جس میں دماغ کے مختلف اعضاء کا تبادلہ ہوتا ہے ۔ دماغی اعضاء کی زبانیں دماغ کے بائیں جانب واقع ہیں ۔
+Query 67,'الزائمر کی بیماری کی اہم علامات کیا ہیں؟',"""What are the main symptoms of Alzheimer's disease?""","' (Zamir Ki Bimari Ki Ahem Alamat Kya Hain?)\nZamir Ki Bimari Ki Ahem Alamat Kya Hain?\nZamir Ki
+Bimari Ki Ahem Alamat Kya Hain? Zamir Ki Bimari Ki Ahem Alamat K'","' What are the main symptoms of Zymaster disease?\nThe main symptoms of Zymaster disease are:\n1.
+The patient has a history of recurrent infections.\n2. The patient has a history of recurrent skin
+infections.\n3. The patient has a history of recurrent respiratory infections.\n4. The patient has a
+history of'",Zymaster بیماری کی اہم علامات کیا ہیں ؟ Zymaster بیماری کی اہم علامات درج ذیل ہیں ۔
+Query 68,'صنعتی انقلاب کی کیا اہمیت ہے؟',"""What's the significance of the Industrial Revolution?""","' (صنعتی انقلاب کی کیا اہمیت ہے؟)\nصنعتی انقلاب کی کیا اہمیت ہے؟ (صنعتی انقلاب کی کیا اہمیت
+ہے؟)\nصنعتی انقلاب کی ک'","' What is the importance of Industrial Revolution?\nThe Industrial Revolution was a period of great
+change in the way people worked and lived. It began in Britain in the late 1700s and spread to other
+countries in Europe and North America. The Industrial Revolution was a time of great change in the
+way people worked and lived.'",صنعتی انقلاب کی اہمیت کیا ہے ؟ صنعتی انقلاب لوگوں کے کام کرنے اور زندگی گزارنے کے طریقے میں بڑی تبدیلی کا دور تھا ۔ یہ کا آغاز برطانیہ میں سال 1700 میں ہوا اور اس کا پھیلاؤ یوروپ اور شمال مشرق میں دیگر ممالک میں ہوا ۔ صنعتی انقلاب لوگوں کے کام کرنے اور زندگی گزارنے کے طریقے میں بڑی تبدیلی کا دور تھا ۔
+Query 69,'چھوٹے کاروبار کو شروع کرنے کے بنیادی اقدامات کیا ہیں؟','What are the basic steps to starting a small business?',"' (Small Business Startup Steps)\nچھوٹے کاروبار کو شروع کرنے کے بنیادی اقدامات کیا ہیں؟ (Small
+Business Startup Steps)\nچھوٹے کاروبار کو شروع کرنے کے بنی'","' How to Start a Small Business?\nHow to Start a Small Business? Small business is a business that
+is owned and operated by a single person or a small group of people. It is a type of business that
+is not large enough to be considered a corporation or a partnership. Small businesses are often
+started by individuals who have'",چھوٹے کاروبار کیسے شروع کریں ؟ چھوٹے کاروبار کیا ہے ؟ چھوٹے کاروبار ایک ایسا کاروبار ہے جسے ایک شخص یا ایک چھوٹے سے گروپ چلاتا ہے ۔ یہ ایسا کاروبار نہیں ہے جسے ایک کارپوریشن یا شراکت داری کے طور پر جانا جاتا ہے ۔ چھوٹے کاروبار بہت سے افراد کے ذریعے شروع کئے جاتے ہیں ، جس کا مقصد چھوٹے کاروبار کرنا ہے ۔
+Query 70,'انتہائی آب و ہوا میں جانور کیسے زندہ رہتے ہیں؟','How do animals survive in extreme climates?',"' (How do animals survive in extreme weather?)\nHow do animals survive in extreme weather?\nAnimals
+have a variety of ways to survive in extreme weather. Some animals, like polar bears, have thick fur
+to keep them warm in cold weather. Others, like desert animals, have special adaptations to survive
+in hot weather. Some'","' (How do animals survive in hot weather?)\nThe answer is that animals have special adaptations to
+survive in hot weather. These adaptations include:\n1. They have a thick coat of fur or feathers to
+protect them from the heat.\n2. They have a layer of fat under their skin to help them keep
+cool.\n3.'",( گرم موسم میں جانور کیسے رہتے ہیں ؟ ) جواب یہ ہے کہ جانوروں کے لئے گرم موسم میں رہنے کے لئے خصوصی تغیرات ہیں ۔ ان تغیرات میں درج ذیل شامل ہیں ۔
+Query 71,'ہالووین کی روایات کے پیچھے کیا تاریخ ہے؟',"""What's the history behind Halloween traditions?""","' ہالووین کی روایات کے پیچھے کیا تاریخ ہے؟\nہالووین کی روایات کے پیچھے کیا تاریخ ہے؟\nہالووین کی
+روایات کے پیچ'","' ہالووین کی روایات کے پیچھے کیا تاریخ ہے?\nThe history of Halloween is a bit of a mystery. It is a
+holiday that has been celebrated for centuries, but the exact origins of the holiday are unknown.
+Some believe that it originated from'",ہالووین کی روایات کی پیچھے کیا تاریخ ہے ؟ Halloween کی تاریخ ایک بڑا ہی راز ہے ۔ یہ ایک ایسی تہوار ہے جسے صدیوں سے منایا جاتا رہا ہے لیکن اس تہوار کی اصل تاریخ معلوم نہیں ہے ۔ کچھ لوگ یہ کہتے ہیں کہ اس کا آغاز کس وقت ہوا ؟
+Query 72,'ڈیسیلیشن کیسے کام کرتا ہے؟','How does desalination work?',"' (How does Desiccation work?)\nڈیسیلیشن کیسے کام کرتا ہے؟ (How does Desiccation work?)\nڈیسیلیشن
+کیسے کام کرتا ہے؟ (How does Desiccation work?)\n'","' What is Desensitization?\nDesensitization is a type of exposure therapy that is used to treat
+phobias and other anxiety disorders. It involves gradually exposing the person to the feared object
+or situation in a safe and controlled manner, while providing them with support and guidance. The
+goal of desensitization'",نکاسی کیا ہے ؟ نکاسی تھیراپی ایک ایسا طریقہ ہے جو خوف زدہ اشیاء یا صورتحال کو محفوظ اور کنٹرول شدہ طریقے پر ظاہر کرنے کے لئے استعمال کیا جاتا ہے اور دیگر خوف زدہ امراض کے علاج کے لئے استعمال کیا جاتا ہے ۔ نکاسی کے مقاصد :
+Query 73,'کیا آپ متواتر جدول کی اہمیت کی وضاحت کرسکتے ہیں؟','Can you explain the importance of the periodic table?',' اور کیا آپ اسے اپنے ہاں رکھتے ہیں؟ اگر ہاں تو آپ کو یہ جاننے کے لئے کچھ اور معلومات کی ضرورت',"' What is the importance of the table of contents?\nThe table of contents is a list of the main
+headings of a book or article. It is usually placed at the beginning of the book or article, and it
+tells the reader what the book or article is about. The table of contents is an important part of
+any book'",جدولِ مواد کی اہمیت کیا ہے ؟ جدولِ مواد کسی کتاب یا مضمون کی اہم مرکزیتوں کی فہرست ہے ۔ یہ معمولاً کتاب یا مضمون کے آغاز پر لگا دیا جاتا ہے اور پڑھنے والے کو یہ بتاتا ہے کہ وہ کتاب یا مضمون کیا ہے ۔ جدولِ مواد کسی کتاب کا ایک اہم حصہ ہے ۔
+Query 74,'ذاتی فنانس کے لئے کچھ حکمت عملی کیا ہیں؟','What are some strategies for personal finance?',' ہم سب کو یہ جاننا چاہیے کہ کس طرح ہم اپنے ذاتی فنانس کو بہتر بناسکتے ہیں۔\nکچھ لوگ اپن�',"' What are some strategies for personal finance?\nThe most important thing to remember when it comes
+to personal finance is that it is a long-term goal. You need to be patient and disciplined in order
+to achieve your financial goals. There are many different strategies that you can use to achieve
+your financial goals, but the most important thing'",ذاتی مالیہ کے لئے کچھ حکمت عملییں کیا ہیں ؟ ذاتی مالیہ کے لئے سب سے اہم چیز یہ ہے کہ یہ ایک طویل مدتی مقصد ہے ۔ آپ کو اپنے مالی اہداف کو حاصل کرنے کے لئے صبر کرنے اور نظم و ضبط رکھنے کی ضرورت ہے ۔
+Query 75,'مصنوعی ذہانت کس طرح دھوکہ دہی کا پتہ لگاتی ہے؟','How does artificial intelligence detect fraud?',' - ہم نے اس کے بارے میں کیا کیا؟\nمصنوعی ذہانت کس طرح دھوکہ دہی کا پتہ لگاتی ہے؟ - ہم ن',"' (Part 2)\nIn the previous post, we discussed the importance of the intellect in the spiritual
+life. We also discussed the importance of the intellect in the spiritual life. We also discussed the
+importance of the intellect in the spiritual life. We also discussed the importance of the intellect
+in the spiritual life. We also discussed'",( حصہ 2) گزشتہ پوسٹ میں ہم نے روحانی زندگی میں عقل کی اہمیت پر تبادلہ خیال کیا ۔ ہم نے عقل کی اہمیت پر بھی تبادلہ خیال کیا ۔ ہم نے عقل کی اہمیت پر بھی تبادلہ خیال کیا ۔
+Query 76,'لوسیڈ خواب دیکھنے کی سائنس کیا ہے؟',"""What's the science of lucid dreaming?""","' لوسیڈ خواب دیکھنے کی سائنس کیا ہے؟\nلوسیڈ خواب دیکھنے کی سائنس کیا ہے؟ لوسیڈ خواب دیکھنے کی سائنس
+کیا '","' What does lucid dreaming science mean?\nLucid dreaming is a state of consciousness in which a
+person is aware that they are dreaming. It is a rare and fascinating phenomenon that has been
+studied by scientists for decades. Lucid dreaming is a state of consciousness in which a person is
+aware that they are dreaming. It is'",lucid خوابی سائنس کیا ہے ؟ lucid خوابی ایک حالت ہے جس سے کوئی شخص باخبر ہو جاتا ہے کہ وہ خواب دیکھ رہا ہے ۔ یہ ایک نادر اور متاثر کن حقیقت ہے جسے سائنس دانوں نے کئی دہائیوں سے مطالعہ کیا ہے ۔ Lucid خوابی ایک حالت ہے جس سے کوئی شخص باخبر ہو جاتا ہے کہ وہ خواب دیکھ رہا ہے ۔
+Query 77,'ہیرے کیسے بنتے ہیں؟','How are diamonds formed?',' ہیرے کیسے بنتے ہیں؟ ہیرے کیسے بنتے ہیں؟ ہیرے کیسے بنتے ہیں؟ ',"' How are Hairs Grown?\nHairs are made of protein called keratin. Hairs are made of protein called
+keratin. Hairs are made of protein called keratin. Hairs are made of protein called keratin. Hairs
+are made of protein called keratin. Hairs are made of protein called'",جلدیں کیسے پیدا کی جاتی ہیں ؟ جلدوں کو پروٹین سے پیدا کیا جاتا ہے ۔ اسے پروٹین سے پیدا کیا جاتا ہے ۔ اسے پروٹین سے پیدا کیا جاتا ہے ۔ اسے پروٹین سے پیدا کیا جاتا ہے ۔ اسے پروٹین سے پیدا کیا جاتا ہے ۔
+Query 78,'کمپیوٹر کے اہم اجزاء کیا ہیں؟','What are the main components of a computer?',"' (Computer Parts)\nComputer Parts\nComputer parts are the components of a computer system. The
+computer parts are the hardware components of a computer system. The computer parts are the physical
+components of a computer system. The computer parts are the physical components of a computer
+system. The computer parts are the physical components of a computer system'","' What are the important parts of a computer?\nThe computer is a machine that can perform a variety
+of tasks. It is a combination of hardware and software. The hardware is the physical part of the
+computer, while the software is the set of instructions that tell the computer what to do. The
+computer has several important parts that'",کمپیوٹر کے اہم حصے کیا ہیں ؟ کمپیوٹر ایک ایسی مشین ہے جو مختلف قسم کے کام کر سکتی ہے ، یہ ہارڈ اور سافٹ ویئر کا ایک مجموعہ ہے ، جبکہ سافٹ ویئر کمپیوٹر کے جسمی حصہ ہے اور سافٹ ویئر کمپیوٹر کو یہ بتاتا ہے کہ کیا کر رہا ہے ۔ کمپیوٹر کے کئی اہم حصے ہیں :
+Query 79,'میوزک تھراپی سے ذہنی صحت کو کیسے فائدہ ہوتا ہے؟','How does music therapy benefit mental health?','\nمیوزک تھراپی سے ذہنی صحت کو کیسے فائدہ ہوتا ہے؟\nمیوزک تھراپی سے ذہنی صحت کو کیسے فائدہ',"' (Music Therapy and Mental Health)\nMusic therapy is a form of therapy that uses music to help
+people with mental health issues. It can be used to treat a wide range of conditions, including
+depression, anxiety, and post-traumatic stress disorder (PTSD). Music therapy can also be used to
+help people with learning disabilities'",(Music Therapy اور ذہنی صحت ) موسیقی تھیراپی ایک ایسی تھیراپی ہے جس میں موسیقی استعمال کیا جاتا ہے اور جس کا مقصد ذہنی صحت کے مسائل سے نمٹنے کے لئے موسیقی استعمال کرنا ہوتا ہے ۔ اس سے مختلف قسم کے امراض کے علاج کے لئے استعمال کی جاسکتی ہے ، جن میں ڈائیپریشن ، اندھیرا اور پس ازtraumatic stress disorder ( پی ٹی ایس ڈی ) شامل ہیں ۔ موسیقی تھیراپی معذور افراد کے لئے بھی استعمال کی جاسکتی ہے ۔
+Query 80,'بیکٹیریا اور وائرس میں کیا فرق ہے؟',"""What's the difference between bacteria and viruses?""","' - Difference between Bacteria and Virus\nبیکٹیریا اور وائرس میں کیا فرق ہے؟ - Difference between
+Bacteria and Virus\nبیکٹیریا اور وائرس میں کیا فرق ہے؟ - Difference'","' What is the difference between bacteria and viruses?\nBacteria and viruses are both
+microorganisms, but they are very different from each other. Bacteria are single-celled organisms
+that can be found in almost every environment on Earth. They are responsible for many important
+processes in nature, such as decomposition and nitrogen fixation. Viruses'",бактериوں اور وائرسوں کے درمیان کیا فرق ہے ؟ وائرس اور وائرس دونوں چھوٹے سےوسیلے ہیں ، لیکن وہ ایک دوسرے سے بہت الگ ہیں ۔ وائرس ایک سنگل سیڈہ ہے جو زمین میں تقریباً ہر ماحول میں پایا جا سکتا ہے ۔ وائرس فطرت کے کئی اہم کاموں مثلاً ٹھوس کاری اور نائٹروجن کی تشکیل کے ذمہ دار ہیں ۔
+Query 81,'مصنوعی انتخاب قدرتی انتخاب سے کس طرح مختلف ہے؟','How does artificial selection differ from natural selection?',"' انتخاب قدرتی انتخاب سے کس طرح مختلف ہے؟ انتخاب قدرتی انتخاب سے کس طرح مختلف ہے؟ انتخاب قدرتی
+انتخاب سے کس طرح مختلف ہے؟ انتخاب قدرتی انتخاب سے کس طرح مختلف �'","' What is the difference between natural and artificial selection?\nWhat is the difference between
+natural and artificial selection?\nWhat is the difference between natural and artificial selection?
+What is the difference between natural and artificial selection? What is the difference between
+natural and artificial selection? What is the difference between natural and artificial selection?
+What is the difference'",قدرتی اور مصنوعی انتخاب میں کیا فرق ہے ؟ قدرتی اور مصنوعی انتخاب میں کیا فرق ہے ؟ قدرتی اور مصنوعی انتخاب میں کیا فرق ہے ؟ قدرتی اور مصنوعی انتخاب میں کیا فرق ہے ؟ قدرتی اور مصنوعی انتخاب میں کیا فرق ہے ؟ قدرتی اور مصنوعی انتخاب میں کیا فرق ہے ؟
+Query 82,'جینیاتی کلوننگ کی اخلاقیات کیا ہیں؟','What are the ethics of genetic cloning?',"' - جینیاتی کلوننگ کی اخلاقیات کیا ہیں؟\nجینیاتی کلوننگ کی اخلاقیات کیا ہیں؟\nجینیاتی کلوننگ کی
+اخلاقیات کیا ہیں؟\nجینیاتی'","' (What are the ethical issues of genetic cloning?)\nGenetic cloning is a process in which a cell is
+taken from an organism and is used to create a new organism. The new organism is genetically
+identical to the original organism. Genetic cloning is a controversial topic because it raises many
+ethical issues. In this article, we will'",( جینیٹک جلیٹنگ کے اخلاقی معاملات کیا ہیں ؟ جینیٹک جلیٹنگ ایک ایسا عمل ہے جس میں ایک خلا ایک خلا سے لیا جاتا ہے اور اس کو ایک نئے خلا بنانے کے لئے استعمال کیا جاتا ہے جس کا اصل خلا جینیٹک طور پر اصل خلا کے برابر ہے ۔ جینیٹک جلیٹنگ ایک بہت بڑا موضوع ہے کیونکہ اس میں بہت سے اخلاقی مسائل پیدا ہوتے ہیں ۔ اس مضمون میں ہم
+Query 83,'پٹھوں کی میموری کیسے کام کرتی ہے؟','How does muscle memory work?',"' پٹھوں کی میموری کیسے کام کرتی ہے؟\nپٹھوں کی میموری کیسے کام کرتی ہے؟ پٹھوں کی میموری کیسے کام کرتی
+'","' What is the function of memory in the brain?\nWhat is the function of memory in the brain?\nMemory
+is the ability to store and retrieve information. It is the process of storing and retrieving
+information from the brain. Memory is the ability to store and retrieve information from the brain.
+It is the process of storing and retrieving'",دماغ کے اندر میڈل کی کیاکار ہوتی ہے ؟ دماغ کے اندر میڈل کی کیاکار ہوتی ہے ؟ میڈل اطلاعات کا ذخیرہ کرنے اور نکالنے کا عمل ہے ، یہ دماغ سے اطلاعات کا ذخیرہ کرنے اور نکالنے کا عمل ہے ۔ میڈل اطلاعات کا ذخیرہ کرنے اور نکالنے کا عمل ہے ۔
+Query 84,'بین الاقوامی تجارت کا کیا کردار ہے؟',"""What's the role of international trade?""","' بین الاقوامی تجارت کا کیا کردار ہے؟\nبین الاقوامی تجارت کا کیا کردار ہے؟ بین الاقوامی تجارت کا کیا
+کردار ہے؟\nبین الاقوامی تجارت'","' What is the role of international trade in the world economy?\nThe role of international trade in
+the world economy is to increase the production of goods and services. It also helps to increase the
+income of the people. It also helps to increase the standard of living of the people. It also helps
+to increase the employment opportunities.'",دنیا کی معیشت میں بین الاقوامی تجارت کا کردار کیا ہے ؟ دنیا کی معیشت میں بین الاقوامی تجارت کا کردار سامان اور خدمات کی پیداوار میں اضافہ کرنا ہے ۔ اس سے لوگوں کی آمدنی میں اضافہ کرنے میں بھی مدد ہوتی ہے ۔
+Query 85,'کینسر کے علاج کی عام اقسام کیا ہیں؟','What are common types of cancer treatments?',"' کینسر کے علاج کی عام اقسام کیا ہیں؟\nکینسر کے علاج کی عام اقسام کیا ہیں؟\nکینسر کے علاج کی عام
+اقسام کیا ہی�'","' What are the common types of cancer treatment?\nCancer is a disease in which cells in the body
+grow out of control. When cancer starts in different parts of the body, it is called different types
+of cancer. Cancer can start almost anywhere in the body, but most often it starts in the skin,
+colon, lung'",کینسر کے علاج کے عام قسمیں کیا ہیں ؟ کینسر ایک ایسی بیماری ہے جس میں بدن کے клетки کنٹرول سے باہر نکل جاتے ہیں ۔ جب کینسر بدن کے مختلف حصوں میں شروع ہوتی ہے تو اسے مختلف قسم کے کینسر کہا جاتا ہے ۔ کینسر جسم کے کسی بھی حصہ میں شروع ہو سکتا ہے لیکن اکثر اوقات یہ جلد ، کیسہ ، سینی سے شروع ہوتا ہے ۔
+Query 86,'کیا آپ خلیوں میں مائٹوکونڈریا کے کردار کی وضاحت کرسکتے ہیں؟','Can you explain the role of mitochondria in cells?',"'\n\nMitocondria کے کردار کی وضاحت کرسکتے ہیں؟\n\nMitocondria کے کردار کی وضاحت کرسکتے
+ہیں؟\n\nMitocondria کے کردار کی و'","' What is the role of mitochondria in cells?\nThe mitochondria are the powerhouses of the cell. They
+are responsible for the production of energy in the form of ATP. ATP is the energy currency of the
+cell. The mitochondria are also involved in the regulation of cell death and survival. They play a
+crucial role'",سیکلوں میں میٹالکوڈیا کا کردار کیا ہے ؟ میٹالکوڈیا سیکل کے پاور ہاؤس ہیں ، وہ ATP کی شکل میں توانائی کی پیداوار کے لئے ذمہ دار ہیں ، ATP cell کی توانائی کا روپ ہے ۔ میٹالکوڈیا سیکل کی موت اور بقا کی ضابطہ بندی میں بھی شامل ہیں ، یہ ایک اہم کردار ادا کرتے ہیں ۔
+Query 87,'شہری کاری ماحول کو کس طرح متاثر کرتی ہے؟','How does urbanization affect the environment?',' - ہر شہری کے لیے ایک اہم مسئلہ ہے کہ وہ اپنے ماحول کو کس طرح متاثر کرتا ہے۔\nشہ',"' (Urbanization and Environmental Impact)\nUrbanization is a process of increasing population
+density in urban areas. It is a process of increasing population density in urban areas. It is a
+process of increasing population density in urban areas. It is a process of increasing population
+density in urban areas. It is a process of increasing population density'",( شہری ترقیات اور ماحولیات کے اثرات ) شہری ترقیات شہری علاقوں میں آبادی کی تقسیم میں اضافے کا ایک عمل ہے ، شہری علاقوں میں آبادی کی تقسیم میں اضافے کا ایک عمل ہے ، شہری علاقوں میں آبادی کی تقسیم میں اضافے کا ایک عمل ہے
+Query 88,'ہوا بازی کی تاریخ کیا ہے؟',"""What's the history of aviation?""","' کیا ہوا بازی ایک جدید کھیل ہے یا اس کا آغاز کب ہوا؟ ہوا بازی کے کئی قسم کیں اور ان میں سے کس کا
+آغاز کب ہ'","' ہوا بازی की कहानी क्या है?\nThe history of air sports is very old. The first air sports were
+played in the 19th century. The first air sports were played in the 19th century. The first air
+sports were played in the 19th century. The'",ہوا بازی کا कहानी کیا ہے ؟ ائیر اسپورٹس کی تاریخ بہت پرانی ہے ۔ پہلی بار ائیر اسپورٹس کی شروعات سولیسویں صدی میں ہوئی تھی ۔ پہلی بار ائیر اسپورٹس کی شروعات سولیسویں صدی میں ہوئی تھی ۔
+Query 89,'میگنےٹ کیسے کام کرتے ہیں؟','How do magnets work?',"' میگنٹ کے بارے میں معلومات\nمیگنٹ کے بارے میں معلومات\nمیگنٹ کے بارے میں معلومات\nمیگنٹ کے بارے میں
+معلومات\nمیگنٹ'","' What is Magnets?\nMagnets are a type of magnetism that is used to attract or repel other magnets.
+Magnets are made up of tiny particles called atoms. These atoms are arranged in a specific way to
+create a magnetic field. The magnetic field is what causes the attraction or repulsion between
+magnets.\nThere'",Magnetا کیا ہے ؟ Magnetا ایک نوعیت کی magnetism ہے جسے دوسرے ماڈیولوں کو راغب کرنے یا دفع کرنے کے لئے استعمال کیا جاتا ہے ۔ Magnetا ایٹموں کی شکل میں ہوتے ہیں جو ایک مخصوص طریقے سے ایک مقناطیسی فیلڈ تشکیل دیتے ہیں ۔ مقناطیسی فیلڈ وہ چیز ہے جو ماڈیولوں کے درمیانجذب یا حسرت پیدا کر دیتی ہے ۔
+Query 90,'افراط زر کی بنیادی وجوہات کیا ہیں؟','What are the main causes of inflation?',"' (Urdu)\nThe main causes of excessive use of money are:\n1. The desire to have more than what is
+needed.\n2. The desire to have more than what is needed.\n3. The desire to have more than what is
+needed.\n4. The desire to have more than what is needed.\n5.'","' What are the basic causes of excessive use of gold?\nThe excessive use of gold is a major problem
+in the world today. The excessive use of gold is a major problem in the world today. The excessive
+use of gold is a major problem in the world today. The excessive use of gold is a major problem in
+the'",سونے کے افراط زر کے بنیادی اسباب کیا ہیں ؟ سونے کا افراط زر آج دنیا میں ایک بڑا مسئلہ ہے ۔ سونے کا افراط زر آج دنیا میں ایک بڑا مسئلہ ہے ۔ سونے کا افراط زر دنیا میں ایک بڑا مسئلہ ہے ۔
+Query 91,'کیا آپ وضاحت کرسکتے ہیں کہ الرجی کس طرح ترقی کرتی ہے؟','Can you explain how allergies develop?',"' کیا آپ اس کے لیے کوئی تجربہ یا طریقہ بتاسکتے ہیں؟ کیا آپ اس کے لیے کوئی تجربہ یا طریقہ بتاسکتے
+ہی�'","' I have a question about the relationship between the two. I have a question about the relationship
+between the two. I have a question about the relationship between the two. I have a question about
+the relationship between the two. I have a question about the relationship between the two. I have a
+question about the relationship between the'",دونوں کے تعلقات کے بارے میں مجھے ایک سوال ہے ، دونوں کے تعلقات کے بارے میں مجھے ایک سوال ہے ، دونوں کے تعلقات کے بارے میں مجھے ایک سوال ہے ، دونوں کے تعلقات کے بارے میں مجھے ایک سوال ہے ، دونوں کے تعلقات کے بارے میں مجھے ایک سوال ہے
+Query 92,'تناؤ سے جسمانی صحت پر کیا اثر پڑتا ہے؟','How does stress impact physical health?',"' (Stress and Physical Health)\nStress is a normal part of life. It is a feeling of being under too
+much pressure or strain. It is a feeling of being under too much pressure or strain. It is a feeling
+of being under too much pressure or strain. It is a feeling of being under too much'","' (What is the effect of stress on physical health?)\nStress is a normal part of life. It is a
+reaction to a situation that requires a response. Stress is a normal part of life. It is a reaction
+to a situation that requires a response. It is a normal part of life. It is a reaction'",( جسمانی صحت پر دباؤ کا کیا اثر ہے ؟ ) stress زندگی کا عام حصہ ہے ۔ یہ ایک ایسی صورتحال کا رد عمل ہے جس کے لئے ردعمل ضروری ہے ۔ stress زندگی کا عام حصہ ہے ۔ یہ ایک ایسی صورتحال کا رد عمل ہے جس کے لئے ردعمل ضروری ہے ۔ stress زندگی کا عام حصہ ہے ۔
+Query 93,'عالمی تعلقات میں سفارت کاری کا کیا کردار ہے؟',"""What's the role of diplomacy in global relations?""","' (پہلا حصہ)\nعالمی تعلقات میں سفارت کاری کا کیا کردار ہے؟ (پہلا حصہ)\nعالمی تعلقات میں سفارت کاری
+کا کیا کردار ہے؟'","' What is the role of diplomacy in international relations?\nThe role of diplomacy in international
+relations is to maintain peace and harmony among nations. Diplomacy is the art of negotiation and
+communication between countries. It is a way to resolve conflicts and differences without resorting
+to violence. Diplomacy is also a way to promote trade'",بین الاقوامی تعلقات میں سفارتکاری کا کردار کیا ہے ؟ بین الاقوامی تعلقات میں سفارتکاری کا کردار ممالک کے درمیان امن اور ہم آہنگی برقرار رکھنا ہے ۔ سفارتکاری ، ممالک کے درمیان بات چیت اور مواصلات کا آرٹ ہے جس میں تشدد کے بغیر تنازعات اور اختلافات کا حل نکالا جا سکتا ہے ۔ سفارتکاری تجارت کو فروغ دینے کا بھی طریقہ ہے ۔
+Query 94,'مشین ترجمہ کیسے کام کرتا ہے؟','How does machine translation work?',' ترجمہ کیسے کیا جاتا ہے؟ ترجمہ کیسے کیا جاتا ہے؟ ترجمہ کیسے کیا جاتا ہے؟ ترجمہ کیسے کیا ج',"' How does a machine translation work?\nThe machine translation is a computer program that
+translates text from one language to another. It is a type of computer program that translates text
+from one language to another. It is a type of computer program that translates text from one
+language to another. It is a type of computer program that translates'",مشین translation کیسے کام کرتا ہے ؟ مشین ٹرانسمیشن ایک کمپیوٹر پروگرام ہے جو ایک زبان سے دوسری زبان میں متن کا ترجمہ کرتا ہے ، یہ ایک قسم کا کمپیوٹر پروگرام ہے جو ایک زبان سے دوسری زبان میں متن کا ترجمہ کرتا ہے ، یہ ایک قسم کا کمپیوٹر پروگرام ہے جو متن کا ترجمہ کرتا ہے
+Query 95,'کیا آپ تنازعات کے حل کے لئے کچھ طریقے تجویز کرسکتے ہیں؟','Can you suggest some methods for conflict resolution?',' کیا آپ کو یہ معلوم ہے کہ تنازعات کے حل کے لئے کچھ طریقے ہیں؟ کیا آپ کو یہ معلوم ہے کہ تنازعات',"' What are some ways to solve conflicts?\nWhat are some ways to solve conflicts?\nWhat are some ways
+to solve conflicts?\nWhat are some ways to solve conflicts?\nWhat are some ways to solve
+conflicts?\nWhat are some ways to solve conflicts?\nWhat are some ways to solve conflicts?\nWhat are
+some ways to solve conflicts?\n'",تنازعات کو حل کرنے کے چند طریقوں ہیں ۔ تنازعات کو حل کرنے کے چند طریقوں ہیں ۔ تنازعات کو حل کرنے کے چند طریقوں ہیں ۔ تنازعات کو حل کرنے کے چند طریقوں ہیں ۔ تنازعات کو حل کرنے کے چند طریقوں ہیں ۔ تنازعات کو حل کرنے کے چند طریقوں ہیں
+Query 96,'سائنسی دریافت کا عمل کیا ہے؟',"""What's the process of scientific discovery?""",' اس کے بارے میں کیا کہا جاتا ہے؟ اس کے بارے میں کیا کہا جاتا ہے؟ اس کے بارے میں کیا ک�',"' What is scientific discovery?\nScientific discovery is the process of making new knowledge about
+the world. It is the process of finding out new things about the world around us. Scientific
+discovery is the process of finding out new things about the world around us. It is the process of
+finding out new things about the world around us'",سائنسی کھوج کیا ہے ؟ سائنسی کھوج ، دنیا کے بارے میں نئی معلومات بنانے کا عمل ہے ، دنیا کے بارے میں نئی چیزوں کا پتہ لگانے کا عمل ہے ، سائنسی کھوج ، دنیا کے اطراف میں نئی چیزوں کا پتہ لگانے کا عمل ہے ، دنیا کے اطراف میں نئی چیزوں کا پتہ لگانے کا عمل ہے ۔
+Query 97,'ویکسین کیسے بنائی جاتی ہیں؟','How are vaccines created?',"' اور ان کے فوائد کیا ہیں؟\nویکسین کیسے بنائی جاتی ہیں؟ اور ان کے فوائد کیا ہیں؟\nویکسین کیسے بنائی
+جاتی '","' What is Vicks VapoRub?\nVicks VapoRub is a topical ointment that is used to treat coughs and
+colds. It is made up of a combination of eucalyptus oil, camphor, and other ingredients that are
+believed to have medicinal properties. The ointment'",ویکس واپو آروب کیا ہے ؟ ویکس واپو آروب ایک عارضی نقطہ نظر ہے جسے کوکھ اور سردی کے علاج کے لئے استعمال کیا جاتا ہے ۔ یہ ایک مرکب ہے جو یوکریپتہ تیل ، کمپرنر اور دیگر اجزاء پر مشتمل ہے جن میں طبی خواص پائے جاتے ہیں ۔
+Query 98,'سرد جنگ کے پیچھے کیا تاریخ ہے؟',"""What's the history behind the Cold War?""",' (پہلا حصہ)\nسرد جنگ کے پیچھے کیا تاریخ ہے؟ (پہلا حصہ)\nسرد جنگ کے پیچھے کیا تاریخ ہے؟ (پہلا حصہ',"' (Part 1)\nThe history behind the cold war\nThe cold war was a period of political tension between
+the United States and the Soviet Union and their respective allies, the Western Bloc and the Eastern
+Bloc, from 1947 to 1991. The term “cold war” is a metaphor for the state of'",( پہلا حصہ ) سرد جنگ کی تاریخ سرد جنگ امریکہ اور روس کے درمیان سیاسی کشیدگی تھی ۔ یہ کشیدگی مشرقی Bloc اور مشرقی Bloc کے درمیان 1947 سے 1991. تک رہی تھی ۔ سرد جنگ کا نام ریاست کے لئے ایک معنون ہے ۔
+Query 99,'انٹروورٹس کے بارے میں کچھ عام غلط فہمیاں کیا ہیں؟','What are some common misconceptions about introverts?',' انٹروورٹس کے بارے میں کچھ عام غلط فہمیاں کیا ہیں؟\nانٹروورٹس کے بارے میں کچھ عام غلط فہمیا�',"' What are some common misconceptions about introverts?\nIntroverts are shy, quiet, and reserved.
+They are not outgoing or social. They prefer to be alone and do not like being around people. They
+are not interested in making friends or having a social life. They are not interested in dating or
+having a relationship.'",introvertوں کے بارے میں کچھ عام غلط گمانات کیا ہیں ؟ Introverتی لوگ پرہیزگار ، خاموش اور سرکش ہوتے ہیں ۔ وہ باہر نکلنے والے یا معاشرتی نہیں ہیں ۔ وہ ایک دوسرے کے ساتھ رہنا پسند کرتے ہیں اور لوگوں کے ساتھ رہنا نہیں پسند کرتے ۔ وہ دوست بنانے میں نہیں چاہتے یا سماجی زندگی گزارنے میں دلچسپی رکھتے ہیں ۔ وہ نامزدی میں نہیں چاہتے ۔
+Query 100,'واٹر فلٹریشن کیسے کام کرتا ہے؟','How does water filtration work?',"' - Water Filter System How Does It Work?\nWater Filter System How Does It Work?\nWater Filter
+System How Does It Work? Water Filter System How Does It Work? Water Filter System How Does It Work?
+Water Filter System How Does It Work? Water Filter System How Does It Work? Water Filter System How
+Does It Work'","' Water filter works in what way?\nWater filter works in what way?\nWater filter works in what way?
+Water filter works in what way? Water filter works in what way? Water filter works in what way?
+Water filter works in what way? Water filter works in what way? Water filter works in what way?
+Water'",پانی کے filter کو کس طرح سے بنایا گیا ؟ پانی کے filter کو کس طرح سے بنایا گیا ؟ پانی کے filter کو کس طرح سے بنایا گیا ؟ پانی کے filter کو کس طرح سے بنایا گیا ؟ پانی کے filter کو کس طرح سے بنایا گیا ؟
+Query 101,'کیا آپ عادات کی نفسیات کی وضاحت کرسکتے ہیں؟','Can you explain the psychology of habits?',"' نفسیات کے ماہرین کے مطابق، نفسیات عادات کی وضاحت کرتا ہے۔ نفسیات کے ماہرین کے مطابق، نفسیات عادات
+کی وضاحت کرت'","' What are the psychological aspects of habits?\nHabits are a set of actions that are repeated over
+and over again. They are a type of behavior that is performed without much thought or effort. Habits
+are formed when a person does something repeatedly and the brain starts to associate that action
+with a reward or punishment. This'",عادتوں کے نفسیاتی پہلوؤں کو کیا کہا جاتا ہے ؟ عادت ایک ایسا عمل ہے جس میں ایک ایک چیز بار بار کی جاتی ہے ۔ وہ ایک ایسا عمل ہے جو بغیر کسی سوچ کے یا کوشش کے ہوتا ہے ۔ عادتیں اس وقت تشکیل ہوتی ہیں جب ایک شخص بار بار کچھ کرتا ہے اور اس عمل کو ایک ثواب یا سزا کے ساتھ جوڑا جاتا ہے ۔
+Query 102,'قومی پارکوں کی کیا اہمیت ہے؟',"""What's the significance of national parks?""","' - National Parks: What is their importance?\nNational Parks: What is their importance?\nNational
+Parks are the most important part of the world. They are the most important part of the world. They
+are the most important part of the world. They are the most important part of the world. They are
+the most important part'","' What is the importance of National Parks?\nThe National Parks are the most important part of the
+country. The National Parks are the most important part of the country. The National Parks are the
+most important part of the country. The National Parks are the most important part of the country.
+The National Parks are the most important part'",قومی پارکوں کی اہمیت کیا ہے ؟ قومی پارک ملک کا اہم ترین حصہ ہیں ۔ قومی پارک ملک کا اہم ترین حصہ ہیں ۔ قومی پارک ملک کا اہم ترین حصہ ہیں ۔
+Query 103,'غذائیت سے علمی نشوونما پر کیا اثر پڑتا ہے؟','How does nutrition impact cognitive development?',"' - ہیڈلائن\nغذائیت سے علمی نشوونما پر کیا اثر پڑتا ہے؟ - ہیڈلائن\nغذائیت سے علمی نشوونما پر کیا
+اثر'","' (Part 1)\nThe effect of nutrition on scientific development\nThe effect of nutrition on scientific
+development\nThe effect of nutrition on scientific development\nThe effect of nutrition on
+scientific development\nThe effect of nutrition on scientific development\nThe effect of nutrition
+on scientific development\nThe effect of nutrition on scientific development\nThe effect of'",( حصہ ) سائنسی ترقی پر تغذیہ کا اثر ۔ سائنسی ترقی پر تغذیہ کا اثر ۔ سائنسی ترقی پر تغذیہ کا اثر ۔ سائنسی ترقی پر تغذیہ کا اثر ۔ سائنسی ترقی پر تغذیہ کا اثر ۔ سائنسی ترقی پر تغذیہ کا اثر ۔
+Query 104,'پائلٹ بننے کے لئے کیا اقدامات ہیں؟','What are the steps to become a pilot?',' کیا آپ کو پائلٹ بننے کے لئے کیا اقدامات کرنا چاہئے؟ پائلٹ بننے کے لئے کیا اقدامات ہیں؟ کیا آپ',"' What are the steps to become a pilot?\nپائلٹ بننے کے لئے کیا اقدامات ہیں? What are the steps to
+become a pilot?\nپائلٹ بننے کے لئے کیا اقدام'",پائلٹ بننے کے کیا اقدامات ہیں ؟ پائلٹ بننے کے کیا قدم ہے ؟ پائلٹ بننے کے کیا قدم ہے ؟
+Query 105,'سونار ٹکنالوجی کیسے کام کرتی ہے؟','How does sonar technology work?',"' اور اس کے فوائد کیا ہیں؟\nسونار ٹکنالوجی کیسے کام کرتی ہے؟ اور اس کے فوائد کیا ہیں؟\nسونار
+ٹکنالوجی ک'","' What is Sonar Technology?\nSonar is a technology that uses sound waves to detect objects
+underwater. It is used by ships, submarines, and other underwater vehicles to navigate and avoid
+obstacles. Sonar works by sending out sound waves from a transducer, which is a device that converts
+electrical energy into sound waves. The'",Sonar کیا ہے ؟ Sonar ایک ٹیکنالوجی ہے جو سمندر کے اندر موجود اشیاء کا پتہ لگانے کے لئے آواز کا استعمال کرتی ہے ۔ اسے جہاز ، آبدوز اور دیگر اندرون سمندری گاڑیوں کے استعمال میں آتا ہے تاکہ وہ رکاوٹوں سے بچ سکیں ۔ Sonar ایک ٹرانس ڈائریکٹ سے آواز بھیج کر کام کرتا ہے ، جس سے بجلی کی توانائی کو آواز سے تبدیل کیا جاتا ہے ۔
+Query 106,'صحت کے لئے نیند کی کیا اہمیت ہے؟',"""What's the importance of sleep for health?""","' اور کیا ہے نیند کے لئے صحت کے لئے ضروری ہے؟\nSleep is an important part of our daily life. It is a
+natural process that helps us to rest and recover from the day’s activities.'","' What is the importance of sleep for health?\nSleep is a natural state of rest and relaxation that
+is essential for our physical and mental well-being. It is a time when our body and mind rejuvenate
+and repair themselves. Sleep is a vital part of our daily routine and is necessary for our overall
+health and well-being.'",صحت کے لیے نیند کی اہمیت کیا ہے ؟ نیند آرام کی ایک طبی حالت ہے ، جس کے لئے ہماری جسمانی اور دماغی صحت کافی ضروری ہے ۔ نیند کا وہ وقت ہوتا ہے ، جب ہمارا جسم اور ہمارا دماغ اپنے آپ کو ترمیم کرتے ہیں ۔ نیند ہمارے روز مرہ کی زندگی کا ایک اہم حصہ ہے اور ہماری مجموعی صحت اور تندرستی کے لئے ضروری ہے ۔
+Query 107,'مختلف ثقافتیں نیا سال کیسے مناتی ہیں؟','How do different cultures celebrate New Year?',"' (انگریزی میں)\nDifferent Cultures Celebrate New Year in Different Ways\nNew Year is a time to
+celebrate and welcome the new year with new hopes and dreams. It is a time to reflect on the past
+year and make plans for the future. Different cultures celebrate New Year in different ways. Some'","' What are the ways in which different cultures celebrate New Year?\nThe New Year is celebrated in
+different ways in different cultures. In some cultures, the New Year is celebrated on the first day
+of the year, while in other cultures, it is celebrated on the first day of the month. In some
+cultures, the New Year'",نئی دہلی ، ؍ دسمبر ، مختلف ثقافتوں میں نئے سال کا جشن کیسے منایا جاتا ہے ؟ نئے سال کو مختلف طریقوں سے مختلف ثقافتوں میں منایا جاتا ہے ۔ بعض ثقافتوں میں نئے سال کا جشن سال کے پہلے دن منایا جاتا ہے جبکہ دیگر ثقافتوں میں مہینے کے پہلے دن منایا جاتا ہے ۔
+Query 108,'تناؤ سے نجات کے لئے مراقبہ کے کیا فوائد ہیں؟','What are the benefits of meditation for stress relief?','\nمراقبہ کے فوائد\nمراقبہ کے فوائد\nمراقبہ کے فوائد\nمراقبہ کے فوائد\nمراقبہ کے فوائد\nمراقبہ کے',"' (Part 2)\nIn the previous article, we discussed the benefits of mindfulness in the context of
+stress management. In this article, we will discuss the benefits of mindfulness in the context of
+stress management.\nIn the previous article, we discussed the benefits of mindfulness in the context
+of stress management. In this article, we'",( حصہ ) گزشتہ مضمون میں ہم نے دباؤ بندوبست کے تناظر میں بیداری کے فوائد پر تبادلہ خیال کیا تھا ۔ اس مضمون میں ہم دباؤ بندوبست کے تناظر میں بیداری کے فوائد پر تبادلہ خیال کریں گے ۔ گزشتہ مضمون میں ہم نے دباؤ بندوبست کے تناظر میں بیداری کے فوائد پر تبادلہ خیال کیا تھا ۔
+Query 109,'مکھیاں زراعت میں کس طرح حصہ ڈالتی ہیں؟','How do bees contribute to agriculture?',"' - Urdu\nمکھیاں زراعت میں کس طرح حصہ ڈالتی ہیں؟ - Urdu\nMakhiaan Zaraat Mein Kais Tarha Hissa
+Daalati Hai? - Urdu\nMakhiaan Zaraat'","' (With Pictures)\nThe term “microbes” refers to a group of tiny organisms that are too small to be
+seen with the naked eye. They are present in almost all environments, including soil, water, and
+air. Microbes play a crucial role in the environment and human health. They are responsible for the
+decomposition'",( تصاویر کے ساتھ ) لفظ مائیکروبیز اس چھوٹے سے حیاتیاتی مجموعہ کا نام ہے جو ناگاہی میں دیکھے جانے کے لئے بہت چھوٹے ہیں ۔ مائیکروبیز تقریباً تمام ماحولیات میں موجود ہیں جن میں مٹی ، پانی اور ہوا شامل ہیں ۔ مائیکروبیز ماحولیات اور انسانی صحت میں ایک اہم رول ادا کرتے ہیں ۔ مائیکروبیز ماحولیاتی تبدیلی کے لئے ذمہ دار ہیں ۔
+Query 110,'ٹیک اسٹارٹ اپ شروع کرنے کا عمل کیا ہے؟',"""What's the process of starting a tech startup?""","' اس کے بارے میں سب سے اہم معلومات\nٹیک اسٹارٹ اپ شروع کرنے کا عمل کیا ہے؟ اس کے بارے میں سب سے اہم
+معلومات\nٹ'","' How to Start a Tech Startup?\nThe tech startup industry is growing at a rapid pace, with new
+companies emerging every day. If you’re thinking about starting a tech startup, you’re in luck! In
+this article, we’ll walk you through the process of starting a tech startup, from idea to
+launch.\nThe first'",ٹیک اسٹارٹ اَپ کو کیسے شروع کریں ؟ ٹیک اسٹارٹ اَپ کی صنعت تیزی سے ترقی کر رہی ہے اور ہر روز نئی کمپنیاں ابھرتی ہیں ۔ اگر آپ ٹیک اسٹارٹ اَپ شروع کرنے کے بارے میں سوچ رہے ہیں تو آپ luck میں ہیں ۔
+Query 111,'ایڈرینالائن جسم کو کیسے متاثر کرتی ہے؟','How does adrenaline affect the body?',"' - Adrenaline and how it affects the body\nایڈرینالائن جسم کو کیسے متاثر کرتی ہے؟ - Adrenaline and
+how it affects the body\nایڈرینالائن جسم کو کیسے مت'","' (How does adrenaline affect the body?)\nAdrenaline is a hormone that is released by the adrenal
+glands in response to stress. It is responsible for increasing heart rate, blood pressure, and blood
+sugar levels. Adrenaline also causes the release of other hormones, such as cortisol and
+epinephrine, which further'",( کیسے آڈیٹرین کا بدن کو اثر پڑتا ہے ؟ ) آڈیٹرین ایک ایسا ہارمون ہے جو stress کے ردعمل میں آڈیٹرین کے اندر جاری کیا جاتا ہے ۔ اس کی وجہ سے امراض قلب ، خون کی سطح میں اضافہ اور خون میں شکر کی سطح میں اضافہ ہوتا ہے ۔ آڈیٹرین کے علاوہ دیگر ادویہ مثلاً کوریزول اور ای پین فیری کا بھی اثر پڑتا ہے ۔
+Query 112,'کوانٹم الجھنے کی بنیادی باتیں کیا ہیں؟','What are the basics of quantum entanglement?',"' - Quantum Entanglement Explained\nQuantum entanglement is a phenomenon that occurs when two or
+more particles are in a quantum state together. This means that the particles are not only
+connected, but also share a unique property that cannot be explained by classical physics. In this
+article, we will explore the basics of'","' What are the basic facts about quantum entanglement?\nQuantum entanglement is a very important
+concept in quantum mechanics. It is a very strange phenomenon that is not possible in classical
+mechanics. In this article, we will discuss the basic facts about quantum entanglement.\nWhat is
+quantum entanglement?\nQuantum'",کوانٹم الٹمنٹل کے بارے میں بنیادی حقائق کیا ہیں ؟ کوانٹم الٹمنٹل کوانٹم میکانزم میں ایک بہت ہی اہم تصور ہے ۔ یہ ایک عجیب وغریب حقیقت ہے جو کلاسیکی میکانزم میں ممکن نہیں ہے ۔ اس مضمون میں کوانٹم الٹمنٹل کے بارے میں بنیادی حقائق پر بحث کی جائے گی ۔ کوانٹم الٹمنٹل کیا ہے ؟
+Query 113,'اینستھیزیا سرجری میں کیسے کام کرتا ہے؟','How does anesthesia work in surgery?',"' (How does an endoscopic surgery work?)\nEndoscopic surgery is a minimally invasive surgical
+procedure that uses a small camera and surgical instruments inserted through small incisions in the
+body. The camera is called an endoscope, and it allows the surgeon to see inside the body and
+perform the surgery. The surgical instruments are inserted'","' What is an endoscopic surgery?\nAn endoscopic surgery is a surgical procedure in which a small
+camera is inserted into the body through a small incision. The camera is connected to a monitor,
+which allows the surgeon to see inside the body and perform the surgery. Endoscopic surgeries are
+often used to treat conditions that are'",ایک اینڈسکوپیٹک سرجری کیا ہے ؟ ایک اینڈسکوپیٹک سرجری ایک تکنیکی عمل ہے جس میں ایک چھوٹی سیوریکشن کے ذریعے بدن میں ایک کمیونیکیشن لگا دیا جاتا ہے ۔ اس کمیونیکیشن کو ایک میڈیل سے منسلک کیا جاتا ہے جس سے سرجری کو جسم کے اندر دیکھنے اور اس عمل کو انجام دینے کا موقع ملتا ہے ۔
+Query 114,'فیصلہ سازی کے پیچھے نفسیات کیا ہے؟',"""What's the psychology behind decision-making?""","' نفسیات کے ماہرین کے مطابق فیصلہ سازی کے پیچھے نفسیات کیا ہے؟ نفسیات کے ماہرین کے مطابق فیصلہ سازی
+کے پیچ'","' (What is behind decision making?)\nThe decision making process is a complex and multifaceted
+phenomenon that involves a variety of psychological and cognitive processes. It is a crucial aspect
+of human behavior that influences our thoughts, actions, and outcomes in various contexts. In this
+article, we will explore the psychological and cognitive aspects of decision'",فیصلہ سازی کا عمل کیا ہے ؟ فیصلہ سازی کا عمل ایک پیچیدہ اور کثیر رخی حقیقت ہے ، جس میں مختلف قسم کے نفسیاتی اور دماغی عمل شامل ہیں ۔ انسانی رویے کا ایک اہم پہلو ہے ، جو ہمارے خیالات ، عمل اور نتائج کو مختلف ماحول میں متاثر کرتا ہے ۔ اس مضمون میں فیصلہ سازی کے نفسیاتی اور دماغی پہلوؤں کا مطالعہ کیا جائے گا ۔
+Query 115,'سیارے کیسے بنتے ہیں؟','How do planets form?',' اور ان کے فوائد کیا ہیں؟\nسیارے کیسے بنتے ہیں؟ اور ان کے فوائد کیا ہیں؟\nسیارے کیسے بنت�',"' How do you make a kite?\nWhat is the name of the kite? What is the name of the kite?\nWhat is the
+name of the kite? What is the name of the kite?\nWhat is the name of the kite? What is the name of
+the kite?\nWhat is the name of the kite? What'",کڑی کو کیسے بنایا جاتا ہے ؟ کڑی کا نام کیا ہے ؟ کڑی کا نام کیا ہے ؟ کڑی کا نام کیا ہے ؟ کڑی کا نام کیا ہے ؟ کڑی کا نام کیا ہے ؟
+Query 116,'پانی کے تحفظ کی کیا اہمیت ہے؟',"""What's the importance of water conservation?""",' پانی کے تحفظ کی کیا اہمیت ہے؟\nپانی کے تحفظ کی کیا اہمیت ہے؟ پانی کے تحفظ کی کیا اہمیت ہ�',"' What is the importance of water conservation?\nWater is a precious resource that is essential for
+life on Earth. It is a finite resource that is limited in quantity and quality. Water conservation
+is the practice of using water efficiently and effectively to meet human needs while minimizing
+waste and pollution. It is a critical aspect of sustainable development and'",پانی کے تحفظ کی اہمیت کیا ہے ؟ پانی ایک قیمتی ذخیرہ ہے ، جو زندگی کے لئے لازمی ہے ۔ یہ ایک متنازعہ ذخیرہ ہے ، جس کی مقدار اور معیار محدود ہے ۔ پانی کا تحفظ انسانی ضروریات کو پورا کرنے کے لئے پانی کو مؤثر اور مؤثر طریقے سے استعمال کرنے کی مشق ہے ، جس میں کچرے اور آلودگی سے بچایا جاتا ہے ۔ یہ پائیدار ترقیات کا ایک اہم پہلو ہے ۔
+Query 117,'انسانی خلیات خود کو کس طرح مرمت کرتے ہیں؟','How do human cells repair themselves?',"'\nانسانی خلیات خود کو کس طرح مرمت کرتے ہیں؟\nHuman cells repair themselves in a variety of ways,
+but the mechanisms are not well understood. Researchers at the University of California, San Diego
+School of Medicine have identified a new mechanism that helps cells repair'","' (Human cells repair themselves in what way?)\nA. by replacing damaged proteins with new ones\nB.
+by replacing damaged proteins with new ones\nC. by replacing damaged proteins with new ones\nD. by
+replacing damaged proteins with new ones\nE. by replacing damaged proteins with new ones\nF. by
+replacing damaged'",انسانوں کا اپنے آپ کو کس طرح مرمت کرنا ہے ؟ ( انسانوں کا اپنے آپ کو کس طرح مرمت کرنا ہے ؟ ) ب. تباہ شدہ پروٹینز کو نئے سے بدل کر ۔ تباہ شدہ پروٹینز کو نئے سے بدل کر ۔ تباہ شدہ پروٹینز کو نئے سے بدل کر ۔ تباہ شدہ پروٹینز کو نئے سے ۔
+Query 118,'قدیم یونانی فلسفہ کی کیا اہمیت ہے؟',"""What's the significance of ancient Greek philosophy?""","' - یونانی فلسفہ کی اہمیت\nGreek philosophy is the philosophy born in Greece. It is the philosophy
+of the Greeks. It is the philosophy of the Greeks. It is the philosophy of the Greeks. It is the
+philosophy of the Greeks. It is the philosophy of the Greeks. It'","' What is the importance of ancient Greek philosophy?\nThe ancient Greek philosophy is the
+foundation of modern philosophy. It is the foundation of modern science, modern medicine, modern
+mathematics, modern logic, modern ethics, modern politics, modern economics, modern psychology,
+modern sociology, modern anthropology, modern history, modern literature, modern art,'",قدیم یونانی فلسفے کی اہمیت کیا ہے ؟ قدیم یونانی فلسفہ جدید فلسفے کی بنیاد ہے ۔ یہ جدید سائنس ، جدید ادویات ، جدید ریاضی ، جدید اصول ، جدید سیاست ، جدید اقتصادیات ، جدید نفسیات ، جدید sociology ، جدید تاریخ ، جدید ادب ، جدید فن ، جدید فن بیان ہے ۔
+Query 119,'کیا آپ مختلف اقسام کی معیشتوں کی وضاحت کرسکتے ہیں؟','Can you explain the different types of economies?',"' آپ کے پاس کیا معلومات ہیں؟\nکیا آپ مختلف اقسام کی معیشتوں کی وضاحت کرسکتے ہیں؟ آپ کے پاس کیا
+معلومات ہیں؟\nکیا آپ مختلف اقسام'","' What are the different types of economies?\nThe different types of economies are:\n1. Command
+Economy\n2. Mixed Economy\n3. Free Market Economy\n4. Planned Economy\n5. Socialist Economy\n6.
+Capitalist Economy\n7. Mixed Economy\n8. Mixed Economy\n9. Mixed Economy\n10.'",اقتصادیات کے مختلف قسمیں کیا ہیں ؟ اقتصادیات کے مختلف قسمیں اس طرح ہیں : ۔ کمبائنڈ معیشت ۔ کمبائنڈ معیشت ۔ نجی بازاری معیشت ۔ کمبائنڈ معیشت ۔ کمبائنڈ معیشت ۔ سوشلسٹی معیشت ۔ کمبائنڈ معیشت ۔ کمبائنڈ معیشت ۔
+Query 120,'پل کیسے قائم رہتے ہیں؟','How do bridges stay up?',' کیسے کیسے کیسے کیسے کیسے کیسے کیسے کیسے کیسے کیسے کیسے کیسے کیسے کیسے کیسے کیسے',"' What is a bridge?\nA bridge is a structure that spans a valley or river or canal or road or
+railway or a road or a canal or a railway or a road or a canal or a railway or a road or a canal or
+a railway or a road or a canal or a railway or a road or a canal'",پل کیا ہے ؟ پل ایک ایسی ڈھانچہ ہے جو ایک وادی یا دریا یا نہر یا نہر یا سڑک یا ریلوے یا سڑک یا نہر یا ریلوے یا سڑک یا سڑک یا ریلوے یا سڑک یا سڑک یا ریلوے یا سڑک یا سڑک یا سڑک یا سڑک یا سڑک یا سڑک یا سڑک یا سڑک یا سڑک یا سڑک
+Query 121,'ثقافتی ورثے کی اہمیت کیا ہے؟',"""What's the importance of cultural heritage?""","' ثقافتی ورثے کی اہمیت کیا ہے؟\nThe Importance of Cultural Heritage\nThe Importance of Cultural
+Heritage\nCultural heritage is the legacy of physical artifacts and intangible attributes of a group
+or society that are inherited from past generations, maintained in the present and'","' What is the importance of cultural heritage?\nThe importance of cultural heritage is that it is a
+symbol of the past and present of a country. It is a symbol of the culture and traditions of a
+country. It is a symbol of the history and heritage of a country. It is a symbol of the identity and
+pride of'",ثقافتی وراثت کی اہمیت کیا ہے ؟ ثقافتی وراثت کی اہمیت یہ ہے کہ یہ ملک کے ماضی اور حال کی علامت ہے ، یہ ملک کی ثقافت اور روایات کی علامت ہے ، یہ ملک کی تاریخ اور وراثت کی علامت ہے ، یہ ملک کی پہچان اور فخر کی علامت ہے ۔
+Query 122,'آب و ہوا کے علاقوں کو متاثر کرنے والے اہم عوامل کیا ہیں؟','What are the main factors affecting climate zones?',' - ہوائی جہازوں کے پتہ چلنے کے اثرات\nآب و ہوا کے علاقوں کو متاثر کرنے والے اہم عوامل کیا ',"' (1)\nThe main factors affecting the water and air regions are:\n1. The amount of water in the
+atmosphere is determined by the amount of water vapor in the air and the amount of water vapor in
+the air is determined by the amount of water vapor in the air.\n2. The amount of water vapor in the'",پانی اور فضائی علاقوں پر اثر انداز ہونے والے اہم اسباب درج ذیل ہیں ۔ ماحول میں پانی کی مقدار ، ہوا میں پانی کی مقدار ، ہوا میں پانی کی مقدار کا تعین ہوا میں پانی کی مقدار کا تعین ہوا میں پانی کی مقدار کا تعین ۔
+Query 123,'سونار آبدوزوں میں کیسے کام کرتا ہے؟','How does sonar work in submarines?',"' - How does a sonar work in a submersible?\nHow does a sonar work in a submersible?\nThe sonar is a
+device that uses sound waves to detect objects underwater. The sonar is used in submarines to detect
+objects underwater. The sonar is a device that uses sound waves to detect'","' (How does a sonar work in a submersible?)\nThe sonar system of a submersible is a very important
+part of the submersible. It is used to detect the presence of objects in the water and to navigate
+the submersible. The sonar system works by sending out sound waves and'",( سب مرمیبل میں سونار کیا کام کرتا ہے ؟ ) سب مرمیبل کا سونار نظام بہت اہم حصہ ہے ۔ اسے پانی میں اشیاء کی موجودگی کا پتہ لگانا اور سب مرمیبل کا راستہ طے کرنا استعمال کیا جاتا ہے ۔ سونار نظام آواز بھیج کر اور آواز بھیج کر کام کرتا ہے ۔
+Query 124,'ایشیاء میں کچھ مشہور سفری مقامات کیا ہیں؟','What are some popular travel destinations in Asia?',"' - What are some famous tourist destinations in Asia?\nAsia is a continent that is home to some of
+the most beautiful and diverse landscapes in the world. From the towering mountains of the Himalayas
+to the sandy beaches of Southeast Asia, there is something for everyone to enjoy in this vast and
+varied region. Here are some of'","' - What are some famous tourist destinations in Asia?\nAsia is a continent that is home to some of
+the most beautiful and diverse landscapes in the world. From the towering Himalayas to the lush
+jungles of Southeast Asia, there is something for everyone to explore in this vast and fascinating
+region. In this article, we will'",ایشیاء میں کچھ مشہور سیاحتی مقامات کیا ہیں ؟ ایشیاء دنیا کا ایک ایسا ملک ہے جہاں دنیا کے کچھ خوبصورت اور متنوع مناظر موجود ہیں ۔ از اونچے Himalayaوں سے لے کر جنوبی ایشیاء کے ٹھوس جنگلوں تک ، اس وسیع اور سرگرم خطے میں ہر کسی کے لئے کچھ ہے ۔ اس مضمون میں ہم کو ایشیاء میں کچھ مشہور سیاحتی مقامات کے بارے میں بتائے گا ۔
+Query 125,'کیا آپ عام ادبی انواع کی فہرست دے سکتے ہیں؟','Can you list common literary genres?',' آپ کے پاس کیا ہے؟ آپ کے پاس کیا ہے؟ آپ کے پاس کیا ہے؟ آپ کے پاس کیا ہے؟ آپ کے پاس کیا ہے',"' I am looking for a list of all the different types of literature. I am looking for a list of all
+the different types of literature. I am looking for a list of all the different types of literature.
+I am looking for a list of all the different types of literature. I am looking for a list of all'",تمام مختلف قسموں ادب کی ایک فہرست ہے ۔ تمام مختلف قسموں ادب کی ایک فہرست ہے ۔ تمام مختلف قسموں ادب کی ایک فہرست ہے ۔
+Query 126,'راک میوزک کی تاریخ کیا ہے؟',"""What's the history of rock music?""",' کیا یہ ایک نئی شکل کیوں ہے؟ کیا یہ ایک نئی شکل کیوں ہے؟ کیا یہ ایک نئی شکل کیوں ہے؟ ک',"' What is the history of rock music?\nThe history of rock music is a long and complex one, with many
+different styles and genres developing over time. Rock music can be traced back to the 1950s, when
+it was first developed by African-American musicians in the United States. The first rock and roll
+songs were'",ریک میوزک کی تاریخ کیا ہے ؟ ریک میوزک کی تاریخ بہت طویل اور پیچیدہ ہے ، جس میں وقت کے ساتھ بہت سے مختلف سبک اور گہرائییں پیدا ہوتی ہیں ۔ ریک میوزک کی تاریخ کو 1950 کی دہائی سے لے کر لے جا سکتا ہے ، جب اسے امریکہ میں پہلی بار African american موسیقاروں نے تیار کیا تھا ۔
+Query 127,'حیاتیات کے مابین وائرس کیسے پھیلتے ہیں؟','How do viruses spread between organisms?',"' - How do viruses spread between living things?\nVirus particles are very small, so they can easily
+spread from one living thing to another. They can spread through the air, on surfaces, or in food
+and water. They can also spread through contact with infected animals or plants.\nVirus particles
+are very small, so'","' What are viruses and how do they spread?\nWhat are viruses and how do they spread?\nViruses are
+tiny infectious agents that can infect all types of living organisms, including animals, plants, and
+bacteria. Viruses are not considered living organisms because they lack the ability to reproduce on
+their own. Instead, they rely on'",وائرس کیا ہیں اور کیسے پھیلتے ہیں ؟ وائرس کیا ہیں اور کیسے پھیلتے ہیں ؟ وائرس چھوٹے چھوٹا متاثر کرنے والے ایجنٹ ہیں ، جو جانوروں ، پودوں اور وبا سے متعلق تمام قسموں حیاتیاتی جانداروں کو متاثر کرسکتے ہیں ، لیکن وائرس زندہ جاندار نہیں سمجھا جاتا کیونکہ وائرس اپنی اولاد پیدا کرنے کی صلاحیت نہیں رکھتے بلکہ اس پر ہی بھروسے کرتے ہیں ۔
+Query 128,'نیورو ٹرانسمیٹر کے کردار کیا ہیں؟','What are the roles of neurotransmitters?',' نیورو ٹرانسمیٹر کے کردار کیا ہیں؟\nنیورو ٹرانسمیٹر کے کردار کیا ہیں؟ نیورو ٹرانسمیٹر کے کردار ک',"' What is the role of Neurotransmitter?\nThe neurotransmitters are the chemical messengers that are
+released from the nerve endings and are responsible for the transmission of the nerve impulses from
+one neuron to another. The neurotransmitters are released from the presynaptic neuron and bind to
+the receptors on the postsynaptic neuron. The'",Neurotransmitter کا رول کیا ہے ؟ Neurotransmitters وہ کیمیکل میکنزم ہیں جو اعصاب کے آخر میں سے نکالے جاتے ہیں اور ایک اعصاب سے دوسرے اعصاب کو بھیجنے کے لئے ذمہ دار ہیں ۔ Neurotransmitters پوزیاٹک اعصاب سے نکالے جاتے ہیں اور پوزیاٹک اعصاب پر وسیلے بناتے ہیں ۔
+Query 129,'قوس قزح کیسے بنتی ہے؟','How are rainbows formed?',' اور اس کے علاج کے طریقے کیا ہیں؟\nقوس قزح کیسے بنتی ہے؟ اور اس کے علاج کے طریقے کیا ہیں',"' What is a rainbow?\nA rainbow is a natural phenomenon that occurs when light from the sun is
+refracted by water droplets in the atmosphere. The light is refracted in such a way that it creates
+a spectrum of colors, with red on the outside and violet on the inside. The rainbow is often seen as
+a'",ایک بارش کا کیا مطلب ہے ؟ ایک بارش ایک قدرتی phenomenon ہے ، جب سورج کی جانب سے روشنی کو ماحول میں پانی کے ٹکڑے سے رکایا جاتا ہے ۔ ان ٹکڑوں کے ذریعے روشنی رکائی جاتی ہے جس کے نتیجے میں رنگوں کا ایک وسیع spectrum پیدا ہوتا ہے ، جس میں اندر سے سرخ اور اندر سے violetہ ہوتا ہے ۔
+Query 130,'کیا آپ پلاسٹک کے فضلہ کو کم کرنے کے طریقے تجویز کرسکتے ہیں؟','Can you suggest ways to reduce plastic waste?','؟\nکیا آپ پلاسٹک کے فضلہ کو کم کرنے کے طریقے تجویز کرسکتے ہیں؟؟\nپلاسٹک کے فضلہ کو کم کرنے ک�',"' I want to know how to reduce the plastic effect in my photos. I have a Canon 5D Mark III and a
+24-70mm f/2.8L II USM lens. I use a 1.4x extender and a 2x extender. I use a 1'",مجھے اپنے تصاویر میں پلاسٹک کے اثر کو کم کرنے کے طریقے سے جاننا چاہئیے ۔ میرے پاس ایک Canon پانچ ڈی مارک III اور ایک ولتویزر فار2.8 ایل آئی ایس ایم لنز ہے ۔ میں ایک 1.4 ایکس ایکس توسیعی اور ایک ایکس توسیعی استعمال کرتا ہوں ۔
+Query 131,'خلائی دوربین کا مقصد کیا ہے؟',"""What's the purpose of space telescopes?""","' کیا خلائی دوربین کا مقصد کونسے چیزوں کو دیکھنا ہے؟ کیا خلائی دوربین کا مقصد کونسے چیزوں کو دیکھنا
+ہے؟ کیا خلائی دوربین ک'","' What is the purpose of a space camera?\nThe space camera is a device that is used to take pictures
+of the Earth from space. It is used to take pictures of the Earth from space. The space camera is
+used to take pictures of the Earth from space. The space camera is used to take pictures of the
+Earth'",خلائی کیمرے کا مقصد کیا ہے ؟ خلائی کیمرے کا ایک ڈیوائس ہے جس کو خلا سے زمین کی تصاویر لینے کے لیے استعمال کیا جاتا ہے ۔
+Query 132,'مختلف ممالک میں سیاسی انتخابات کیسے کام کرتے ہیں؟','How do political elections work in different countries?',"' (Political Elections in Different Countries)\nPolitical elections in different
+countries\nPolitical elections in different countries\nPolitical elections in different
+countries\nPolitical elections in different countries\nPolitical elections in different
+countries\nPolitical elections in different countries\nPolitical elections in different
+countries\nPolitical elections in different countries\nPolitical elections in different
+countries\nPolitical elections in'","' What is the process of political elections in different countries?\nWhat is the process of
+political elections in different countries?\nWhat is the process of political elections in different
+countries?\nWhat is the process of political elections in different countries?\nWhat is the process
+of political elections in different countries?\nWhat is the process of political elections in
+different'",مختلف ممالک میں سیاسی انتخاب کا عمل کیا ہے ؟ مختلف ممالک میں سیاسی انتخاب کا عمل کیا ہے ؟ مختلف ممالک میں سیاسی انتخاب کا عمل کیا ہے ؟ مختلف ممالک میں سیاسی انتخاب کا عمل کیا ہے ؟
+Query 133,'جسم میں اینٹی آکسیڈینٹ کا کیا کردار ہے؟',"""What's the role of antioxidants in the body?""","' - What is the role of antioxidants in the body?\nAntioxidants are substances that protect the body
+from the harmful effects of free radicals. Free radicals are unstable molecules that can damage
+cells and cause disease. Antioxidants can help protect the body from free radical damage by
+neutralizing them or preventing them from forming in the'","' What is the role of Antioxidants in the body?\nAntioxidants are substances that protect the body
+from the harmful effects of free radicals. Free radicals are highly reactive molecules that can
+damage cells and tissues. Antioxidants help to neutralize free radicals and prevent damage to the
+body. Antioxidants are found in'",جسم میں اینٹی آکسیجن کا کردار کیا ہے ؟ اینٹی آکسیجن وہ چیزیں ہیں جو جسم کو آزاد کوریٹرس کے مضر اثرات سے حفاظت کرتی ہیں ۔ آزاد کوریٹرس انتہائی فعال مواد ہیں جو خلائی سطح پر ضرر پہنچا سکتے ہیں ۔ اینٹی آکسیجن آزاد کوریٹرس کو neutraliz کرنے اور بدن کو نقصان پہنچانے سے روکتے ہیں ۔ اینٹی آکسیجن میں پائے جاتے ہیں ۔
+Query 134,'ڈیٹا انکرپشن کیسے کام کرتا ہے؟','How does data encryption work?','\n\nڈیٹا انکرپشن کیسے کام کرتا ہے؟\n\nڈیٹا انکرپشن کیسے کام کرتا ہے؟\n\nڈیٹا انکرپشن کیسے کام ک',"' What is Data Encryption?\nData encryption is a process of converting data into a form that cannot
+be understood by unauthorized users. It is a security measure used to protect sensitive information
+from unauthorized access, modification, or disclosure. Data encryption is an important aspect of
+information security and is widely used in various industries, including finance, healthcare'",کیا ہے ڈی اے این کیو پی ؟ ڈی اے این کیو پی ، ڈاٹا کو ایسی شکل میں تبدیل کرنے کا عمل ہے جسے غیر مجاز استعمال کرنے والے نہیں سمجھ سکتے ۔ یہ ایک حفاظتی قدم ہے جو غیر مجاز رسائی ، تبدیلی یا اشاعت سے متعلق حساس اطلاعات کے تحفظ کے لئے استعمال کیا جاتا ہے ۔ ڈی اے این کیو پی ، اطلاعاتی تحفظ کا ایک اہم پہلو ہے اور مالی ، حفظان صحت ، حفظان صحت سمیت مختلف صنعتوں میں بہت
+Query 135,'سوشل میڈیا کے نفسیاتی اثرات کیا ہیں؟','What are the psychological effects of social media?',"'\nسوشل میڈیا کے نفسیاتی اثرات کیا ہیں؟\nسوشل میڈیا کے نفسیاتی اثرات کیا ہیں؟ سوشل میڈیا کے نفسیاتی
+اث'","' (Social Media Psychological Effects)\nSocial media is a great way to connect with people from all
+over the world. It can also be a great way to stay in touch with friends and family who live far
+away. However, social media can also have negative effects on our mental health. In this blog post,
+we will discuss'",( سوشل میڈیا پزویتیکل اثرات ) سوشل میڈیا دنیا بھر کے لوگوں کے ساتھ جڑنے کا ایک بہت ہی اچھا طریقہ ہے ۔ یہ اپنے دور دراز رہنے والے دوستوں اور اہل خانہ کے ساتھ رابطہ قائم کرنے کا ایک بہت ہی اچھا طریقہ بھی ہو سکتا ہے ۔ تاہم سوشل میڈیا کے منفی اثرات ہماری ذہنی صحت پر بھی منفی اثرات مرتب کر سکتے ہیں ۔ اس بلاگ پوسٹ میں ہم اس موضوع پر بحث کریں گے ۔
+Query 136,'ستارے کیسے توانائی پیدا کرتے ہیں؟','How do stars produce energy?',' - ہر چیز کے بارے میں\nستارے کیسے توانائی پیدا کرتے ہیں؟ - ہر چیز کے بارے میں\nستارے کیسے توانائی',"' What are stars made of?\nWhat are stars made of?\nWhat are stars made of? What are stars made of?
+What are stars made of? What are stars made of? What are stars made of? What are stars made of? What
+are stars made of? What are stars made of? What are stars made'",ستارے کیا ہیں ؟ ستارے کیسے بنائے گئے ہیں ؟ ستارے کیسے بنائے گئے ہیں ؟ ستارے کیسے بنائے گئے ہیں ؟ ستارے کیسے بنائے گئے ہیں ؟ ستارے کیسے بنائے گئے ہیں ؟
+Query 137,'گوٹن برگ پرنٹنگ پریس کی کیا اہمیت ہے؟',"""What's the significance of the Gutenberg printing press?""",' اور اس کے بارے میں کیا کہا جاتا ہے؟\nگوٹن برگ پرنٹنگ پریس کی کیا اہمیت ہے؟ اور اس کے بارے میں',"' What is the importance of Gottingen Printing Press?\nThe Gottingen Printing Press was established
+in 1751 by the Duke of Gottingen. It was the first printing press in the world to use the Gutenberg
+method of printing. The press was used to print books, newspapers, and other publications. The
+press'",گانگنگ پرنٹنگ پریس کی اہمیت کیا ہے ؟ گانگنگ پرنٹنگ پریس کا قیام Duke گانگنگ کے ذریعہ میں کیا گیا تھا ۔ یہ دنیا میں پرنٹنگ کا پہلا پریس تھا جس نے پرنٹنگ کے طریقہ کار کا استعمال کیا ۔ اس پریس کو کتابیں ، اخبارات اور دیگر اشاعتات کے لئے استعمال کیا گیا تھا ۔
+Query 138,'وقت کے ساتھ ساتھ ماحولیاتی نظام کیسے بدلا جاتا ہے؟','How do ecosystems change over time?',' (کے ایس ہارڈی)\nوقت کے ساتھ ساتھ ماحولیاتی نظام کیسے بدلا جاتا ہے؟ (کے ایس ہارڈی)\nوقت کے سات',"' (How does the environment change with time?)\nThe environment is the sum total of all the
+physical, chemical and biological factors that surround us. It includes the atmosphere, water, soil,
+plants, animals and microorganisms. The environment is constantly changing due to natural and man-
+made factors. The natural factors include the sun,'",( وقت کے ساتھ ماحول کیسے بدل جاتا ہے ؟ ) ماحول ان تمام جسمانی ، کیمیکل اور حیاتیاتی عوامل کا مجموعہ ہے جو ہم پر موجود ہیں ، ان میں ماحول ، پانی ، مٹی ، نباتات ، جانور اور مائیکرو انسٹی ٹیوٹ شامل ہیں ۔ ماحولیاتی اور انسانوں سے بنا ہوا عوامل کے سبب بدل رہا ہے ۔ ان میں سورج شامل ہے ۔
+Query 139,'مکڑی کی بنیادی اناٹومی کیا ہے؟',"""What's the basic anatomy of a spider?""","'؟\nمکڑی کی بنیادی اناٹومی کیا ہے؟؟\nمکڑی کی بنیادی اناٹومی کیا ہے؟؟\nمکڑی کی بنیادی اناٹومی کیا
+ہے؟؟\n'","' What is the basic anatomy of a frog?\nThe frog is a small animal that lives in water. It has a
+long body and short legs. It has a long tail and a short head. It has a long neck and a short back.
+It has a long mouth and a short nose. It has a long tongue'",خریف کی بنیادی anatom کیا ہے ؟ خریف ایک چھوٹے سے جانور ہے جو پانی میں رہتا ہے ، جس کے ایک طویل جسم اور تھوڑے پیٹ ہیں ، جس کے ایک لمبی ٹائی اور تھوڑے سر ہیں ، جس کا ایک لمبی گردن اور لمبی پیٹھ ہے ، جس کی ایک طویل زبان ہے ۔
+Query 140,'زلزلے کی پیمائش کیسے کی جاتی ہے؟','How are earthquakes measured?',"' (How to measure an earthquake?)\nزلزلے کی پیمائش کیسے کی جاتی ہے؟ (How to measure an
+earthquake?)\nزلزلے کی پیمائش کیسے کی جاتی ہے؟ (How to measure an earthquake'","' What is the measurement of an earthquake?\nEarthquakes are measured on a scale called the Richter
+scale. The Richter scale is a logarithmic scale, which means that each number on the scale is ten
+times greater than the number before it. For example, a magnitude 5 earthquake is ten times greater
+than a'",ایک زلزلہ کی پیمائش کیا ہوتی ہے ؟ ایک پیمائش زلزلہ کی پیمائش ایک ریرجی پیمائش کی جاتی ہے جسے ریرجی پیمائش کہا جاتا ہے ۔ ریرجی پیمائش ایک لوجیتھک پیمائش ہے جس کا مطلب ہے کہ اس پیمائش میں سے ہر پیمائش اس پیمائش سے دس گنا زیادہ ہوتی ہے ۔ مثال کے طور پر ایک شدت
+Query 141,'فنانس میں مصنوعی ذہانت کا کیا کردار ہے؟',"""What's the role of artificial intelligence in finance?""","' (انگریزی میں)\nArtificial intelligence (AI) is a term that is used to describe the ability of
+machines to perform tasks that normally require human intelligence. AI is a rapidly growing field,
+with applications in a wide range of industries, including finance. In this article, we will explore
+the role of'","' (What is the role of artificial intelligence in finance?)\nArtificial intelligence (AI) is a
+branch of computer science that deals with the creation of intelligent machines that work and react
+like humans. AI is a rapidly growing field that has the potential to revolutionize many industries,
+including finance. In this article, we will discuss'",( فائنانس میں آرٹی فیشل انٹلیجنس کا کردار کیا ہے ؟ ) آرٹی فیشل انٹلیجنس ( آرٹی فیشل انٹلیجنس ) کمپیوٹر سائنس کی ایک شاخ ہے ، جو ایسی انٹلیجنس مشینوں کی تخلیق سے متعلق کام کرتی ہے جو انسانوں کی طرح کام کرتی ہیں ۔
+Query 142,'3D پرنٹنگ کیسے کام کرتی ہے؟','How does 3D printing work?',' 3D پرنٹنگ کیسے کام کرتی ہے؟\n3D پرنٹنگ کیسے کام کرتی ہے؟ 3D پرنٹنگ کیسے کام کرتی ہے؟\n3D پرنٹ',"' What is 3D Printing?\n3D printing is a process of making three-dimensional solid objects from a
+digital file. The creation of a 3D printed object is achieved using an additive process, where
+successive layers of material are laid down in different shapes. 3D printing is also known as
+additive manufacturing, which'",کیا یہ ہے ؟ ڈیجیٹل فائل سے تین دھارے والے ٹھوس اشیاء تیار کرنے کا عمل ہے ۔ ڈیجیٹل فائل سے تین دھارے والے زیورات تیار کرنے کا یہ عمل additive عمل استعمال کرتے ہوئے حاصل کیا جاتا ہے ، جہاں مواد کے دو لین مختلف شکلوں میں ڈالا جاتا ہے ۔ اسے ڈیجیٹل مینوفیکچرنگ additive manufacturing بھی کہا جاتا ہے ۔
+Query 143,'ڈیجیٹل مارکیٹنگ کی بنیادی باتیں کیا ہیں؟','What are the basics of digital marketing?',"' (Digital Marketing Basics)\nڈیجیٹل مارکیٹنگ کی بنیادی باتیں کیا ہیں؟ (Digital Marketing
+Basics)\nڈیجیٹل مارکیٹنگ کی بنیادی باتیں کیا ہیں؟ (Digital'","' What are the basic things of digital marketing?\nDigital marketing is a type of marketing that
+uses digital technologies such as the internet, mobile phones, and social media to promote products
+and services. It is a form of marketing that uses digital channels such as search engines, social
+media, email, and websites to reach and engage with'",ڈیجیٹل مارکیٹنگ کی بنیادی چیزیں کیا ہیں ؟ ڈیجیٹل مارکیٹنگ ایک قسم کی مارکیٹنگ ہے جو انٹرنیٹ ، موبائل فون اور سوشل میڈیا جیسے ڈیجیٹل ٹیکنالوجیوں کو استعمال کرتی ہے تاکہ مصنوعات اور خدمات کو فروغ دیا جا سکے ۔ یہ ایک مارکیٹنگ ہے جو گوگل ، سوشل میڈیا ، ای میل اور ویب سائٹ جیسے ڈیجیٹل چینلوں کو استعمال کرتی ہے اور لوگوں تک پہنچتا ہے ۔
+Query 144,'غربت تعلیم کو کس طرح متاثر کرتی ہے؟','How does poverty affect education?',"' (انگریزی میں)\nWestward Education: How Does It Affect Us?\nThe Westward Education: How Does It
+Affect Us? is a book that explores the impact of western education on Pakistan. The book is written
+by Dr. Muhammad Iqbal, a renowned scholar and educationist. The'","' (The West and Education)\nThe West and Education\nThe West and Education\nThe West and
+Education\nThe West and Education\nThe West and Education\nThe West and Education\nThe West and
+Education\nThe West and Education\nThe West and Education\nThe West and Education\nThe West and
+Education\nThe West and'",( مشرق اور تعلیم ) مشرق اور تعلیم ۔ مشرق اور تعلیم ۔ مشرق اور تعلیم ۔ مشرق اور تعلیم ۔ مشرق اور تعلیم ۔ مشرق اور تعلیم ۔ مشرق اور تعلیم ۔ مشرق اور تعلیم ۔ مشرق اور تعلیم ۔ مشرق اور تعلیم
+Query 145,'کیا آپ نیند کے چکروں کی سائنس کی وضاحت کرسکتے ہیں؟','Can you explain the science of sleep cycles?',' آپ نیند کے چکروں کی سائنس کی وضاحت کرسکتے ہیں؟\nکیا آپ نیند کے چکروں کی سائنس کی وضاحت کرسکتے ہی�',"' What is the science behind the spinning of the Earth?\nThe Earth is a spinning ball. It is
+spinning on its axis. The Earth is spinning on its axis. The Earth is spinning on its axis. The
+Earth is spinning on its axis. The Earth is spinning on its axis. The Earth is spinning on its axis'",زمین کی نکاسی کے پیچھے کیا سائنس ہے ؟ زمین ایک نکاسی کا بال ہے ، جو اپنے سائے پر نکاسی ہے ، زمین اپنے سائے پر نکاسی ہے ، زمین اپنے سائے پر نکاسی ہے ، زمین اپنے سائے پر نکاسی ہے
+Query 146,'گیلے علاقوں کی اہمیت کیا ہے؟',"""What's the importance of wetlands?""","' - Gilay Region Importance in Urdu\nGilay Region Importance in Urdu\nGilay Region Importance in
+Urdu\nGilay Region Importance in Urdu\nGilay Region Importance in Urdu\nGilay Region Importance in
+Urdu\nGilay Region Importance in Urdu\nGilay Region Importance in Urdu\nGilay Region Importance in
+Urdu\n'","' What is the importance of Gilgit-Baltistan?\nGilgit-Baltistan is a region in the north of
+Pakistan. It is a mountainous area with a population of about 1.5 million people. The region is
+divided into two parts: the Gilgit Agency and the Baltistan Agency. The Gilgit'",گلگت بلتستان اور Baltistan کی اہمیت کیا ہے ؟ گلگت بلتستان اور Baltistan کا ایک پہاڑی علاقہ ہے ، اس میں تقریباً ایک ملین لوگوں کی آبادی ہے ۔ یہ علاقہ دو حصوں میں تقسیم ہے : گلگت بلتستان اور Baltistan ۔
+Query 147,'خون کے خلیات آکسیجن کیسے لے جاتے ہیں؟','How do blood cells carry oxygen?',"' (How red blood cells take oxygen)\nخون کے خلیات آکسیجن کیسے لے جاتے ہیں؟ (How red blood cells take
+oxygen)\nخون کے خلیات آکسیجن کیسے ل�'","' (How red blood cells take oxygen?)\nA. ہوائیڈروجن\nB. ہوائیڈروکربن\nC. ہوائیڈروکربن\nD.
+ہوائیڈروکربن\nAnswer:'",( ریڈ کووڈ کیلٹس آکسیجن کیسے لے جاتے ہیں ؟ ) اے ہوائیڈروجن بی ۔ ہوائیڈروکربن سی ۔ ہوائیڈروکربن ڈی ۔ ہوائیڈروکربن جواب :
+Query 148,'معاشرے میں تعلیم کا کیا کردار ہے؟',"""What's the role of education in society?""","' (انگریزی میں)\nEducation is the key to success in life. It is the most important thing in the
+world. It is the most important thing in the world. It is the most important thing in the world. It
+is the most important thing in the world. It is the most important thing in'","' What is the role of education in society?\nThe role of education in society is to make people
+aware of their rights and duties. It is the key to success in life. It helps people to develop their
+skills and knowledge. It also helps them to make better decisions in their lives. Education is the
+key to success in'",معاشرے میں تعلیم کا کردار کیا ہے ؟ معاشرے میں تعلیم کا کردار لوگوں کو اپنے حقوق اور فرائض سے واقف کرنا ہے ، یہ زندگی میں کامیابی کی کلیدی ہے ، اس سے لوگوں کو اپنی ہنر مندی اور معلومات کی ترقی کرنے میں مدد ہوتی ہے ، اس سے انہیں اپنی زندگی میں بہتر فیصلے کرنے میں بھی مدد ہوتی ہے ۔
+Query 149,'شہری پھیلاؤ حیاتیاتی تنوع کو کس طرح متاثر کرتا ہے؟','How does urban sprawl impact biodiversity?',"' - ہندوستان میں شہری پھیلاؤ کے اثرات\nUrban sprawl affects the biodiversity in many ways. It
+reduces the area of natural habitat, increases the area of built-up area, and increases the distance
+between the natural habitat and the human settlements.'","' (2021)\nThe urban spread has a significant impact on the biological diversity of the city. The
+urban spread is a process of urbanization in which the urban area expands beyond the city limits.
+The urban spread is a process of urbanization in which the urban area expands beyond the city
+limits. The urban spread is a'",(2021) شہری پھیلنے کا شہر کی بایولوجیکل گوناگونیت پر ایک اہم اثر پڑتا ہے ۔ شہری پھیلنا شہری ترقی کا ایک عمل ہے جس میں شہری رقبہ شہر کی حد سے آگے بڑھتا ہے ۔ شہری پھیلنا شہری ترقی کا ایک عمل ہے جس میں شہری رقبہ شہر کی حد سے آگے بڑھتا ہے ۔
+Query 150,'جگر کا کام کیا ہے؟',"""What's the function of the liver?""","' جگر کے کام کے بارے میں معلومات\nThe liver is a large, reddish-brown organ that is located in the
+upper right portion of the abdomen. It is the largest internal organ in the body and is responsible
+for many important functions. The liver is a vital organ that'","' What is the function of the liver?\nThe liver is a large organ that is located in the upper right
+side of the abdomen. It is the largest internal organ in the body and is responsible for many
+important functions. The liver is a vital organ that plays a crucial role in the body’s metabolism
+and digestion. It is'",لوڈی کا کام کیا ہے ؟ لوڈی ایک بڑا داخلی organ ہے جو شکم کے بالائی دہ حصے میں واقع ہے ۔ یہ بدن کا سب سے بڑا داخلی organ ہے اور اس کی کئی اہم کاموں کا ذمہ دار ہے ۔ لوڈی ایک اہم داخلی organ ہے جو بدن کے تغذیہ اور ڈبہ بندی میں ایک اہم کردار ادا کرتا ہے ۔
+Query 151,'مختلف فن کی شکلیں ایک دوسرے کو کس طرح متاثر کرتی ہیں؟','How do different art forms inspire each other?',"' اس کے بارے میں آپ کا کیا خیال ہے؟ آپ کا کیا خیال ہے کہ فن کی شکلیں ایک دوسرے کو کس طرح متاثر کرتی
+ہی'","' What are the different ways in which different forms of art influence each other?\nThe different
+forms of art influence each other in the following ways:\n1. The different forms of art influence
+each other in the following ways:\n2. The different forms of art influence each other in the
+following ways:\n3. The different forms of'",کیا مختلف طریقوں میں مختلف قسم کے آرٹ کو ایک دوسرے پر اثرانداز کیا جاتا ہے ؟ مختلف قسم کے آرٹ کو ایک دوسرے پر اثرانداز کیا جاتا ہے ؟ مختلف قسم کے آرٹ کو ایک دوسرے پر اثرانداز کیا جاتا ہے ؟
+Query 152,'انسانی حقوق کے بنیادی اصول کیا ہیں؟','What are the basic principles of human rights?',"' (Human Rights Principles)\nانسانی حقوق کے بنیادی اصول کیا ہیں؟ (Human Rights Principles)\nHuman
+Rights Principles\nHuman rights are the basic rights and freedoms that belong to every person in the
+world, from birth until death. These rights are protected by international law and are en'","' What are the basic principles of human rights?\nThe basic principles of human rights are:\n1. The
+right to life and liberty\n2. The right to equality\n3. The right to freedom of thought, conscience
+and religion\n4. The right to freedom of expression\n5. The right to freedom of association\n'",انسانی حقوق کے بنیادی اصول کیا ہیں ؟ انسانی حقوق کے بنیادی اصول درج ذیل ہیں ۔
+Query 153,'کمپوسٹنگ مٹی کو کس طرح فائدہ پہنچاتی ہے؟','How does composting benefit the soil?',' - 2021\nکمپوسٹنگ مٹی کو کس طرح فائدہ پہنچاتی ہے؟ - 2021\nکمپوسٹنگ مٹی کو کس طرح فائدہ پہنچاتی ہ�',"' (How composting soil benefits)\nThe soil is the most important component of the ecosystem. It is
+the foundation of the entire ecosystem. It is the base of the entire ecosystem. It is the base of
+the entire ecosystem. It is the base of the entire ecosystem. It is the base of the entire
+ecosystem. It'",( کیسا کمپوسٹنگ سوائل کے فوائد ہیں ؟ ) ماحولیاتی نظام کا سب سے اہم عنصر مٹی ہے ، یہ سارے ماحولیاتی نظام کی بنیاد ہے ، یہ سارے ماحولیاتی نظام کی بنیاد ہے ، یہ سارے ماحولیاتی نظام کی بنیاد ہے
+Query 154,'ہمدردی کے پیچھے سائنس کیا ہے؟',"""What's the science behind empathy?""",' ہمدردی کے پیچھے سائنس کیا ہے؟\nہمدردی کے پیچھے سائنس کیا ہے؟\nہمدردی کے پیچھے سائنس کیا',"' (What is science behind empathy?)\nThe word empathy is derived from the Greek word “empathia”
+which means “to suffer with”. It is a term used to describe the ability to understand and share the
+feelings of another person. Empathy is a very important aspect of human nature and is considered to
+be one of'",( مہلت کی سائنس کیا ہے ؟ ) مہلت کا مطلب یونانی لفظ مہلت سے مشتہر ہے جس کا مطلب ہے دُکھ اُٹھانے کے لئے ۔ مہلت ایک ایسا لفظ ہے جو دوسرے شخص کے جذبات کو سمجھنے اور اُن کے ساتھ ساجھیداری کرنے کی صلاحیت کو ظاہر کرتا ہے ۔ مہلت انسانی فطرت کا ایک بہت ہی اہم پہلو ہے اور اس کی تعداد بہت زیادہ ہے ۔
+Query 155,'ونڈ ٹربائن کیسے طاقت پیدا کرتی ہے؟','How do wind turbines generate power?',"' - How does a turbine generate power?\nA turbine is a machine that converts the energy of a fluid
+into useful work. The fluid can be a liquid, a gas, or a mixture of the two. The most common type of
+turbine is the steam turbine, which uses steam to drive a turbine. The steam turbine is'","' (How does a turbine work?)\nA turbine is a device that converts the energy of a fluid into
+mechanical energy. Turbines are used in many applications, including power generation, propulsion,
+and air conditioning. The most common type of turbine is the steam turbine, which uses steam to
+drive a turbine blade. The steam'",turbine کیا ہے ؟ ( کیسے کام کرتا ہے ؟ ) ایک turbine ایک ایسا آلات ہے جو توانائی کو میکانزم کی توانائی سے تبدیل کرتا ہے ۔ turbinوں کو بجلی پیدا کرنے ، پروپلائزیشن اور ایئر کنڈیشننگ سمیت بہت سی ایپلی کیشنز میں استعمال کیا جاتا ہے ۔ سب سے عام ٹرانسم ٹرانسم وہ ہے جو ٹرانسم کے بریج کو چلانے کے لئے اسٹیل کا استعمال کرتا ہے ۔
+Query 156,'روشن خیالی کی کیا اہمیت ہے؟',"""What's the significance of the Enlightenment?""","' (انگریزی میں)\nWhat is the importance of the idea of the ""idea of the idea""?\nThe idea of the idea
+is a philosophical concept that has been discussed by philosophers for centuries. It refers to the
+notion that ideas can be understood as having an existence separate from the physical world. In
+other'","' (What is the importance of the idea of the “Luminous Idea”?)\nThe idea of the “Luminous Idea” is a
+very important idea in the philosophy of Sufism. It is a very important idea in the philosophy of
+Sufism. It is a very important idea in the philosophy of'",( معقول تصور کی اہمیت کی کیا اہمیت ہے ؟ ) معقول تصور Sufism میں ایک بہت ہی اہم تصور ہے ، یہ فلسفی میں ایک بہت ہی اہم تصور ہے ، یہ فلسفی میں ایک بہت ہی اہم تصور ہے ۔
+Query 157,'معاشرتی تعامل ذہنی صحت کو کس طرح متاثر کرتا ہے؟','How does social interaction affect mental health?',"'\nPsychosocial factors affect mental health in many ways. They can affect a person’s mental health
+by affecting their physical health, their social relationships, and their environment. They can also
+affect a person’s mental health by affecting their ability to cope with stress and trauma.
+Psychosocial factors can also affect a person’s'","' (A Study of the Psychological Health of Social Interaction)\nThe present study was conducted to
+investigate the relationship between social interaction and psychological health. The sample of the
+study consisted of 200 students of the University of Karachi. The data was collected through the use
+of a questionnaire. The results of the study revealed that there was a'",( سماجی رابطے اور نفسیاتی صحت کے تعلق سے نفسیاتی صحت کا مطالعہ ) فی الحال اس مطالعے کا انعقاد سماجی رابطے اور نفسیاتی صحت کے تعلق سے کیا گیا ہے ۔ اس مطالعے کا نمونہ یونیورسٹی آف پکھواڑے کے طلبا پر مشتمل ہے ۔ اس مطالعے کے نتائج یہ ظاہر کرتے ہیں کہ اس مطالعے کے نتائج
+Query 158,'سارا اناج کھانے کے کیا فوائد ہیں؟','What are the benefits of eating whole grains?',"' سارا اناج کھانے کے کیا فوائد ہیں؟\nسارا اناج کھانے کے کیا فوائد ہیں؟ سارا اناج کھانے کے کیا فوائد
+�'","' What are the benefits of Sara Inaj?\nSara Inaj is a type of food that is made from the seeds of
+the plant called ""Sara Inaj"". It is a popular food in many parts of the world, especially in the
+Middle East and North Africa. The seeds of the plant are ground into a'",سارا عاج کے فوائد کیا ہیں ؟ سارا عاج ایک قسم کا غذا ہے جس میں پودوں کی نسلیں استعمال کی جاتی ہیں ۔ اسے کہا جاتا ہے کہ سارا عاج ۔ یہ غذا دنیا کے کئی حصوں میں بہت مقبول غذا ہے ، خاص طور پر مشرق وسطی اور شمال  مغرب میں ۔ اس پودوں کی نسلوں کو اگلی فصلوں کے طور پر اگایا جاتا ہے ۔
+Query 159,'سمندری حیاتیات اپنے رہائش گاہوں کے مطابق کیسے ڈھال لیتے ہیں؟','How do marine organisms adapt to their habitats?','\nسمندری حیاتیات اپنے رہائش گاہوں کے مطابق کیسے ڈھال لیتے ہیں؟. سمندری حیاتیات اپنے رہائش',"' (With Pictures)\nThe way in which animals build their homes depends on the type of habitat in
+which they live. Some animals build their homes in the ground, while others build their homes in
+trees or on the ground. Some animals build their homes in the water, while others build their homes
+on land. Some animals build'",تصویروں کے ساتھ ( تصویروں کے ساتھ ) جانوروں نے اپنے گھروں کی تعمیر کا طریقہ اس علاقے میں ہے جہاں وہ رہتے ہیں ۔ کچھ جانوروں نے اپنے گھروں کو زمین میں بنایا ہے ، جبکہ دوسرے لوگ درختوں یا زمین پر اپنے گھروں کو بناتے ہیں ۔
+Query 160,'صحت مند تعلقات کے اجزاء کیا ہیں؟','What are the components of a healthy relationship?','\nصحت مند تعلقات کے اجزاء کیا ہیں؟\nصحت مند تعلقات کے اجزاء کیا ہیں؟ صحت مند تعلقات کے اجزاء کیا ہ',"' What are the components of healthy relationships?\nWhat are the components of healthy
+relationships?\nWhat are the components of healthy relationships? What are the components of healthy
+relationships? What are the components of healthy relationships? What are the components of healthy
+relationships? What are the components of healthy relationships? What are the components of healthy
+relationships?'",صحت مند رشتوں کے ارکان کیا ہیں ؟ صحت مند رشتوں کے ارکان کیا ہیں ؟ صحت مند رشتوں کے ارکان کیا ہیں ؟ صحت مند رشتوں کے ارکان کیا ہیں ؟ صحت مند رشتوں کے ارکان کیا ہیں ؟ صحت مند رشتوں کے ارکان کیا ہیں ؟
+Query 161,'مختلف میڈیموں میں صوتی سفر کیسے ہوتا ہے؟','How does sound travel in different mediums?',"' (How sound travels through different media)\nمختلف میڈیموں میں صوتی سفر کیسے ہوتا ہے؟ (How sound
+travels through different media)\nمختلف میڈیموں میں صوتی سفر ک'","' (How sound travels through different mediums)\nSound travels through different mediums. Sound
+travels through air, water, and solids. Sound travels through air, water, and solids. Sound travels
+through air, water, and solids. Sound travels through air, water, and solids. Sound travels through
+air, water, and solids.'",( کیونکر آواز مختلف مواصلات کے ذریعے سفر کرتی ہے ؟ ) آواز مختلف مواصلات کے ذریعے سفر کرتی ہے ۔ آواز ہوا ، پانی اور ٹھنڈوں سے سفر کرتی ہے ۔ آواز ہوا ، پانی اور ٹھنڈوں سے سفر کرتی ہے ۔ آواز ہوا ، پانی اور ٹھنڈوں سے سفر کرتی ہے ۔
+Query 162,'سوشیالوجی اور نفسیات میں کیا فرق ہے؟',"""What's the difference between sociology and psychology?""","' - Social Psychology and Psychoanalysis\nسوشیالوجی اور نفسیات میں کیا فرق ہے؟ - Social Psychology
+and Psychoanalysis\nSocial Psychology and Psychoanalysis\nSocial psychology is the study of how
+people think about, influence, and relate to one another. It'","' What is the difference between sociology and psychology?\nSociology is the study of human society
+and social relationships. It is a social science that studies the structure and functioning of human
+society. It is a scientific discipline that deals with the study of human society and social
+relationships. It is a social science that studies the structure and'",معاشرت اور نفسیات میں کیا فرق ہے ؟ معاشرت اور نفسیات میں کیا فرق ہے ؟ معاشرت اور نفسیات ایک سائنسی شعبہ ہے ، جس میں انسانی معاشرت اور نفسیات کا مطالعہ کیا جاتا ہے ، یہ ایک سماجی علم ہے ، یہ ایک سماجی علم ہے ، یہ ایک سماجی علم ہے ، یہ ایک سماجی علم ہے
+Query 163,'کیا آپ لچک کی سائنس کی وضاحت کرسکتے ہیں؟','Can you explain the science of elasticity?',' - ہم سب کے لئے ایک اہم سوال ہے کہ کیوں ہم لچک کے بارے میں سوچتے ہیں؟ ہم',"' What is the science behind the Lachha?\nThe Lachha is a type of bread that is made in Pakistan and
+India. It is a flatbread that is made from wheat flour and water. The dough is rolled out into a
+thin sheet and then cooked on a griddle or tawa. The Lach'",&; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &;
+Query 164,'ریاضی کی تاریخ کیا ہے؟',"""What's the history of mathematics?""","' ریاضی کی تاریخ کیا ہے؟ ریاضی کی تاریخ کیا ہے؟ ریاضی کی تاریخ کیا ہے؟ ریاضی کی تاریخ کیا ہے؟ ریاضی
+کی تاریخ کیا ہے؟ ریاضی کی تاریخ'","' What is the history of mathematics?\nThe history of mathematics is the story of human discovery of
+mathematical ideas and concepts. It is the story of how we have come to understand the world around
+us. It is the story of how we have come to understand the universe and the laws that govern it. It
+is the story of'",میٹکس کی تاریخ کیا ہے ؟ میٹکس کی تاریخ ، میٹکس کے نظریات اور تصورات کی انسانی تحقیق کی کہانی ہے ۔ یہ کہانی ہے کہ ہم کیسے دنیا کو سمجھنے کے لیے آئے ہیں ۔ یہ کہانی ہے کہ ہم کیسے کائنات کو اور اس کے قوانین کو سمجھنے کے لیے آئے ہیں ۔
+Query 165,'معاشرتی تحریکیں سیاست کو کس طرح متاثر کرتی ہیں؟','How do social movements influence politics?',"'\nمعاشرتی تحریکیں سیاست کو کس طرح متاثر کرتی ہیں؟\nمعاشرتی تحریکیں سیاست کو کس طرح متاثر کرتی
+ہیں؟\nمعاشرتی تحریکیں'","' (A Study of the Impact of Social Movements on Politics)\nThe study of the impact of social
+movements on politics is a relatively new field of research. The study of the impact of social
+movements on politics is a relatively new field of research. The study of the impact of social
+movements on politics is a relatively new field'",( سیاست پر سماجی تحریکوں کے اثر کا مطالعہ ) سیاست پر سماجی تحریکوں کے اثر کا مطالعہ ایک نئی تحقیق کا شعبہ ہے ۔ سیاست پر سماجی تحریکوں کے اثر کا مطالعہ ایک نئی تحقیق کا شعبہ ہے ۔
+Query 166,'پائیدار زراعت کیا ہے؟','What is sustainable agriculture?',"' پائیدار زراعت کے لیے کیا کرنا ہے؟ پائیدار زراعت کے لیے کیا کرنا ہے؟ پائیدار زراعت کے لیے کیا کرنا
+ہ�'","' What is sustainable agriculture?\nپائیدار زراعت کیا ہے؟ What is sustainable agriculture?\nپائیدار
+زراعت کیا ہے؟ What is sustainable agriculture?\nپائیدار زراعت کیا ہے؟ What is sustainable
+agriculture?\nپائ'",پائیدار زراعت کیا ہے ؟ پائیدار زراعت کیا ہے ؟ پائیدار زراعت کیا ہے ؟ پائیدار زراعت کیا ہے ؟ پائیدار زراعت کیا ہے ؟ پائیدار زراعت کیا ہے ؟
+Query 167,'ہنسی جسم کو کیسے متاثر کرتی ہے؟','How does laughter affect the body?',"' (How does laughter affect the body?)\nہنسی جسم کو کیسے متاثر کرتی ہے؟ (How does laughter affect
+the body?)\nہنسی جسم کو کیسے متاثر کرتی ہے؟ (How does laughter'","' (How does laughter affect the body?)\nLaughter is a natural response to a joke or funny situation.
+It is a way to release tension and stress. Laughter also has many health benefits. It can help to
+improve your mood, reduce stress, and boost your immune system. Laughter can also help to improve
+your'",( ہنسنا جسم کو کیسے متاثر کرتا ہے ؟ ) ہنسنا کسی مزاحم واقعہ کافطری جواب ہے ۔ یہ دباؤ اور دباؤ کو نکالنے کا ایک طریقہ ہے ۔ ہنسنے کے ساتھ ساتھ صحت کے کئی فوائد بھی ہیں ۔ یہ تمہارے موڈ میں بہتری ، دباؤ کم کرنے اور قوت مدافعت میں اضافہ کرنے میں بھی مدد کر سکتا ہے ۔
+Query 168,'انسانی لیمفاٹک نظام کا مقصد کیا ہے؟',"""What's the purpose of the human lymphatic system?""","' - Human Lymphatic System Function\nHuman Lymphatic System Function\nThe lymphatic system is a
+network of vessels that drain excess fluid from the body. It is a part of the immune system and is
+responsible for fighting infections and diseases. The lymphatic system is made up of lymph nodes,
+lymph vessels, and'","' What is the function of the human lymphatic system?\nThe human lymphatic system is a network of
+vessels that carry lymph, a clear fluid that contains white blood cells, throughout the body. Lymph
+is produced by the lymphatic system and is filtered by the lymph nodes, which are small glands
+located throughout the body.'",انسان کے ٹیگسٹک نظام کی کیاکار ہوتی ہے ؟ انسان کے ٹیگسٹک نظام جسم کے اندر ایک ایسا نیٹ ورک ہے ، جس میں ٹیگس موجود ہے ، ایک واضح آئند ہے ، جس میں سفید خون کے خلا موجود ہے ۔ ٹیگس کا اخراج ٹیگس نوڈیوں سے ہوتا ہے ، جو جسم کے اندر واقع چھوٹے گلاے ہیں ۔
+Query 169,'زبانیں کیسے تیار ہوتی ہیں؟','How do languages evolve?',"' (How do languages come about?)\nThe question of how languages come about is a very old one. The
+first recorded discussion of the question was by the Greek philosopher Plato in the 4th century BC.
+He argued that languages are the result of the interaction of people who speak different languages.
+He also argued that languages are'","' How are languages created?\nThe language of the world is a very complex and fascinating subject.
+It is a subject that has been studied by many linguists and researchers over the years. The language
+of the world is a very complex and fascinating subject. It is a subject that has been studied by
+many linguists and researchers over'",زبانیں کیسے پیدا کی جاتی ہیں ؟ دنیا کی زبان ایک بہت ہی پیچیدہ موضوع ہے ، جسے سالوں میں بہت سے لسانیات اور محققین نے مطالعہ کیا ہے ۔ دنیا کی زبان ایک بہت ہی پیچیدہ موضوع ہے ، جسے سالوں میں بہت سے لسانیات اور محققین نے مطالعہ کیا ہے ۔
+Query 170,'پٹھوں کے درد کے پیچھے سائنس کیا ہے؟',"""What's the science behind muscle cramps?""",' (پٹھوں کے درد کے پیچھے سائنس کیا ہے؟)\nپٹھوں کے درد کے پیچھے سائنس کیا ہے؟ (پٹھو�',"' What is science behind back pain?\nپٹھوں کے درد کے پیچھے سائنس کیا ہے؟ What is science behind back
+pain?\nپٹھوں کے درد کے پیچھے سائنس کیا'",پٹھوں کے درد کے پیچھے سائنس کیا ہے ؟ پٹھوں کے درد کے پیچھے سائنس کیا ہے ؟
+Query 171,'درجہ حرارت ہوا کے دباؤ کو کیسے متاثر کرتا ہے؟','How does temperature affect air pressure?',"'\n\nQuestion:\n\nدرجہ حرارت ہوا کے دباؤ کو کیسے متاثر کرتا ہے؟\n\nSolution:\n\nThe pressure of a
+gas is directly proportional to its temperature and inversely proportional to its volume.
+Mathematically, it'","' (Temperature affects the pressure of air)\nThe pressure of air is affected by the temperature of
+air.\nThe pressure of air is affected by the temperature of air.\nThe pressure of air is affected by
+the temperature of air.\nThe pressure of air is affected by the temperature of air.\nThe pressure of
+air is affected by the'",(Temperature سے ہوا کے دباؤ کا اثر پڑتا ہے ) ہوا کے دباؤ کا اثر ہوا کے درجہ حرارت سے ہوتا ہے ، ہوا کے دباؤ کا اثر ہوا کے درجہ حرارت سے ہوتا ہے ، ہوا کے دباؤ کا اثر ہوا کے حرارت سے ہوتا ہے ، ہوا کے دباؤ کا اثر ہوا کے درجہ حرارت سے ہوتا ہے ، ہوا کے دباؤ کا اثر ہوا کے دباؤ سے ہوتا ہے
+Query 172,'غربت کی بنیادی وجوہات کیا ہیں؟','What are the main causes of poverty?',"' - What are the basic causes of the West?\nغربت کی بنیادی وجوہات کیا ہیں؟ - What are the basic
+causes of the West?\nغربت کی بنیادی وجوہات کیا ہیں؟ - What are the'","' What are the basic causes of the West?\nThe West is a term that is used to refer to the countries
+of Europe and North America. The West is a term that is used to refer to the countries of Europe and
+North America. The West is a term that is used to refer to the countries of Europe and North'",مغربی ممالک کی بنیادی وجوہات کیا ہیں ؟ مغربی ایک لفظ ہے جو امریکہ کے ممالک کے نام استعمال ہوتا ہے ۔ مغربی ایک لفظ ہے جو امریکہ کے ممالک کے نام استعمال ہوتا ہے ۔ مغربی ایک لفظ ہے جو امریکہ کے ممالک کے نام استعمال ہوتا ہے ۔
+Query 173,'ٹیم ورک سے پیداواری صلاحیت کو کیسے فائدہ ہوتا ہے؟','How does teamwork benefit productivity?',"' (آپ کی رائے)\nٹیم ورک سے پیداواری صلاحیت کو کیسے فائدہ ہوتا ہے؟ (آپ کی رائے)\nٹیم ورک سے پیداواری
+ص'","' (How does team work improve productivity?)\nIn this article, we will discuss how team work
+improves productivity. We will also discuss the benefits of team work and how it can be used to
+improve productivity.\nWhat is team work?\nTeam work is a process in which a group of people work
+together to achieve a common goal.'",( ٹیم ورک کس طرح پیداواریت کو بہتر بناتا ہے ؟ ) اس مضمون میں ہم بحث کریں گے کہ کیسے ٹیم ورک پیداواریت کو بہتر بناتا ہے ۔ ساتھ ہی ٹیم ورک کے فوائد پر بھی غور کیا جائے گا ۔ ٹیم ورک کیا ہے ؟ ٹیم ورک ایک ایسا عمل ہے جس میں لوگ ایک ہی مقصد کے حصول کے لئے ایک ساتھ مل کر کام کرتے ہیں ۔
+Query 174,'کمپیوٹر سائنس میں کچھ عام الگورتھم کیا ہیں؟','What are some common algorithms in computer science?','\n\n1. براؤزن فورچاس\n2. ڈائگنوسٹک فورچاس\n3. ڈائگنوسٹک فورچاس\n4. ڈائگنوسٹک فورچاس\n5. ڈائگن',"' What are some common algorithms in computer science?\nWhat are some common algorithms in computer
+science?\nWhat are some common algorithms in computer science?\nWhat are some common algorithms in
+computer science?\nWhat are some common algorithms in computer science?\nWhat are some common
+algorithms in computer science?\nWhat are some common algorithms in computer science?\nWhat'",کمپیوٹر سائنس میں الگوریتم کون ہیں ؟ کمپیوٹر سائنس میں الگوریتم کون ہیں ؟ کمپیوٹر سائنس میں الگوریتم کون ہیں ؟ کمپیوٹر سائنس میں الگوریتم کون ہیں ؟ الگوریتم کون ہیں ؟
+Query 175,'ڈیجیٹل کرنسی روایتی کرنسی سے کیسے مختلف ہے؟','How does digital currency differ from traditional currency?',' ڈیجیٹل کرنسی روایتی کرنسی سے کیسے مختلف ہے؟\nڈیجیٹل کرنسی روایتی کرنسی سے کیسے مختلف ہے؟\nڈیجیٹ',"' ڈیجیٹل کرنسی روایتی کرنسی سے کیسے مختلف ہے?\nWhat is the difference between digital currency and
+traditional currency? What is the difference between digital currency and traditional
+currency?\nWhat is the difference between digital currency and traditional currency? What'",ڈیجیٹل کرنسی روایتی کرنسی سے کیسے مختلف ہے ؟ ڈیجیٹل کرنسی اور روایتی کرنسی میں کیا فرق ہے ؟ ڈیجیٹل کرنسی اور روایتی کرنسی میں کیا فرق ہے ؟ ڈیجیٹل کرنسی اور روایتی کرنسی میں کیا فرق ہے ؟
+Query 176,'انسانی تلاش کی تاریخ کیا ہے؟',"""What's the history of human exploration?""","' ہم نے اسے کیا ہے اور اس کے لیے کیا ہے؟\nHuman effort history is what? We have done it and what for
+it?\nHuman effort history is what? We have done it and what for it?\n'","' What is the history of human effort?\nThe history of human effort is a history of the human mind.
+The history of the human mind is a history of the human body. The history of the human body is a
+history of the human soul. The history of the human soul is a history of the human spirit. The'",انسانی کوشش کی تاریخ کیا ہے ؟ انسانی کوشش کی تاریخ انسانی دماغ کی تاریخ ہے ۔ انسانی دماغ کی تاریخ انسانی جسم کی تاریخ ہے ۔ انسانی دماغ کی تاریخ انسانی رُوح کی تاریخ ہے ۔
+Query 177,'پودے کاربن سائیکلنگ میں کس طرح حصہ ڈالتے ہیں؟','How do plants contribute to carbon cycling?',' - ہوم\nپودے کاربن سائیکلنگ میں کس طرح حصہ ڈالتے ہیں؟ - ہوم\nپودے کاربن سائیکلنگ میں کس طرح حص�',"' What is the role of plants in the carbon cycle?\nThe carbon cycle is a natural process that
+involves the movement of carbon between the atmosphere, the biosphere, the lithosphere, and the
+hydrosphere. Plants play a crucial role in this cycle by taking in carbon dioxide from the
+atmosphere through photosynthesis and converting'",کاربن کی سائیکل میں پودوں کا کردار کیا ہے ؟ کاربن کی سائیکل ایک قدرتی عمل ہے ، جس میں ماحولیات ، بایو کروسورس ، کیتھو کروسورس اور ہائیڈرو کروسورس کے درمیان کاربن کو حرکت میں لے جانے میں پودوں کا اہم کردار ہے ۔
+Query 178,'قابل تجدید اور ناقابل تجدید وسائل میں کیا فرق ہے؟',"""What's the difference between renewable and nonrenewable resources?""","' قابل تجدید وسائل میں کیا فرق ہے؟ قابل تجدید وسائل میں کیا فرق ہے؟ قابل تجدید وسائل میں کیا فرق ہے؟
+قابل تجدید وسائل میں کیا'","' What is the difference between renewable and non-renewable resources?\nThe resources that can be
+used again and again are called renewable resources. The resources that cannot be used again and
+again are called non-renewable resources.\nThe resources that can be used again and again are called
+renewable resources. The resources that cannot be used'",قابل تجدید اور غیر قابل تجدید وسائل میں کیا فرق ہے ؟ قابل تجدید وسائل کو قابل تجدید وسائل سے کہا جاتا ہے ۔
+Query 179,'افراط زر معیشت کو کیسے متاثر کرتا ہے؟','How does inflation affect the economy?',"' (Excess Consumption and its Impact)\nExcess consumption is the consumption of goods and services
+that are not necessary for the maintenance of life. It is the consumption of goods and services that
+are not necessary for the maintenance of life. It is the consumption of goods and services that are
+not necessary for the maintenance of life.'","' (How does excessive consumption affect the economy?)\nThe excessive consumption of goods and
+services is a major problem in the modern world. It has led to a number of problems, including
+environmental degradation, economic instability, and social inequality. In this article, we will
+discuss how excessive consumption affects the economy and what can be done to'",( افراط زر کی وجہ سے معیشت کو کس طرح اثر پڑتا ہے ؟ ) اشیاء اور خدمات کی افراط زر آج کی دنیا میں ایک بڑا مسئلہ ہے ۔ اس کے نتیجے میں ماحولیاتی degradation ، اقتصادی عدم استحکام اور سماجی عدم مساوات سمیت بہت سے مسائل پیدا ہوئے ہیں ۔ اس مضمون میں ہم اس بات پر تبادلہ خیال کریں گے کہ افراط زر کی وجہ سے معیشت کو کس طرح اثر پڑتا ہے اور اس کے لئے کیاکار کیا جاسکتا ہے ۔
+Query 180,'زمین کی تزئین کی فوٹو گرافی کی بنیادی باتیں کیا ہیں؟','What are the basics of landscape photography?',"' 2022\nزمین کی تزئین کی فوٹو گرافی کی بنیادی باتیں کیا ہیں؟ 2022\nزمین کی تزئین کی فوٹو گرافی کی
+بنیادی باتیں کیا ہی�'","' What are the basic things about the decoration of the photo of the earth?\nThe earth is a
+beautiful planet, which is the only planet in the solar system that is suitable for human life. The
+earth is a beautiful planet, which is the only planet in the solar system that is suitable for human
+life. The earth is'",زمین کی تصویر کو سجانے کے بارے میں بنیادی باتیں کیا ہیں ؟ زمین ایک خوبصورت سیارہ ہے ، جو شمسی نظام میں صرف ایک سیارہ ہے جو انسانی زندگی کے لئے مناسب ہے ۔
+Query 181,'رولر کوسٹر کیسے کام کرتے ہیں؟','How do roller coasters work?',"' - How do roller coasters work?\nرولر کوسٹر کیسے کام کرتے ہیں؟ - How do roller coasters work?\nرولر
+کوسٹر کیسے کام کرتے ہیں؟ - How'","' What is a Roller Coaster?\nA roller coaster is a type of amusement ride that consists of a steel
+track supported by steel poles. The track is usually made of wood or plastic and is designed to
+provide a smooth ride for passengers. The ride is powered by a motor that moves the track back and
+forth, creating a'",Roller Coaster کیا ہے ؟ رولر کوسٹار ایک ایسا تفریحی کھیل ہے جس میں اسٹیل ٹریک اور اسٹیل پول کی مدد سے ایک اسٹیل ٹریک شامل ہوتا ہے ۔ اس ٹریک کا اصل ڈھانچہ لکڑی یا پلاسٹک سے بنایا جاتا ہے اور مسافروں کے لئے ایک سادہ ٹریک فراہم کرنے کے لئے ڈیزائن کیا جاتا ہے ۔ اس ٹریک پر ایک موٹر چلتی ہے جو ٹریک کو پیچھے پیچھے پیچھے چلتا
+Query 182,'مدافعتی نظام کا مقصد کیا ہے؟',"""What's the purpose of the immune system?""","' (پہلا حصہ)\nمدافعتی نظام کا مقصد کیا ہے؟ (پہلا حصہ)\nمدافعتی نظام کا مقصد کیا ہے؟ (پہلا
+حصہ)\nمدافعتی نظام ک'","' (Part 1)\nThe purpose of the defensive system is to protect the country from the enemy’s attack.
+The defensive system is a system that is used to protect the country from the enemy’s attack. The
+defensive system is a system that is used to protect the country from the enemy’s attack. The
+defensive system is'",( حصہ ) دفاعی نظام کا مقصد دشمن کے حملہ سے ملک کی حفاظت کرنا ہے ۔ دفاعی نظام دفاعی نظام ایک نظام ہے جو دشمن کے حملہ سے ملک کی حفاظت کے لئے استعمال کیا جاتا ہے ۔ دفاعی نظام ایک نظام ہے جو دشمن کے حملہ سے ملک کی حفاظت کے لئے استعمال کیا جاتا ہے ۔
+Query 183,'مراقبہ دماغ کی لہروں کو کیسے متاثر کرتا ہے؟','How does meditation affect brain waves?',"' (Brain waves)\nBrain waves are the electrical activity of the brain. The brain is made up of
+billions of nerve cells, or neurons, which communicate with each other through electrical impulses.
+These impulses are called brain waves. Brain waves are measured using an electroencephalogram (EEG),
+which is a test that'","' (Brain Waves)\nThe brain is a complex organ that controls all the functions of the body. It is
+made up of billions of nerve cells called neurons. These neurons are connected to each other by tiny
+fibers called axons. The brain waves are the electrical signals that travel along these axons. These
+waves are generated by'",(Brain Waves ) دماغ ایک الگ الگ قسم کا نظام ہے جو جسم کے تمام کاموں کا کنٹرول کرتا ہے ، یہ بلینسوں کے اعصابی خلا کے نام سے بنی ہے ، یہ اعصاب ایک دوسرے کے لئے چھوٹے فیبرس کے نام سے منسلک ہوتے ہیں ، یہ فیبرس brain waves ہیں جو ان ایکونوں کے پار بجلی کے اشارے پر چلتی ہیں ، یہ اشارے جسم سے باہر نکالے جاتے ہیں ۔
+Query 184,'کچھ مشہور قدیم نشانات کیا ہیں؟','What are some famous ancient landmarks?',' کیا وہ کچھ ہیں جو ہم نے دیکھے ہیں؟ کیا وہ کچھ ہیں جو ہم نے دیکھے ہ',"' What are some famous ancient monuments?\nThe Great Pyramid of Giza is one of the most famous
+ancient monuments in the world. It was built by the ancient Egyptians as a tomb for the Pharaoh
+Khufu. The pyramid is made of limestone and stands at a height of 146 meters. It is the only
+surviving'",کچھ مشہور قدیم یادگاریں کیا ہیں ؟ Giza کی عظیم Pyramid دنیا کے سب سے مشہور قدیم یادگاروں میں سے ایک ہے ۔ یہ قدیم مصریوں کے ذریعہ فرعون کے قبر کے طور پر تعمیر کیا گیا تھا ۔ یہ عظیم ترین پل ہے اور تقریباً 146 میٹر کی بلندی پر کھڑا ہے ۔ یہ ایک محفوظ مقام ہے ۔
+Query 185,'کاروبار مارکیٹ کی تحقیق کیسے کرتے ہیں؟','How do businesses conduct market research?',"' (How to do market research in business)\nMarket research is a process of collecting and analyzing
+information about a market or a product to make informed business decisions. It involves gathering
+data from various sources, such as surveys, focus groups, and customer interviews, to understand
+customer needs, preferences, and behaviors. The goal of market'","' How to do market research in business?\nMarket research is a process of collecting and analyzing
+information about the market to understand the needs and wants of the target audience. It helps
+businesses to identify opportunities, threats, and competitive advantages. Market research can be
+done through various methods such as surveys, focus groups, interviews, and observation'",کاروبار میں منڈی ریسرچ کیا جائے ؟ منڈی ریسرچ منڈی کے بارے میں معلومات جمع کرنے اور ان کی تجزیہ کرنے کا ایک عمل ہے تاکہ ٹارگیٹ آڈینس کی ضروریات اور خواہشات کو سمجھایا جاسکے ۔ یہ کاروبار کو مواقع ، خطرات اور مسابقتی فائدوں کی نشاندہی کرنے میں مددگار ثابت ہوتی ہے ۔ منڈی ریسرچ سروے ، فوکس گروپس ، انٹرویو اور مشاہدہ کے ذریعے کیا جا سکتا ہے ۔
+Query 186,'نیوروپلاسٹیٹی کیا ہے؟','What is neuroplasticity?',' نیوروپلاسٹیٹی کے لیے کیا ہے؟ نیوروپلاسٹیٹی کے لیے کیا ہے؟ نیوروپلاسٹیٹی کے لیے کیا ',"' What is Neuroplasty?\nNeuroplasty is a surgical procedure that is used to treat a variety of
+neurological conditions. It is a type of neurosurgery that involves the use of specialized
+techniques to repair or reconstruct damaged nerves. Neuroplasty can be used to treat conditions such
+as spinal cord injuries, brain tumors'",Neuroplasty کیا ہے ؟ Neuroplasty ایک سرجیکل طریقہ ہے ، جسے کئی neurological بیماریوں کے علاج کے لئے استعمال کیا جاتا ہے ۔ یہ ایک نوعیت کی Neurosurgery ہے ، جس میں صدمے سے متاثرہ اعصاب کو ٹھیک کرنے یا انہیں دوبارہ تعمیر کرنے کے لئے خصوصی تکنیکوں کا استعمال کیا جاتا ہے ۔ اس میں سانچہ کی چوٹوں ، دماغ کے کینسر جیسے امراض کے علاج کے لئے استعمال کیا جاتا ہے ۔
+Query 187,'بلاکچین ڈیٹا سیکیورٹی کو کیسے یقینی بناتا ہے؟','How does blockchain ensure data security?',"' | How to Secure Blockchain Data?\nبلاکچین ڈیٹا سیکیورٹی کو کیسے یقینی بناتا ہے؟ | How to Secure
+Blockchain Data?\nبلاکچین ڈیٹا سیکیورٹی کو'","' (How to Secure Blockchain Data?)\nBlockchain is a distributed ledger technology that is used to
+record transactions and store data in a secure and transparent manner. It is a decentralized system
+that does not rely on any central authority or third-party intermediaries. This makes it an ideal
+solution for secure data storage and management. However, blockchain'",( بلاک چینج ڈیٹا کی حفاظت کیسے کریں ؟ ) بلاک چینج ایک تقسیم شدہ ایل ای ڈی جی ٹیکنالوجی ہے جو محفوظ اور شفاف طریقے سے لین دین اور ڈیٹا محفوظ طریقے سے ذخیرہ کرنے کے لئے استعمال کی جاتی ہے ۔ یہ ایک منcentralized نظام ہے ، جس میں کسی بھی مرکزی اتھارٹی یا ثالثی پر اعتبار نہیں ہوتا ۔ اس سے یہ محفوظ ڈیٹا ذخیرہ اور بندوبست کا ایک بہترین حل ہے ۔ تاہم ، بلاک چین
+Query 188,'صحت پر فاسٹ فوڈ کا کیا اثر ہے؟',"""What's the impact of fast food on health?""","' - Healthy Fast Food\nصحت پر فاسٹ فوڈ کا کیا اثر ہے؟ - Healthy Fast Food\nصحت پر فاسٹ فوڈ کا کیا
+اثر ہے؟ - Healthy Fast Food\nصحت پر فاسٹ فوڈ'","' – What is the effect of fast food on health?\nFast food is a type of food that is prepared quickly
+and served in a restaurant or a fast food outlet. It is usually prepared in a way that it can be
+eaten quickly and easily. Fast food is often high in calories, fat, and sodium, and it'",صحت پر فاسٹ فوڈ کا کیا اثر پڑتا ہے ؟ فاسٹ فوڈ ایک ایسا فوڈ ہے جو جلد تیار ہوکر ایک رستوران یا فاسٹ فوڈ outlet میں سرو کیا جاتا ہے ۔ یہ معمولاً اس طریقے سے تیار کیا جاتا ہے کہ اسے جلد اور آسانی سے کھایا جا سکتا ہے ۔ فاسٹ فوڈ میں اکثر فیوچر ، چربی اور سدیم ہوتے ہیں ، اور یہ
+Query 189,'سمندری تیزابیت سمندری زندگی کو کس طرح متاثر کرتی ہے؟','How does ocean acidification affect marine life?',"' سمندری تیزابیت سمندری زندگی کو کس طرح متاثر کرتی ہے؟\nسمندری تیزابیت سمندری زندگی کو کس طرح متاثر
+کرتی ہے؟\nسمندری تیزابیت سمندری زندگی کو'","' What is the effect of pH on life? pH is a measure of the acidity or alkalinity of a solution. The
+pH scale ranges from 0 to 14, with 7 being neutral. A pH of less than 7 is acidic, while a pH of
+more than 7 is alkaline. The pH'",زندگی کے لیے pH کا کیا اثر پڑتا ہے ؟ pH حل کی acidیت یا الکلائی کا اندازہ ہوتا ہے ۔ اس کا اندازہ صفر سے لے کر سینٹی گریڈ تک ہوتا ہے ، جبکہ سینٹی گریڈ سے زیادہ acidی ہے ، جبکہ سینٹی گریڈ سے زیادہ الکلائی ہے ۔
+Query 190,'مقصد اور ساپیکش حقیقت میں کیا فرق ہے؟',"""What's the difference between objective and subjective reality?""",' - ہمیشہ کے لیے\nمقصد اور ساپیکش حقیقت میں کیا فرق ہے؟ - ہمیشہ کے لیے\nمقصد اور ساپیکش حقیق',"' What is the difference between the goal and the search for truth?\nThe goal of life is to know the
+truth. The search for truth is the process of knowing the truth. The goal of life is to know the
+truth. The search for truth is the process of knowing the truth. The goal of life is to know'",مقصد اور حق کی تلاش میں کیا فرق ہے ؟ زندگی کا مقصد حق کو جاننا ہے ۔ حق کی تلاش کا عمل حق کو جاننا ہے ۔ زندگی کا مقصد حق کو جاننا ہے ۔ حق کی تلاش کا عمل حق کو جاننا ہے ۔
+Query 191,'موسیقی انسانی جذبات کو کس طرح متاثر کرتی ہے؟','How does music influence human emotions?',"'\nHuman emotions are affected by music in a number of ways. Music can make us feel happy, sad,
+angry, or excited. It can also make us feel more relaxed or energized. Music can be used to help us
+cope with difficult emotions, such as grief or anxiety. It can also be used to help'","' (Human Music Affects Emotions)\nموسیقی انسانی جذبات کو کس طرح متاثر کرتی ہے؟ (Human Music Affects
+Emotions)\nMusic is a universal language that can be understood by everyone. It has the power to
+evoke emotions and create a sense of unity among people'",موسیقی انسانی جذبات کو کس طرح متاثر کرتی ہے ؟ ( انسانی موسیقی کے اثرات ) موسیقی ایک عام زبان ہے جسے ہر کوئی سمجھ سکتا ہے ۔ یہ لوگوں کے درمیان یکجہتی کا احساس پیدا کرنے اور جذبات کو جنم دینے کی طاقت رکھتی ہے ۔
+Query 192,'کہانی سنانے کے اہم عنصر کیا ہیں؟','What are the main elements of storytelling?',' کیا آپ انہیں جانتے ہیں؟\nکہانی سنانے کے اہم عنصر کیا ہیں؟ کیا آپ انہیں جانتے ہی�',"' What are the important elements of storytelling?\nThe story is a form of communication that is
+used to convey a message to the audience. The story is a form of communication that is used to
+convey a message to the audience. The story is a form of communication that is used to convey a
+message to the audience. The story'",کہانی سازی کے اہم عناصر کیا ہیں ؟ کہانی ایک مواصلاتی شکل ہے جسے مخاطب کو پیغام پہنچانے کے لئے استعمال کیا جاتا ہے ۔ کہانی ایک مواصلاتی شکل ہے جسے مخاطب کو پیغام پہنچانے کے لئے استعمال کیا جاتا ہے ۔ کہانی ایک مواصلاتی شکل ہے جسے مخاطب کو پیغام پہنچانے کے لئے استعمال کیا جاتا ہے ۔ کہانی
+Query 193,'ہجرت کے دوران پرندے کیسے تشریف لے جاتے ہیں؟','How do birds navigate during migration?',"' (انگریزی میں)\nThe birds are the most common animals that migrate. They are the most common
+animals that migrate. They are the most common animals that migrate. They are the most common
+animals that migrate. They are the most common animals that migrate. They are the most common
+animals that migrate. They'","' (Question)\nWhat do birds do when they migrate?\nBirds migrate by flying. They fly in a straight
+line, and then turn to the right or left to go in the opposite direction. They fly at night, and
+they fly during the day. They fly in a straight line, and then turn to the right'",سوال : جب پرندے ہجرت کرتے ہیں تو وہ کیا کرتے ہیں ؟ پرندے ہجرت کرتے ہیں پرواز کے ذریعے ہجرت کرتے ہیں ۔ وہ ایک سیدھی لائن پر چلتے ہیں پھر ایک سمت کی طرف پلٹتے ہیں ۔ وہ رات میں چلتے ہیں اور دن میں چلتے ہیں ۔ وہ ایک سیدھی لائن پر چلتے ہیں پھر ایک سمت کی طرف پلٹتے ہیں ۔
+Query 194,'ابتدائی طبی امداد کے اصول کیا ہیں؟','What are the principles of first aid?',"' ابتدائی طبی امداد کے اصول کیا ہیں؟\nپہلے ہفتے کے دوران، ہر ایک کو ایک اور کے ساتھ تعلقات قائم کرنے
+کے'","' What are the principles of primary health care?\nThe principles of primary health care are as
+follows:\n1. The health of the people is the most important goal of primary health care.\n2. The
+health of the people is the responsibility of the people themselves and the community.\n3. The
+health of the people is the responsibility'",پرائمری ہیلتھ کیئر کے اصول کیا ہیں ؟ پرائمری ہیلتھ کیئر کے اصول مندرجہ ذیل ہیں : ۔ لوگوں کی صحت ہی پرائمری ہیلتھ کیئر کا سب سے اہم مقصد ہے ۔ لوگوں کی صحت خود اور سماج کی ذمہ داری ہے ۔ لوگوں کی صحت ہی ان کی ذمہ داری ہے ۔
+Query 195,'دماغ میں میموری کیسے کام کرتی ہے؟','How does memory work in the brain?',"' - Brain Memory How Does It Work\nدماغ میں میموری کیسے کام کرتی ہے؟ - Brain Memory How Does It
+Work\nدماغ میں میموری کیسے کام کرتی ہے؟ - Brain Memory How Does It'","' What is the role of memory in the brain?\nThe brain is a complex organ that is responsible for
+many functions, including memory. Memory is the ability to store and retrieve information from the
+past. The brain has several different types of memory, including short-term memory, long-term
+memory, and working memory. Short-term memory'",دماغ کے اندر میموریل کا کردار کیا ہے ؟ دماغ ایک گہرے نظام ہے ، جو میموریل سمیت کئی کاموں کے لئے ذمہ دار ہے ۔ میموریل ماضی کی معلومات کا ذخیرہ کرنے اور دوبارہ پیدا کرنے کی صلاحیت ہے ۔ دماغ میں متعدد مختلف قسم کی میموریل ہیں ، جن میں تھوڑی مدت کی میموریل ، طویل مدتی میموریل اور کام کرنے والی میموریل ہیں ۔
+Query 196,'سائبرسیکیوریٹی کی کیا اہمیت ہے؟',"""What's the importance of cybersecurity?""",' سائبرسیکیوریٹی کی کیا اہمیت ہے؟\nسائبرسیکیوریٹی کی کیا اہمیت ہے؟ سائبرسیکیوریٹی کی کیا اہمیت ہ�',"' What is Cybersecurity and its importance?\nCybersecurity is the protection of computer systems,
+networks, and data from digital attacks and threats. It is a critical aspect of information
+technology (IT) and is essential for organizations of all sizes and types. Cybersecurity is a broad
+field that encompasses a wide range of disciplines,'",سافٹ سکیورٹی اور اس کی اہمیت کیا ہے ؟ سافٹ سکیورٹی ، کمپیوٹر سسٹم ، نیٹ ورک اور ڈیٹا کا ڈیجیٹل حملوں اور خطرات سے تحفظ ہے ۔ یہ اطلاعاتی ٹیکنالوجی ( آئی ٹی ) کا ایک کلیدی پہلو ہے اور تمام طرح کی تنظیموں کے لئے ضروری ہے ۔ سافٹ سکیورٹی ایک وسیع شعبہ ہے ، جس میں مختلف شعبوں کا وسیع دائرہ ہے ۔
+Query 197,'مصنوعی ذہانت کا عمل کس طرح ہوتا ہے؟','How does artificial intelligence process data?',"' - How is artificial intelligence done?\nArtificial intelligence is a branch of computer science
+that deals with the creation of intelligent machines that can perform tasks that normally require
+human intelligence. The term ""artificial intelligence"" was coined in 1956 by John McCarthy, who was
+one of the founders of the field. Since then,'","' What is the process of manufactured intelligence?\nThe process of manufactured intelligence is the
+process of creating intelligence in a machine or a device. This process is done by giving the
+machine or device the ability to learn and adapt to its environment. This process is also known as
+artificial intelligence.\nWhat is the process of manufactured intelligence?\nThe'",مینوفیکچرنگ انٹلیجنس کا عمل کیا ہے ؟ مینوفیکچرنگ انٹلیجنس کا عمل ایک مشین یا آلات میں انٹلیجنس پیدا کرنے کا عمل ہے ۔ یہ عمل مشین یا آلات کو سیکھنے اور اس کے ماحول کو بدلنے کی صلاحیت دینے کے ذریعے کیا جاتا ہے ۔ اس عمل کو مصنوعی انٹلیجنس بھی کہا جاتا ہے ۔
+Query 198,'جرائم کو حل کرنے میں فرانزک سائنس کا کیا کردار ہے؟',"""What's the role of forensic science in solving crimes?""","' (انگریزی میں)\nFrench scientists are working on a new way to solve crimes. They are using a new
+type of DNA analysis to find out who committed a crime. The new method is called ""DNA
+fingerprinting."" It is a way to identify a person by the unique pattern of DNA in his or'","' (Part 1)\nThe French Revolution was a watershed event in the history of the world. It was a
+revolution that changed the course of history. It was a revolution that changed the course of the
+world. It was a revolution that changed the course of the world. It was a revolution that changed
+the course of the'",( حصہ ) فرانسیسی انقلاب دنیا کی تاریخ میں ایک آبی ذخیرہ تھا ۔ یہ ایک انقلاب تھا ، جس نے تاریخ کو بدل دیا تھا ، یہ انقلاب تھا ، جس نے دنیا کی راہ بدل دی تھی ، یہ انقلاب تھا ، جس نے دنیا کی راہ بدل دی تھی ۔
+Query 199,'ممالک افراط زر کو کیسے کنٹرول کرتے ہیں؟','How do countries control inflation?',"' (انگریزی میں)\nکوئی بھی ملک کے لیے زر کی افراط زر ایک اہم مسئلہ ہے، اور اس کے لیے کیسے کنٹرول کیا
+جائ'","' (How do countries control inflation?)\nInflation is a major problem for many countries. It can
+lead to high prices, unemployment, and a decrease in the value of money. Inflation can be caused by
+many factors, including high government spending, high interest rates, and a weak economy. There are
+many ways to control'",( ممالک کس طرح افراط زر کو کنٹرول کرتے ہیں ؟ ) افراط زر بہت سارے ممالک کے لئے ایک بڑا مسئلہ ہے ۔ اس کے نتیجے میں اعلی قیمتوں ، بے روزگاری اور پیسے کی قدر میں کمی ہوتی ہے ۔ افراط زر کا سبب اعلی سرکاری خرچ ، اعلی سود کی شرحیں اور کمزور معیشت بھی ہوتی ہیں ۔ اس کا کنٹرول کرنے کے کئی طریقے ہیں ۔
+Query 200,'قابل تجدید توانائی کی اہم اقسام کیا ہیں؟','What are the main types of renewable energy?',"' قابل تجدید توانائی کی اہم اقسام کیا ہیں؟ قابل تجدید توانائی کی اہم اقسام کیا ہیں؟ قابل تجدید
+توانائی کی اہم اقسام کیا ہیں؟ قابل'","' What are the important types of regenerative ability?\nThe regenerative ability is the ability of
+the body to repair itself. The regenerative ability is divided into two types: the regenerative
+ability of the body and the regenerative ability of the body. The regenerative ability of the body
+is the ability of the body to'",ترمیمی صلاحیت کے اہم قسمیں کیا ہیں ؟ ترمیمی صلاحیت جسم کی ترمیم کرنے کی صلاحیت ہے ، ترمیمی صلاحیت کو دو قسموں میں تقسیم کیا گیا ہے : بدن کی ترمیمی صلاحیت اور بدن کی ترمیمی صلاحیت ۔ بدن کی ترمیمی صلاحیت جسم کی ترمیم کرنے کی صلاحیت ہے ۔
+Query 201,'ورزش ذہنی صحت پر کیا اثر ڈالتی ہے؟','How does exercise impact mental health?',' - ہیڈ ٹریننگ\nورزش ذہنی صحت پر کیا اثر ڈالتی ہے؟ - ہیڈ ٹریننگ\nورزش ذہنی صحت پر کیا اثر ڈ',"' (Psychological Health and Sports)\nPsychological Health and Sports\nPsychological health is a
+state of mental well-being in which an individual is able to cope with the demands and challenges of
+life. It is a dynamic process that involves the interaction of physical, emotional, social, and
+spiritual factors. Psychological health is essential for'",( نفسیاتی صحت اور کھیل کود ) نفسیاتی صحت اور کھیل کود نفسیاتی صحت ایک ایسی حالت ہے ، جس میں کوئی شخص زندگی کے مطالبات اور چیلنجوں سے نمٹ سکتا ہے ۔ یہ ایک متحرک عمل ہے ، جس میں جسمانی ، جذباتی ، سماجی اور روحانی عوامل کا تبادلہ ہوتا ہے ۔ نفسیاتی صحت کے لئے ضروری ہے ۔
+Query 202,'پودے مٹی سے غذائی اجزاء کیسے حاصل کرتے ہیں؟','How do plants obtain nutrients from soil?',' (پودے مٹی سے غذائی اجزاء کیسے حاصل کرتے ہیں؟)\nپودے مٹی سے غذائی اجزاء کیسے حاصل کرتے ہیں؟',"' (How do plants get nutrients from soil?)\nپودے مٹی سے غذائی اجزاء کیسے حاصل کرتے ہیں? (How do
+plants get nutrients from soil?)\nپودے مٹی سے غذائی اجزاء'",پودے مٹی سے غذائی اجزاء کیسے حاصل کرتے ہیں ؟ ( پودے مٹی سے غذائی اجزاء کیسے پیدا ہوتے ہیں ؟
+Query 203,'جامد بجلی کے پیچھے سائنس کیا ہے؟',"""What's the science behind static electricity?""","' - Science behind the spinning of a top\nA top is a toy that spins around on its own. It is a toy
+that is used by children to play with. It is a toy that is used by children to play with. It is a
+toy that is used by children to play with. It is a toy'","' (With Pictures)\nThe term “jammed by electricity” is used to describe a condition in which the
+body’s electrical system is overloaded. This can be caused by a variety of factors, including the
+use of electrical devices, exposure to electromagnetic fields, or the presence of electrical wiring
+in the body. In some cases,'",تصویروں کے ساتھ ( تصویروں کے ساتھ ) ایک ایسی حالت کا نام استعمال کیا جاتا ہے جس جسم کے بجلی کے نظام پر بوجھ پڑ رہا ہے ۔ یہ ایک طرح کے اسباب کے استعمال ، الیکٹرانک آلات کے استعمال ، الیکٹرانک میگنیٹکس میدانوں میں تابکاری یا جسم میں الیکٹرانک میگنیٹنگ کی موجودگی کے باعث ہوتا ہے ۔
+Query 204,'آبدوزوں کو کس طرح خوشی برقرار رکھتی ہے؟','How do submarines maintain buoyancy?',' - ہمیشہ کے لئے\nآبدوزوں کو کس طرح خوشی برقرار رکھتی ہے؟ - ہمیشہ کے لئے\nآبدوزوں کو ک',"' (Part 2)\nIn the previous post, we discussed the importance of having a positive attitude towards
+life. We also discussed the importance of having a positive attitude towards our work. In this post,
+we will discuss the importance of having a positive attitude towards our work.\nThe first step in
+having a positive attitude towards our'",( حصہ ) گزشتہ پوسٹ میں ہم نے زندگی کے تئیں مثبت تئیں کی اہمیت پر تبادلہ خیال کیا تھا ۔ ہم نے اپنے کام کے تئیں مثبت تئیں کی اہمیت پر بھی تبادلہ خیال کیا تھا ۔
+Query 205,'موٹاپا کی بنیادی وجوہات کیا ہیں؟','What are the main causes of obesity?',' کیا آپ کو موٹاپا ہے؟ موٹاپا کے علامات کیا ہیں؟ موٹاپا کے علامات کیا ہیں؟ موٹاپا کے علامات کیا',"' What are the causes of obesity?\nThe main causes of obesity are:\n1. Overeating\n2. Lack of
+physical activity\n3. Genetic factors\n4. Hormonal factors\n5. Medications\n6. Psychological
+factors\n7. Environmental factors\n8. Social factors\n9. Cultural factors\n10.'",چاول خوری کے اسباب کیا ہیں ؟ چاول خوری کے اہم اسباب : ۔ کم физическаی سرگرمی ۔ پیدائشی عوامل ۔ Hormonی عوامل ۔ Medications ۔ Psychological عوامل ۔ ماحولیاتی عوامل ۔ سماجی عوامل ۔ ثقافتی عوامل ۔
+Query 206,'انجینئر محفوظ عمارتوں کو کس طرح ڈیزائن کرتے ہیں؟','How do engineers design safer buildings?','\nانجینئر محفوظ عمارتوں کو کس طرح ڈیزائن کرتے ہیں؟\nانجینئر محفوظ عمارتوں کو کس طرح ڈیزائن کرتے ',"' (How Engineers Design Historic Buildings)\nThe design of historic buildings is a complex and
+challenging task that requires a deep understanding of the building’s history, context, and
+architectural style. Engineers play a crucial role in the preservation and restoration of these
+structures, ensuring that they remain safe and functional while preserving their historical
+significance. In this'",( کیسے Engineers نے تاریخی عمارتوں کا ڈیزائن کیا ) تاریخی عمارتوں کا ڈیزائن ایک پیچیدہ اور مشکل کام ہے جس میں عمارت کی تاریخ ، پس منظر اور آرکیٹک اسٹوڈ کو سمجھنا ضروری ہے ۔ Engineers تاریخی عمارتوں کے تحفظ اور ان کی بحالی میں اہم رول ادا کرتے ہیں ، اس بات کو یقینی بناتے ہیں کہ وہ محفوظ رہیں اور ان کی تاریخی اہمیت کو برقرار رکھیں ۔
+Query 207,'مراقبہ کس طرح حراستی کو بہتر بناتا ہے؟','How does meditation improve concentration?',"' (کتاب کا نام: The Prisoner’s Dilemma)\nThe Prisoner’s Dilemma is a classic game theory problem
+that has been used to explain a wide range of human behavior, from cooperation to conflict. In this
+blog post, we will explore how the Prisoner’s Dilemma can be'","' (How to improve the security of a prison?)\nThe security of a prison is a very important issue. It
+is the responsibility of the prison administration to ensure the security of the prison. The
+security of the prison is the responsibility of the prison administration. The security of the
+prison is the responsibility of the prison administration. The'",( ایک قید خانہ کی حفاظت کو کیسے بہتر کرنا ہے ؟ ) ایک قید خانہ کی حفاظت ایک بہت اہم معاملہ ہے ، اس کی حفاظت کو یقینی بنانے کی قید خانہ انتظامیہ کی ذمہ داری ہے ۔
+Query 208,'جینیاتی بحالی کا عمل کیا ہے؟',"""What's the process of genetic recombination?""","' جینیاتی بحالی کے لیے کیا ہے؟ جینیاتی بحالی کے لیے کیا ہے؟ جینیاتی بحالی کے لیے کیا ہے؟ جینیاتی
+بحالی ک�'","' What is the process of gene therapy?\nGene therapy is a treatment that uses a gene to treat or
+prevent a disease. A gene is a piece of DNA that contains instructions for making a protein. If you
+have too much or too little of a particular protein, it may lead to a disease. This treatment
+changes your genes'",جین تھیراپی کیا ہے ؟ جین تھیراپی ایک طریقہ علاج ہے جو کسی بیماری کو روکنے یا علاج کرنے کے لئے ایک جین کا استعمال کرتا ہے ۔ ایک جین ایک جین کا ایک پیالہ ہے ، جس میں ایک پروٹین کی بنانے کے لئے ہدایات موجود ہوتی ہیں ، اگر آپ کو کسی پروٹین میں سے بہت زیادہ یا بہت کم جین ہو تو اس سے بیماری پیدا ہو سکتی ہے ۔ یہ علاج آپ کے جین میں تبدیلی
+Query 209,'ویکسین مدافعتی نظام کو کیسے فروغ دیتی ہے؟','How do vaccines boost the immune system?',"' (پہلا حصہ)\nویکسین مدافعتی نظام کو کیسے فروغ دیتی ہے؟ (پہلا حصہ)\nویکسین مدافعتی نظام کو کیسے فروغ
+دیتی ہے؟ (پ'","' (Part 2)\nIn the previous post, we discussed the importance of the immune system and how it
+protects us from various diseases. In this post, we will discuss how vaccines work and how they can
+help protect us from diseases.\nWhat is a vaccine and how does it work?\nA vaccine is a substance
+that is'",(پہلا حصہ ) گزشتہ مقالہ میں ہم نے ٹیکے کی اہمیت پر تبادلہ خیال کیا تھا کہ کیسے وہ ہمیں مختلف بیماریوں سے تحفظ فراہم کرتے ہیں ۔ اس مقالہ میں ہم اس بات پر تبادلہ خیال کریں گے کہ ٹیکے کیسے کام کرتے ہیں اور کیسے بیماریوں سے ہمیں تحفظ فراہم کر سکتے ہیں ۔ ایک ٹیکے کیا ہے اور یہ کیسے کام کرتا ہے ؟ ایک ٹیکے ایک مادّہ ہے جو
+Query 210,'کچھ عام معدنیات اور ان کے استعمال کیا ہیں؟','What are some common minerals and their uses?',"' (Some Common Minerals and Their Uses)\nکچھ عام معدنیات اور ان کے استعمال کیا ہیں؟ (Some Common
+Minerals and Their Uses)\nکچھ عام معدنیات اور ان کے استعمال کیا ہیں؟'","' What are some common minerals and what are they used for?\nThe following are some common minerals
+and their uses:\n1. Quartz: It is a mineral that is found in many different forms, such as sand,
+rock, and glass. It is used in many different industries, including construction, glassmaking, and
+electronics.\n'",کچھ عام معدنیات کیا ہیں اور انہیں کس لئے استعمال کیا جاتا ہے ؟ ان میں سے کچھ عام معدنیات ہیں اور ان کا استعمال کیا جاتا ہے ۔ یہ معدنیات مختلف شکلوں میں پائی جاتی ہیں ، جیسے ریت ، چٹان اور گلاس ۔ یہ مختلف صنعتوں میں استعمال ہوتے ہیں ، جن میں تعمیرات ، گلاس کا تراش اور الیکٹرانک وغیرہ شامل ہیں ۔
+Query 211,'کیفین جسم کو کیسے متاثر کرتا ہے؟','How does caffeine affect the body?',"' (How Caffeine Affects Your Body)\nکیفین جسم کو کیسے متاثر کرتا ہے؟ (How Caffeine Affects Your
+Body)\nکیفین جسم کو کیسے متاثر کرتا ہے؟'","' (How Caffeine Affects Your Body)\nCaffeine is a stimulant that is found in coffee, tea, and some
+soft drinks. It is also used as a medicine to treat certain conditions such as headaches and
+drowsiness. Caffeine works by blocking the effects of adenosine, a chemical'",( کیسے کافئین کا بدن پر اثر پڑتا ہے ) کافئین ایک آرام دہ ہے جو کافی ، چائے ، اور کچھ soft drinkوں میں پایا جاتا ہے ۔ اسے بعض بیماریوں کے علاج کے لئے ایک دوائیں کے طور پر بھی استعمال کیا جاتا ہے ۔ کافئین کا اثر ایک کیمیاوی مرکب کے اثرات کو روک کر ہوتا ہے ۔
+Query 212,'ماحول کے ذریعے پانی کا چکر کیسے ہوتا ہے؟','How does water cycle through the environment?','؟\nپانی کا چکر کیسے ہوتا ہے؟\nپانی کا چکر کیسے ہوتا ہے؟\nپانی کا چکر کیسے ہوتا ہے؟\n',"' (With Diagram)\nThe water cycle is the continuous movement of water from the earth’s surface to
+the atmosphere and back to the earth’s surface again. The water cycle is also called the hydrologic
+cycle. The water cycle is a continuous process. It is a continuous process. The water cycle is a
+continuous process. It'",( تصویر کے ساتھ ) پانی کی سائیکل زمین کی سطح سے فضا میں اور زمین کی سطح سے دوبارہ زمین میں پانی کی مسلسل حرکت کو کہتے ہیں ۔ اسے ہائیڈرولک کی سائیکل بھی کہتے ہیں ۔
+Query 213,'انسانی اناٹومی کی تاریخ کیا ہے؟',"""What's the history of human anatomy?""","' اور اس کے بارے میں کیا کیا جاتا ہے؟\nHuman Anatomy: What is its history and what is done about
+it?\nHuman Anatomy: What is its history and what is done about it?\nHuman Anatomy: What is its
+history and what is done'","' What is the history of human anatomy?\nThe history of human anatomy is the study of the
+development of the science of human anatomy. It is the study of the development of the science of
+human anatomy. It is the study of the development of the science of human anatomy. It is the study
+of the development of the science'",انسانی نباتات کی تاریخ کیا ہے ؟ انسانی نباتات کی تاریخ سائنسی نباتات کو ترقی دینے کے مطالعے سے متعلق ہے ۔ سائنسی نباتات کو ترقی دینے کے مطالعے سے متعلق ہے ۔
+Query 214,'AI ڈیٹا سے کیسے سیکھتا ہے؟','How does AI learn from data?',"' (How does AI learn from data?)\nAI ڈیٹا سے کیسے سیکھتا ہے؟ (How does AI learn from data?)\nAI ڈیٹا
+سے کیسے سیکھتا ہے؟'","' (How does AI learn from data?)\nArtificial Intelligence (AI) is a branch of computer science that
+deals with the creation of intelligent machines that can perform tasks that normally require human
+intelligence. AI is a rapidly growing field with applications in various fields such as healthcare,
+finance, and robotics. One of the key components of'",( ڈیٹا سے مصنوعی ذہانت کیسے سیکھتا ہے ؟ ) مصنوعی ذہانت ( مصنوعی ذہانت ) ایک قسم کی کمپیوٹر سائنس کی ایک فرع ہے جس میں ایسی مصنوعی مشینیں تیار کی جاتی ہیں جو عام طور پر وہ کام کرسکتی ہیں جن کے لیے انسانی ذہانت ضروری ہوتی ہے ۔ مصنوعی ذہانت ایک تیزی سے بڑھتے ہوئے شعبہ ہے ، جس کے مختلف شعبوں مثلاً حفظان صحت ، فائنانس اور روبوٹکس میں ایپلی کیشن موجود ہیں ۔
+Query 215,'غذا اور توانائی کے مابین کیا تعلق ہے؟',"""What's the relationship between diet and energy?""","' (Food and Energy Relationship)\nغذا اور توانائی کے مابین کیا تعلق ہے؟ (Food and Energy
+Relationship)\nغذا اور توانائی کے مابین کیا تعلق ہے؟ (Food and Energy Relationship)\nغذا'","' What is the relationship between food and energy?\nThe relationship between food and energy is
+that food provides energy to the body. The energy is used for various activities of the body. The
+energy is also used for the growth and development of the body. The energy is also used for the
+maintenance of the body. The energy is'",خوراک اور توانائی کا تعلق کیا ہے ؟ خوراک اور توانائی کا تعلق یہ ہے کہ خوراک جسم کو توانائی فراہم کرتی ہے ، جسم کی مختلف سرگرمیوں کے لئے توانائی استعمال کی جاتی ہے ، جسم کی نشو و نما کے لئے بھی توانائی استعمال کی جاتی ہے ، جسم کی رکھ رکھاؤ کے لئے بھی توانائی استعمال کی جاتی ہے ۔
+Query 216,'وائلڈ لائف کا تحفظ کیسے کام کرتا ہے؟','How does wildlife conservation work?',"' (Wildlife Conservation How Does It Work?)\nوائلڈ لائف کا تحفظ کیسے کام کرتا ہے؟ (Wildlife
+Conservation How Does It Work?)\nوائلڈ لائف کا تحفظ کیسے کام کرتا �'","' (Wildlife Conservation How Does It Work?)\nWildlife Conservation How Does It Work?\nWildlife
+Conservation How Does It Work? – The term “wildlife” refers to any animal that is not domesticated
+or farmed. Wildlife conservation is the practice of protecting and preserving the natural habitats
+of wild animals. This can be'",(Wildlife Conservation کیسے کام کرے گا ؟ )Wildlife Conservation کیسے کام کرے گا ؟ &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &;
+Query 217,'ڈی این اے کی ساخت کیا ہے؟',"""What's the structure of DNA?""","' ڈی این اے کی ساخت کیا ہے؟\nڈی این اے کی ساخت کیا ہے؟ ڈی این اے کی ساخت کیا ہے؟\nڈی این اے کی ساخت
+کیا'","' What is the structure of DNA?\nDNA is a double helix. It is a long molecule that is made up of two
+strands of nucleotides. Each strand is made up of four types of nucleotides. These are adenine (A),
+thymine (T), guanine (G) and cy'",DNA کی تشکیل کیا ہے ؟ DNA ایک دوہرے ہیلائرکس ہے ، یہ ایک طویل کوکسیجن ہے ، جسے نونوٹیڈیز کے دو سنڈروں سے تشکیل دیا جاتا ہے ۔ ان میں سے ہر سنڈر کوکسیجن کی چار قسمیں تشکیل دی جاتی ہیں ، یہ ہیں آدنین ( اے ) ٹائن ( ٹی ) اور جینین ( جی )
+Query 218,'سمندری طوفان کیسے بنتا ہے؟','How do hurricanes form?',"' - سمندری طوفان کیسے بنتا ہے؟\nسمندری طوفان کیسے بنتا ہے؟\nسمندری طوفان کیسے بنتا ہے؟\nسمندری طوفان
+کیس�'","' What is a tornado?\nWhat is a tornado? What is a tornado? What is a tornado? What is a tornado?
+What is a tornado? What is a tornado? What is a tornado? What is a tornado? What is a tornado? What
+is a tornado? What is a tornado? What is a tornado'",طوفان کیا ہے ؟ طوفان کیا ہے ؟ طوفان کیا ہے ؟ طوفان کیا ہے ؟ طوفان کیا ہے ؟ طوفان کیا ہے ؟
+Query 219,'ذاتی فنانس کے بنیادی اصول کیا ہیں؟','What are the basic rules of personal finance?',"'؟\nذاتی فنانس کے بنیادی اصول کیا ہیں؟؟\nذاتی فنانس کے بنیادی اصول کیا ہیں؟؟\nذاتی فنانس کے بنیادی
+اصول کیا ہیں؟؟\n'","' What are the basic principles of personal finance?\nThe basic principles of personal finance
+are:\n1. Saving and investment:\nSaving and investment are the most important principles of personal
+finance. Saving is the process of setting aside a portion of income for future use. Investment is
+the process of using money to earn a return. Both saving'",ذاتی مالیت کے بنیادی اصول کیا ہیں ؟ ذاتی مالیت کے بنیادی اصول درج ذیل ہیں : ۔ بچت اور سرمایہ کاری : بچت اور سرمایہ کاری ذاتی مالیت کے سب سے اہم اصول ہیں ۔ بچت مستقبل کے استعمال کے لئے آمدنی کا ایک حصہ جمع کرنے کا عمل ہے ۔ سرمایہ کاری آمدنی کو حاصل کرنے کے لئے پیسے کا استعمال کرنے کا عمل ہے ۔
+Query 220,'گرین ہاؤس اثر کا مقصد کیا ہے؟',"""What's the purpose of the greenhouse effect?""",""" | What is the purpose of the Green House Effect?\nThe Green House Effect is the process by which
+the Earth's atmosphere traps heat radiating from the Earth's surface. The Green House Effect is a
+natural process that is essential for life on Earth. Without the Green House Effect, the Earth's
+surface would be much colder""",""" What is the purpose of the Green House Effect?\nThe Green House Effect is the process by which the
+Earth's atmosphere traps heat from the Sun. Without this effect, the Earth would be a frozen
+wasteland. The Green House Effect is the process by which the Earth's atmosphere traps heat from the
+Sun. Without this effect""",سبز گھر کے عمل کا کیا مقصد ہے ؟ سبز گھر کا عمل وہ عمل ہے جس کے ذریعے زمین کی атмосфера سورج سے چھٹ لیتا ہے ۔ اس عمل کے بغیر زمین ایک خشک ستان ہو گی ۔ سبز گھر کا عمل وہ عمل ہے جس کے ذریعے زمین کی атмосфера سورج سے چھٹ لیتا ہے ۔ اس عمل کے بغیر زمین ایک خشک ستان ہو گی ۔
+Query 221,'دماغ رنگوں کی ترجمانی کس طرح کرتا ہے؟','How does the brain interpret colors?',"' (انگریزی میں)\nBrain color coding: how does the brain represent colors?\nThe brain is a complex
+organ that is responsible for a wide range of functions, including perception, cognition, and
+emotion. One of the most fascinating aspects of the brain is its ability to represent and process
+information in a variety of'","' (Brain color coding)\nThe brain is a complex organ that is responsible for a wide range of
+functions, including thought, perception, and movement. It is made up of billions of neurons, which
+are connected by billions of synapses. These synapses are responsible for transmitting information
+between neurons, and they are the basis for'",(Brain رنگ کوڈنگ ) دماغ ایک ایسا وسیع قسم کا ارجن ہے ، جو سوچ ، مشاہدہ ، حرکت اور حرکت سمیت کئی کاموں کے لئے ذمہ دار ہے ، یہ اربوں اندوروں سے جڑے ہوئے ہے ، جو اربوں عصبوں سے جڑے ہوئے ہیں ، ان عصبوں کے درمیان اطلاعات کی منتقلی کرنے کے لئے ذمہ دار ہیں ، اور یہ اطلاعات کی بنیاد ہیں ۔
+Query 222,'الگورتھم سوشل میڈیا پر مواد کو کس طرح فلٹر کرتے ہیں؟','How do algorithms filter content on social media?',"' (How do algorithms filter social media content?)\nThe social media algorithms that filter content
+are not transparent. They are not even known to the companies that use them. The algorithms are
+proprietary, and the companies that use them do not share them with the public. The algorithms are
+also not subject to public scrutiny. The algorithms are'","' (How Algorithms Filter Social Media Content)\nThe social media algorithms that filter content are
+a major factor in the spread of misinformation and disinformation. These algorithms are designed to
+prioritize content that is likely to be engaging and shareable, which can lead to the spread of
+false information and conspiracy theories. The algorithms also prioritize content that'",( کیسا الگوریتم سوشل میڈیا کے مواد کو پاک کرتا ہے ؟ ) سوشل میڈیا کے مواد کو پاک کرنے والے الگوریتم غلط اطلاعات اور افواہوں کے پھیلاؤ میں ایک اہم رول ادا کرتے ہیں ۔ یہ الگوریتم ایسے مواد کو ترجیح دینے کے لئے تیار کئے گئے ہیں جو سرگرم اور شیئر ہونے کا امکان ہے ۔

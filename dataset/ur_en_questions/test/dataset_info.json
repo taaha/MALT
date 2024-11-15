@@ -1,0 +1,52 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "ur_en_questions",
+  "dataset_size": 29271,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/darthPanda/ur_en_questions@b00fd2809c779447cfe1dae426d6abef4839ac5a/data/train-00000-of-00001.parquet": {
+      "num_bytes": 3433,
+      "checksum": null
+    },
+    "hf://datasets/darthPanda/ur_en_questions@b00fd2809c779447cfe1dae426d6abef4839ac5a/data/test-00000-of-00001.parquet": {
+      "num_bytes": 15083,
+      "checksum": null
+    }
+  },
+  "download_size": 18516,
+  "features": {
+    "english_question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "urdu_question": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 47787,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 2473,
+      "num_examples": 16,
+      "dataset_name": "ur_en_questions"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 26798,
+      "num_examples": 223,
+      "dataset_name": "ur_en_questions"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

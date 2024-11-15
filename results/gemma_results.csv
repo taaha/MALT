@@ -1,0 +1,880 @@
+Sr No.,Original Instruction,Translated Instruction,Baseline Completion,Intervention Completion,Translated Completion (Final Output)
+Query 0,'کیا آپ ایک جملے میں آج کی عالمی خبروں کا خلاصہ کرسکتے ہیں؟','Can you summarize today’s world news in one sentence?',"'\n\nکیا آپ کو ایسی خبروں کا خیال ہے جو آپ کو اپنی زندگی میں کبھی نہیں دیکھیں گے؟\n\nکیا آپ کو ایسی
+خبروں کا خیال ہے جو آپ کو اپنی زندگی میں کبھی نہیں دیکھیں گے؟\n\nکی'","'\n\n<h2>1. The US and China are in talks to resume trade talks</h2>\n\nThe US and China are in
+talks to resume trade talks, which were suspended in May, after the US President Donald Trump said
+that the two countries are in talks to resume trade talks.\n\n<h2>2. The US and China are in'",۔ امریکہ اور چین تجارتی بات چیت بحال کرنے کے بارے میں بات چیت میں ہیں ۔ امریکی اور چین تجارتی بات چیت بحال کرنے کے بارے میں بات چیت میں ہیں ، جو مئی میں امریکی صدر ٹرمپ کے اعلان کے بعد معطل کی گئی تھیں ۔ دونوں ممالک تجارتی بات چیت بحال کرنے کے سلسلے میں بات چیت میں ہیں ۔
+Query 1,'مختلف فلسفوں کے مطابق زندگی کا کیا مطلب ہے؟',"""What's the meaning of life according to different philosophies?""","' زندگی کا کیا مطلب ہے؟ زندگی کا کیا مطلب ہے؟ زندگی کا کیا مطلب ہے؟ زندگی کا کیا مطلب ہے؟ زندگی کا
+کیا مطلب ہے؟ زندگی کا کیا مطلب ہے؟ زندگی کا کیا مطلب ہے؟ زندگی کا کیا مطلب ہے؟ زندگی کا کیا مطلب ہے؟
+زندگی کا کیا مطلب ہے؟ زندگی کا کیا مطلب'","'\n\n<strong><em>Life is a journey, not a destination.</em></strong>\n\n<strong><em>Life is a
+journey, not a destination.</em></strong>\n\n<strong><em>Life is a journey, not a
+destination.</em></strong>\n\n<strong><em>Life is a journey, not a
+destination.</em></strong>\n\n<strong><em>Life is a journey,'",زندگی ایک سفر ہے ، مقصد نہیں ۔ زندگی ایک سفر ہے ، مقصد نہیں ۔
+Query 2,'کیا آپ سائنس فائی ناول کے لئے دماغی طوفان کے آئیڈیاز میں میری مدد کرسکتے ہیں؟','Can you help me brainstorm ideas for a sci-fi novel?',"'\n\n[User 0001]\n\nکیا آپ سائنس فائی ناول کے لئے دماغی طوفان کے آئیڈیاز میں میری مدد کرسکتے
+ہیں؟\n\n[User 0002]\n\nبچوں کے لئے بہت اچ'","'\n\n[User 0001]\n\nI am a science fiction fan and I am looking for a book which is about a group of
+people who are living in a world where they have to face a mental storm which is caused by the
+people who are living in the past and they are trying to control the present'",اس گروپ کے بارے میں جو لوگ ایک ایسی دنیا میں رہتے ہیں جہاں انہیں دماغی طوفان کا سامنا کرنا پڑتا ہے جو کہ ماضی میں رہنے والے لوگوں کی وجہ سے ہوتا ہے اور وہ ماضی کو قابو میں رکھنے کی کوشش کر رہے ہیں ۔
+Query 3,'انسانی دماغ کے بارے میں ایک انوکھی حقیقت کیا ہے؟',"""What's a unique fact about the human brain?""","' یہ حقیقت یہ ہے کہ انسان کے دماغ میں ایک بڑی تعداد میں ایک خاص قسم کے پلانٹوں کی موجودگی ہے۔ یہ
+پلانٹوں کی ایک خاص قسم ہے جو کہ انسان کے دماغ میں موجود ہیں اور انہیں انسان کے دماغ میں پلانٹوں'","'\n\n[User 0001]\n\n<b><i><u>\nThe Human Brain is the most complex organ in the human body. It is
+the most complex organ in the human body. It is the most complex organ in the human body. It is the
+most complex organ in the human body. It is the most'",یوزر ؍ یوزر ؍ یوزر : انسانی جسم میں سب سے زیادہ قسم کے اعضا موجود ہیں ۔ یہ اعضا انسانی جسم میں سب سے زیادہ قسم کے اعضا موجود ہیں ، یہ اعضا انسانی جسم میں سب سے زیادہ قسم کے اعضا موجود ہیں ، یہ اعضا سب سے زیادہ قسم کے اعضا ہیں
+Query 4,'بلاکچین ٹیکنالوجی کیسے کام کرتی ہے؟','How does blockchain technology work?',"'\n\nبلاکچین ٹیکنالوجی کیسے کام کرتی ہے؟\n\nبلاکچین ٹیکنالوجی کیسے کام کرتی ہے؟\n\nبلاکچین ٹیکنالوجی
+کیسے کام کرتی ہے؟\n\nبلاکچین ٹیکنالوجی کیسے کام'","'\n\nWhat is Blockchain Technology?\n\nWhat is Blockchain Technology?\n\nWhat is Blockchain
+Technology?\n\nWhat is Blockchain Technology?\n\nWhat is Blockchain Technology?\n\nWhat is
+Blockchain Technology?\n\nWhat is Blockchain Technology?\n\nWhat is Blockchain Technology?\n\nWhat
+is Blockchain Technology?\n\nWhat is Blockchain Technology?\n\nWhat is Blockchain'",کیا ہے ڈی بلاک ٹکنالوجی ؟ کیا ہے ڈی بلاک ٹکنالوجی ؟ کیا ہے ڈی بلاک ٹکنالوجی ؟ کیا ہے ڈی بلاک ٹکنالوجی ؟ کیا ہے ڈی بلاک ٹکنالوجی ؟ کیا ہے ڈی بلاک ٹکنالوجی ؟
+Query 5,'ذہن سازی پر عمل کرنے کا بہترین طریقہ کیا ہے؟',"""What's the best way to practice mindfulness?""","'\n\n[User 0001]\n\nذہن سازی پر عمل کرنے کا بہترین طریقہ کیا ہے؟\n\n[User 0002]\n\nیہی ہے جو آپ نے
+لکھا ہے\n\n[User 0003]\n\nیہی ہے جو آپ نے ل'","'\n\n[User 0001]\n\nI am a 16 year old girl and I am very much worried about my mental health. I am
+not able to concentrate on my studies and I am not able to do anything properly. I am very much
+depressed and I am not able to do anything properly.'",یوزر وائی فائی : میں ایک 16 سالہ لڑکی ہوں اور مجھے اپنی ذہنی صحت کے بارے میں بہت زیادہ پریشانی ہے ۔ مجھے اپنے مطالعے پر توجہ نہیں مل پاتی اور کچھ نہیں کر پاتی ۔ میں بہت ہی افسردہ ہوں اور کچھ نہیں کر پاتی ۔
+Query 6,'مشین لرننگ ماڈل کو کس طرح تربیت دی جاتی ہے؟','How are machine learning models trained?',"'\n\n[User 0001]\n\nمشین لرننگ کو کس طرح تربیت دی جاتی ہے؟\n \n\n[User 0002]\n\nمشین لرننگ کو تربیت
+دی جاتی ہے کہ وہ کس طرح کام کرے۔\n \n\n[User 0'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 7,'کیا آپ نئی زبان سیکھنے کے کچھ فوائد کی فہرست دے سکتے ہیں؟','Can you list some benefits of learning a new language?',"'\n\nکیا آپ کو یہ جاننا چاہیے کہ آپ کی زبان سیکھنے کے کچھ فوائد ہیں؟\n\nکیا آپ کو یہ جاننا چاہیے کہ
+آپ کی زبان سیکھنے کے کچھ فوائد ہیں؟\n\nکیا آپ کو یہ جاننا چاہ'","'\n\nWell, It is a fact that learning a new language is a great way to expand your horizons and open
+up new opportunities. Here are some of the benefits of learning a new language:\n\n1. Improved
+communication skills: Learning a new language helps in improving communication skills as it requires
+the use of different grammatical rules and'",بھلا یہ ایک حقیقت ہے کہ نئی زبان سیکھنا اپنے دائرہ کار میں توسیع کرنے اور نئے مواقع پیدا کرنے کا ایک بہترین طریقہ ہے ۔ نئی زبان سیکھنے کے کچھ فوائد درج ذیل ہیں : ۔ بہتر مواصلاتی صلاحیتوں کو بہتر بنانے میں نئی زبان سیکھنا مدد دیتا ہے کیونکہ اس میں مختلف گرامٹ قوانین کا استعمال کرنا پڑتا ہے ۔
+Query 8,'شیکسپیئر کے ہیملیٹ کا خلاصہ کیا ہے؟',"""What's a summary of Shakespeare’s Hamlet?""","'\n\nشیکسپیئر کے ہیملیٹ کا خلاصہ کیا ہے؟\n\nشیکسپیئر کے ہیملیٹ کا خلاصہ کیا ہے؟\n\nشیکسپیئر کے
+ہیملیٹ کا خلاصہ کیا ہے؟\n\nشیکسپیئر کے ہیملیٹ کا خلاص'","'\n\n[User 0001]\n\nI am reading the book ""The Seven Seas"" by H.G. Wells. I am stuck at the
+following passage:\n\n""The first thing that struck me was the fact that the people of this country
+were not at all like the people of the country from which'",میں ایچ جی Wellس کی کتاب ان Seven سمندروں کو پڑھ رہا ہوں ۔ میں درج ذیل بیت پر پھنس گیا ہوں :
+Query 9,'کیا آپ میرے لئے بے ترتیب لطیفہ تیار کرسکتے ہیں؟','Can you generate a random joke for me?',"'\n\n[User 0001]\n\nکیا آپ میرے لئے بے ترتیب لطیفہ تیار کرسکتے ہیں؟\n\n[User 0002]\n\nبے ترتیب
+لطیفہ\n\n[User 0003]\n\nبے ترتیب لطیف'","'\n\nI am not sure what you are asking for.\n\nI am not sure what you are asking for.\n\nI am not
+sure what you are asking for.\n\nI am not sure what you are asking for.\n\nI am not sure what you
+are asking for.\n\nI am not sure what you are asking'",مجھے معلوم نہیں کہ تم کیا مانگ رہے ہو ۔ مجھے معلوم نہیں کہ تم کیا مانگ رہے ہو ۔ مجھے معلوم نہیں کہ تم کیا مانگ رہے ہو ۔ مجھے معلوم نہیں کہ تم کیا مانگ رہے ہو ۔ مجھے معلوم نہیں کہ تم کیا مانگ رہے ہو ۔
+Query 10,'کیا آپ کلاسک براؤنیز کے لئے ایک نسخہ فراہم کرسکتے ہیں؟','Can you provide a recipe for classic brownies?',"'\n\nکیا آپ کلاسک براؤنیز کے لئے ایک نسخہ فراہم کرسکتے ہیں؟\n\nکیا آپ کلاسک براؤنیز کے لئے ایک نسخہ
+فراہم کرسکتے ہیں؟\n\nکیا آپ کلاسک براؤنیز کے لئے ایک نسخہ فرا'","'\n\nI have a 2008 Honda Civic 1.3L 1300cc, I want to install a 1.6L engine in it, what will be the
+changes in the car?\n\nI have a 2008 Honda Civic 1.3L 1'",میرے پاس ایک 2008 Honda Civic 1.3 لیلیس 1300cc ہے ، میں اس میں 1.6 لیلیس انجن نصب کرنا چاہتا ہوں اس میں کیا تبدیلی ہوگی ؟ میرے پاس ایک 2008 Honda Civic 1.3 لیلیس ایک ہے ۔
+Query 11,'انسانی جسم میں ویکسین کیسے کام کرتی ہے؟','How do vaccines work in the human body?',"' ویکسین کیسے کام کرتی ہے؟ ویکسین کیسے کام کرتی ہے؟ ویکسین کیسے کام کرتی ہے؟ ویکسین کیسے کام کرتی
+ہے؟ ویکسین کیسے کام کرتی ہے؟ ویکسین کیسے کام کرتی'","""\n\n<h2>vaccine's Usage Examples:</h2>\n\nThe <b>vaccine</b> is a live attenuated strain of the
+bacterium, which is given by injection.\n\nThe <b>vaccine</b> is a live attenuated strain of the
+bacterium, which is given by injection.\n\nThe <b>vaccine</b> is a live attenuated strain of the""",ویکسین کے استعمال کے مثالیں : &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &;
+Query 12,'چین کی عظیم دیوار کے پیچھے کیا تاریخ ہے؟',"""What's the history behind the Great Wall of China?""","' چین کی عظیم دیوار کے پیچھے کیا تاریخ ہے؟ چین کی عظیم دیوار کے پیچھے کیا تاریخ ہے؟ چین کی عظیم
+دیوار کے پیچھے کیا تاریخ ہے؟ چین کی عظیم دیوار کے پیچھے کیا تاریخ ہے؟ چین کی عظیم دیوار کے پیچھے کیا
+تاریخ ہے؟ چین کی عظیم'","'\n\n[User 0001]\n\n<b>چین کی عظیم دیوار کے پیچھے کیا تاریخ ہے؟</b>\n\n<b>\n</b>\n<b>\n</b>\n<b>\n</
+b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر کے پیچھے کیا تاریخ ہے ؟
+Query 13,'گھر میں میں کیا کرسکتا ہوں ایک تفریحی سائنس کا تجربہ کیا ہے؟',"""What's a fun science experiment I can do at home?""","' یہ ایک تفریحی سائنس کا تجربہ ہے جس میں آپ کو اپنے گھر میں ایک سائنس کی کوشش کرنے کی اجازت دی جاتی
+ہے۔ یہ ایک تفریحی سائنس کا تجربہ ہے جس میں آپ کو اپنے گھر میں ایک سائنس کی'","'\n\n[User 0001]\n\nI have a question that I am not able to understand.\n\nI have read that in a
+house there are 1000000000000000000000000000000'",ایک سوال ہے جو میں سمجھ نہیں سکتا ۔ میں نے پڑھا ہے کہ ایک گھر میں صد000000000000000000000000 ہیں ۔
+Query 14,'انسانی میموری کیسے کام کرتی ہے؟','How does human memory work?',"'\n\nانسانی میموری کیسے کام کرتی ہے؟\n\nانسانی میموری کیسے کام کرتی ہے؟\n\nانسانی میموری کیسے کام
+کرتی ہے؟\n\nانسانی میموری کیسے کام کرتی ہے؟\n\nانسانی میموری کیس'","'\n\n[User 0001]\n\n<b>What is the use of human memory?</b>\n\n<b>What is the use of human
+memory?</b>\n\n<b>What is the use of human memory?</b>\n\n<b>What is the use of human
+memory?</b>\n\n<b>What is the use of human memory?</b>'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر یوزر ؍ یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر
+Query 15,'کیا آپ عوامی بولنے کی مہارت کو بہتر بنانے کے لئے کچھ طریقے تجویز کرسکتے ہیں؟','Can you suggest some ways to improve public speaking skills?',"'\n\nکیا آپ عوامی بولنے کی مہارت کو بہتر بنانے کے لئے کچھ طریقے تجویز کرسکتے ہیں؟\n\nکیا آپ عوامی
+بولنے کی مہارت کو بہتر بنانے کے لئے کچھ طریقے تجویز کرسکتے'","'\n\n<h2>How to use the word ""public speaking"" in a sentence</h2>\n\n\nI am not a public speaker but
+I have been trying to improve my public speaking skills by attending different workshops and
+seminars.\n\nI have been working on my public speaking skills for the past few months and I am now
+able to give presentations with'",ایک sentence میںpublic speaking کا لفظ استعمال کرنا ۔ میں ایک عام آدمی نہیں ہوں لیکن میں مختلف ورکشاپ اور سیمیناروں میں شرکت کرکے اپنی عوامی تقریر کی صلاحیت کو بہتر بنانے کی کوشش کر رہا ہوں ۔ گزشتہ کچھ مہینوں سے اب تک میں اپنی عوامی تقریر کی صلاحیت کو بہتر بنانے کے لئے کام کر رہا ہوں اور اب میں مختلف زبانوں میں تقریر کر سکتا ہوں ۔
+Query 16,'سائبرسیکیوریٹی کے کچھ عام خطرات کیا ہیں؟','What are some common cybersecurity threats?',"'\n\nسائبر سیکیوریٹی کے کچھ عام خطرات کیا ہیں؟\n\nسائبر سیکیوریٹی کے کچھ عام خطرات کیا ہیں؟\n\nسائبر
+سیکیوریٹی کے کچھ عام خطرات کیا ہیں؟\n\nسائبر سیکیوریٹی کے کچھ عام خط'","'\n\n1. <strong>Data Breaches</strong>\n\n  Data Breaches are the most common cyber security threats
+that can be faced by any organization. These are the most common cyber security threats that can be
+faced by any organization. These are the most common cyber security threats that can be faced by any
+organization. These are the'",اعداد و شمار کی روک تھام : اعداد و شمار کی روک تھام کی روک تھام : یہ بہت ہی عام سائبر سلامتی خطرات ہیں جو کسی بھی ادارے کو سامنا کرسکتے ہیں ۔ یہ بہت ہی عام سائبر سلامتی خطرات ہیں جو کسی بھی ادارے کو سامنا کرسکتے ہیں ۔
+Query 17,'کیا آپ طلباء کے لئے ایک محرک حوالہ تیار کرسکتے ہیں؟','Can you generate a motivational quote for students?',"'\n\n[User 0001]\n\nکیا آپ طلباء کے لئے ایک محرک حوالہ تیار کرسکتے ہیں؟\n\n[User 0002]\n\nبہت سے
+طلباء کو محرک حوالہ کی ضرورت ہوتی ہے، لیکن آپ کو'","'\n\n[User 0001]\n\nI am a student of 12th class and I want to prepare a motivational speech for my
+school. I want to know how can I prepare a good speech for my school.\n \n\n[User 0002]\n\nYou can
+prepare a speech'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر
+Query 18,'اسٹاک میں سرمایہ کاری کے لئے ابتدائی رہنما کیا ہے؟',"""What's a beginner's guide to investing in stocks?""","' اسٹاک میں سرمایہ کاری کے لئے ابتدائی رہنما کیا ہے؟ اسٹاک میں سرمایہ کاری کے لئے ابتدائی رہنما کیا
+ہے؟ اسٹاک میں سرمایہ کاری کے لئے ابتدائی رہنما کیا ہے؟ اسٹاک میں سرمایہ کاری کے لئے ابتدائی رہ'","'\n\n[User 0001]\n\nI am a beginner in stock market and I want to know how to start with it.\n
+\n\n[User 0002]\n\nYou should start with a small amount of money and then you can learn about the
+market.\n \n\n[User '",اس کا آغاز کیسے کرنا چاہئے ؟ اس کا آغاز کیسے کرنا چاہئے ؟ اس کا آغاز کیسے کرنا چاہئے ؟ اس کا آغاز تھوڑی سی رقم سے کرنا چاہئے اس سے آپ مارکیٹ کے بارے میں سیکھ سکتے ہیں ۔
+Query 19,'بلیک ہول کیسے بنتے ہیں؟','How do black holes form?',"'\n\nبلیک ہول کیسے بنتے ہیں؟\n\nبلیک ہول کیسے بنتے ہیں؟\n\nبلیک ہول کیسے بنتے ہیں؟\n\nبلیک ہول کیسے
+بنتے ہیں؟\n\nبلیک ہول کیسے بنتے ہیں؟\n\nبلیک ہ'","'\n\n[User 0001]\n\nI have a question about the black holes.\nI have read that they are formed when
+a star is very heavy and its gravity is so strong that it can not be held by the gravity of the
+earth.\nbut the question is that if the star is very heavy'",سوال یہ ہے کہ اگر ستارہ بہت ہی بھاری ہوتا ہے اور اس کی کشش اتنی مضبوط ہوتی ہے کہ اس کو زمین کی کشش سے نہیں پکڑا جا سکتا ، تو کیا سوال ہے کہ اگر ستارہ بہت ہی بھاری ہوتا ہے تو وہ کیسے تشکیل ہوتا ہے ؟
+Query 20,'پودوں میں فوٹو سنتھیس کس طرح کام کرتی ہے؟','How does photosynthesis work in plants?',"' پودوں میں فوٹو سنتھیس کس طرح کام کرتی ہے؟ پودوں میں فوٹو سنتھیس کس طرح کام کرتی ہے؟ پودوں میں فوٹو
+سنتھیس کس طرح کام کرتی ہے؟ پودوں میں فوٹو سنتھ'","'\n\n[User 0001]\n\nI have a question about the use of photo synthesis in plants.\nI have read that
+in the process of photosynthesis, the carbon dioxide is converted into glucose by the help of light
+energy.\nBut in the process of photosynthesis, the carbon dioxide is converted into glucose by'",plantوں میں فوٹو سٹیپیز کے استعمال کے بارے میں میرا ایک سوال ہے ۔ میں نے پڑھا ہے کہ فوٹو سٹیپیز کے عمل میں ، کاربنdioxidے کو روشنی کی مدد سے glucoس میں تبدیل کیا جاتا ہے ، لیکن فوٹو سٹیپیز کے عمل میں کاربنdioxidے کو glucoس میں تبدیل کیا جاتا ہے ۔
+Query 21,'مدافعتی نظام جسم کی حفاظت کیسے کرتا ہے؟','How does the immune system protect the body?',"'\n\n[User 0001]\n\nمدافعتی نظام جسم کیسے کرتا ہے؟\n\n[User 0002]\n\nمدافعتی نظام جسم کیسے کرتا
+ہے؟\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n '","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 22,'اچھے کاروباری منصوبے کے کلیدی عنصر کیا ہیں؟','What are the key elements of a good business plan?',"'\n\nاچھے کاروباری منصوبے کی بنیاد پر کیا کام کیا جاتا ہے؟\n\nاچھے کاروباری منصوبے کی بنیاد پر کیا
+کام کیا جاتا ہے؟\n\nاچھے کاروباری منصوبے کی بنیاد پر کیا کام کیا جاتا'","'\n\n[User 0001]\n\nI am a student of economics and I am doing my research on the key elements of a
+good job. I want to know the key elements of a good job.\n \n\n[User 0002]\n\nI think you should ask
+this question in the'",میں ایک طالب علم ہوں اور میں اچھی ملازمت کے اہم عناصر کے بارے میں اپنی تحقیق کر رہا ہوں ۔ میں اچھی ملازمت کے اہم عناصر کو جاننا چاہتا ہوں ۔
+Query 23,'تاریخ کی قدیم ترین تہذیبوں میں سے کچھ کیا ہیں؟','What are some of the oldest civilizations in history?',"' تاریخ کی قدیم ترین تہذیبوں میں سے کچھ کیا ہیں؟ تاریخ کی قدیم ترین تہذیبوں میں سے کچھ کیا ہیں؟
+تاریخ کی قدیم ترین تہذیبوں میں سے کچھ کیا ہیں؟ تاریخ کی قدیم ترین تہذیبو'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 24,'کیا آپ بیان کرسکتے ہیں کہ سرچ انجن کیسے کام کرتے ہیں؟','Can you describe how search engines work?',"' آپ کو یہ بتانا چاہیے کہ سرچ انجن آپ کی ویب سائٹ پر آپ کی ویب سائٹ پر آپ کی ویب سائٹ پر آپ کی ویب
+سائٹ پر آپ کی ویب سائٹ پر آپ کی ویب سائٹ پر آپ کی'","'\n\nThe search engine is a computer program that is used to search for information on the internet.
+It is used to find the information that is related to the search query. The search engine works on
+the basis of the keywords that are used in the search query. The search engine finds the information
+that is related to the search'",گوگل ایک کمپیوٹر کا پروگرام ہے جس کا استعمال انٹرنیٹ پر معلومات کی تلاش کے لئے کیا جاتا ہے ۔ گوگل ان معلومات کو تلاش کرنے کے لئے استعمال کرتا ہے جو گوگل کی تلاش سے متعلق ہے ۔
+Query 25,'جدید معاشرے میں جمہوریت کی کیا اہمیت ہے؟',"""What's the significance of democracy in modern society?""","'\n\n[User 0001]\n\n<b>جدید معاشرے میں جمہوریت کی کیا اہمیت
+ہے؟</b>\n\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 26,'الیکٹرک کاریں کیسے کام کرتی ہیں؟','How do electric cars work?',"'\n\nالیکٹرک کاریں ایک ایسی چیز ہے جو کہ ایک ایسی چیز ہے جو کہ ایک ایسی چیز ہے جو کہ ایک ایسی چیز ہے
+جو کہ ایک ایسی چیز ہے جو کہ ایک ایسی چیز ہے جو کہ ایک ایسی چیز ہے جو کہ ایک ایسی چیز ہے جو کہ ایک'","'\n\nThe electric current is the flow of electric charges. The electric current is measured in units
+of amperes (A) which is the same as the unit of charge per unit time. The SI unit of electric
+current is ampere.\n\nThe electric current is the flow of electric charges. The electric current is
+measured in units of'",الیکٹرانک کنکشن الیکٹرانک چارج کا ہے ۔ الیکٹرانک کنکشن الیکٹرانک چارج کی یونٹوں ( اے ) کی پیمائش کرتا ہے ، جو فی یونٹ بجلی کی کنکشن کی برابر ہے ۔
+Query 27,'آج کل سب سے عام پروگرامنگ زبانیں کون سی ہیں؟','What are the most common programming languages used today?',"'\n\n[User 0001]\n\nآج کل سب سے عام پروگرامنگ زبانیں کون سی ہیں؟\n \n\n[User 0002]\n\nاس سوال کا
+جواب آپ کے پاس ہے\n \n\n[User 0003]\n\nاس سوال کا'","'\n\n[User 0001]\n\nI am a beginner in programming and I want to know which programming language is
+most common and used in the world.\n \n\n[User 0002]\n\nI think you should start with python\n
+\n\n[User 0003]\n\n'",میں ایک شروع کرنے والا ہوں اور مجھے یہ جاننا چاہتا ہوں کہ دنیا میں کون سی زبان زیادہ عام اور استعمال کی جاتی ہے ۔
+Query 28,'کیا آپ مجھے مؤثر طریقے سے مطالعہ کرنے کے لئے کچھ نکات دے سکتے ہیں؟','Can you give me some tips for studying effectively?',"'\n\nکیا آپ مجھے مؤثر طریقے سے مطالعہ کرنے کے لئے کچھ نکات دے سکتے ہیں؟\n\nکیا آپ مجھے مؤثر طریقے سے
+مطالعہ کرنے کے لئے کچھ نکات دے سکتے ہیں؟\n\nکیا آپ مجھے مؤثر طریقے'","'\n\nI have been reading your blog for a long time now and finally got the courage to go ahead and
+give you a shout out from Kingwood tx.\n\nI am just writing to make you know that I am new to
+blogging and definitely enjoyed your blog.\nmoreover, the posts are very nice and you are'",میں آپ کے بلاگوں کو طویل عرصے سے پڑھ رہا ہوں اور finally اس بات کو کرنے کی کوشش کر رہا ہوں کہ آپ کو کرن واٹر ٹس سےhoutout دیا گیا ہے ۔ میں صرف یہ لکھ رہا ہوں آپ کو یہ جاننے کے لئے کہ میں بلاگنگ میں نیا ہوں اور آپ نے آپ کا بلاگ بہت پسند کیا ہے ۔
+Query 29,'شمسی گرہن کے پیچھے سائنس کیا ہے؟',"""What's the science behind solar eclipses?""","'\n\n[User 0001]\n\n<b>شمسی گرہن کے پیچھے سائنس کیا ہے؟</b>\n\n<b>شمسی گرہن کے پیچھے سائنس کیا
+ہے؟</b>\n\n<b>شمسی گرہن کے پیچھے سائنس کیا ہے؟</b>\n\n<b>شمسی'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 30,'ورچوئل رئیلٹی دنیا کو کس طرح بدل رہی ہے؟','How is virtual reality changing the world?',"'\n\n[User 0001]\n\n<b>ورچوئل رئیلٹی دنیا کو کس طرح بدل رہی ہے؟</b>\n\n<b>ورچوئل رئیلٹی دنیا کو کس
+طرح بدل رہی ہے؟</b>\n\n<b>ورچوئل رئیلٹی دنیا کو کس'","'\n\n[User 0001]\n\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>
+\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 31,'اچھے گرافک ڈیزائن کی بنیادی باتیں کیا ہیں؟','What are the basics of good graphic design?',"'\n\nاچھے گرافک ڈیزائن کی بنیادی باتیں کیا ہیں؟\n\nاچھے گرافک ڈیزائن کی بنیادی باتیں کیا
+ہیں؟\n\nاچھے گرافک ڈیزائن کی بنیادی باتیں کیا ہیں؟\n\nاچھے گرافک ڈیزائن'","'\n\nاچھے گرافک ڈیزائن Are the basic things of good graphic designing\n\nWhat are the basic things
+of good graphic designing\n\nWhat are the basic things of good graphic designing\n\nWhat are the
+basic things of good graphic designing\n\nWhat are the basic things of good graphic
+designing\n\nWhat are the basic things'",اچھے گرافک ڈیزائن کی بنیادی باتیں کیا ہیں ؟ اچھی گرافک ڈیزائن کی بنیادی باتیں کیا ہیں ؟ اچھی گرافک ڈیزائن کی بنیادی باتیں کیا ہیں ؟ اچھی گرافک ڈیزائن کی بنیادی باتیں کیا ہیں ؟ اچھی گرافک ڈیزائن کی بنیادی باتیں کیا ہیں ؟
+Query 32,'انسانی ہاضمہ نظام کیسے کام کرتا ہے؟','How does the human digestive system work?',"' ہاضمہ نظام کیسے کام کرتا ہے؟ ہاضمہ نظام کیسے کام کرتا ہے؟ ہاضمہ نظام کیسے کام کرتا ہے؟ ہاضمہ نظام
+کیسے کام کرتا ہے؟ ہاضمہ نظام کیسے کام کرتا ہے'","'\n\n<h2>Definition</h2>\n\nThe human immune system is a complex network of cells, tissues, and
+organs that work together to protect the body from infections and diseases. It is made up of various
+components, including white blood cells, antibodies, and specialized cells that recognize and
+destroy foreign substances. The immune system plays a crucial role'",&; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &;
+Query 33,'مونا لیزا کے پیچھے کیا کہانی ہے؟',"""What's the story behind the Mona Lisa?""","' مونا لیزا کی زندگی کی کہانی کیسے شروع ہوئی؟ مونا لیزا کی زندگی کی کہانی کیسے شروع ہوئی؟ مونا لیزا
+کی زندگی کی کہانی کیسے شروع ہوئی؟ مونا لیزا کی زندگی کی کہانی کیسے شروع ہوئی؟'","'\n\n[User 0001]\n\n<b>مونا لیزا</b>\n\n<b>مونا لیزا</b>\n\n<b>مونا لیزا</b>\n\n<b>مونا
+لیزا</b>\n\n<b>مونا لیزا</b>\n\n<b>مونا لیزا</b>\n\n<b>مونا لیزا</b>\n\n<b>مونا لیزا'",یوزر....
+Query 34,'ماحولیاتی نظام توازن کو کیسے برقرار رکھتا ہے؟','How do ecosystems maintain balance?',"'\n\n[User 0001]\n\nماحولیاتی نظام توازن کو کیسے برقرار رکھتا ہے؟\n\n[User 0002]\n\nماحولیاتی نظام
+توازن کو کیسے برقرار رکھتا ہے؟\n\n[User 0003'","'\n\n[User 0001]\n\n<b>What is the mechanism of equilibrium in the system?</b>\n\n<b>What is the
+mechanism of equilibrium in the system?</b>\n \n\n[User 0002]\n\n<b>What is the mechanism of
+equilibrium in the system?</b>\n\n<b>What is the'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر
+Query 35,'کیا آپ کچھ ابتدائی دوستانہ کوڈنگ پروجیکٹس کی سفارش کرسکتے ہیں؟','Can you recommend some beginner-friendly coding projects?',"'\n\n[User 0001]\n\nکیا آپ کچھ ابتدائی دوستانہ کوڈنگ پروجیکٹس کی سفارش کرسکتے ہیں؟\n\n[User
+0002]\n\nبہت سے پروجیکٹس ہیں، لیکن آپ کو یہاں سے شروع'","'\n\nI am a beginner in coding and I want to make some projects for my friends.\n\nI am a beginner
+in coding and I want to make some projects for my friends.\n\nI am a beginner in coding and I want
+to make some projects for my friends.\n\nI am a beginner in coding and I want'",مجھے اپنے دوستوں کے لئے کچھ پروجیکٹ بنانے کا ارادہ ہے ۔ میں کوڈنگ کا آغاز کرنے والا ہوں اور مجھے اپنے دوستوں کے لئے کچھ پروجیکٹ بنانے کا ارادہ ہے ۔ میں کوڈنگ کا آغاز کرنے والا ہوں اور مجھے پروجیکٹ بنانے کا ارادہ ہے
+Query 36,'حیاتیاتی تنوع کی کیا اہمیت ہے؟',"""What's the importance of biodiversity?""","'\n\n[User 0001]\n\nحیاتیاتی تنوع کی کیا اہمیت ہے؟\n\n[User 0002]\n\nحیاتیاتی تنوع کی کیا اہمیت
+ہے؟\n\n[User 0003]\n\nحیاتیاتی تنوع'","'\n\n[User 0001]\n\n<b>حیاتیاتی تنوع کی کیا اہمیت ہے؟</b>\n\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n<
+/b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر
+Query 37,'فخر اور تعصب کا بنیادی پلاٹ کیا ہے؟',"""What's the main plot of Pride and Prejudice?""","'\n\n[User 0001]\n\nفخر اور تعصب کا بنیادی پلاٹ کیا ہے؟\n \n\n[User 0002]\n\nفخر اور تعصب کا بنیادی
+پلاٹ کیا ہے؟\n \n\n[User 0003]\n\nفخر'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 38,'کیا آپ بگ بینگ تھیوری کو آسان الفاظ میں بیان کرسکتے ہیں؟','Can you explain the Big Bang Theory in simple terms?',"'\n\nکیا آپ کو سمجھنا ہے کہ آپ کو اس کی کوئی ضرورت نہیں ہے؟\n\nکیا آپ کو سمجھنا ہے کہ آپ کو اس کی
+کوئی ضرورت نہیں ہے؟\n\nکیا آپ کو سمجھنا ہے کہ آپ کو اس کی کوئی ضرورت نہیں'","'\n\nI am not sure what you are asking.\n\nI am not sure what you are asking.\n\nI am not sure what
+you are asking.\n\nI am not sure what you are asking.\n\nI am not sure what you are asking.\n\nI am
+not sure what you are asking.\n\nI am not'",مجھے معلوم نہیں کہ تم کیا پوچھ رہے ہو ۔ مجھے معلوم نہیں کہ تم کیا پوچھ رہے ہو ۔ مجھے معلوم نہیں کہ تم کیا پوچھ رہے ہو ۔ مجھے معلوم نہیں کہ تم کیا پوچھ رہے ہو ۔ مجھے معلوم نہیں کہ تم کیا پوچھ رہے ہو ۔
+Query 39,'ذہنی صحت کو فروغ دینے کے کچھ طریقے کیا ہیں؟','What are some ways to promote mental health?',"'\n\nذہنی صحت کو فروغ دینے کے کچھ طریقے کیا ہیں؟\n\nذہنی صحت کو فروغ دینے کے کچھ طریقے کیا
+ہیں؟\n\nذہنی صحت کو فروغ دینے کے کچھ طریقے کیا ہیں؟\n\nذہنی صحت کو'","'\n\n<h2>mental health quotes in urdu</h2>\n\n<strong>1.</strong>\n\n<strong>2.</strong>\n\n<strong>
+3.</strong>\n\n<strong>4.</strong>\n\n<strong>5.</strong>\n\n<strong>6.</strong>\n\n<strong>7.</stro
+ng>\n\n<strong>8.</strong>\n\n<strong>9.</strong>\n\n<strong>10.</strong>\n\n<strong>11.'",اردو میں ذہنی صحت سے متعلق حقائق ۔
+Query 40,'اولمپک کھیلوں کی تاریخ کیا ہے؟',"""What's the history of the Olympic Games?""","'\n\nاولمپک کھیلوں کی تاریخ کیا ہے؟\n\nاولمپک کھیلوں کی تاریخ کیا ہے؟\n\nاولمپک کھیلوں کی تاریخ کیا
+ہے؟\n\nاولمپک کھیلوں کی تاریخ کیا ہے؟\n\nاولمپک کھیلوں کی تاریخ کیا ہے'","""\n\n<h2>Olympics's Usage Examples:</h2>\n\nThe <b>Olympics</b> are a series of multi-sport games
+held in different cities around the world every four years.\n\nThe <b>Olympics</b> are a series of
+multi-sport games held in different cities around the world every four years.\n\nThe""",اولیمپکس کے استعمال کے مثالیں : ہر سال دنیا کے مختلف شہروں میں مختلف قسم کے کھیلوں کے مقابلوں کا انعقاد کیا جاتا ہے ۔
+Query 41,'اسٹاک مارکیٹوں میں اتار چڑھاؤ کیسے ہوتا ہے؟','How do stock markets fluctuate?',"' اسٹاک مارکیٹوں میں اتار چڑھاؤ کیسے ہوتا ہے؟ اسٹاک مارکیٹوں میں اتار چڑھاؤ کیسے ہوتا ہے؟ اسٹاک
+مارکیٹوں میں اتار چڑھاؤ کیسے ہوتا ہے؟ اس'","'\n\n[User 0001]\n\n<b>اسٹاک مارکیٹ</b>\n\n<b>اسٹاک مارکیٹ</b>\n\n<b>اسٹاک مارکیٹ</b>\n\n<b>اسٹاک
+مارکیٹ</b>\n\n<b>اسٹاک مارکیٹ</b>\n\n<b>اسٹاک مارکیٹ</b>\n\n'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 42,'قابل تجدید توانائی کی کچھ عام قسمیں کیا ہیں؟','What are some common types of renewable energy?',"'\n\nقابل تجدید توانائی کی کچھ عام قسمیں کیا ہیں؟\n\nقابل تجدید توانائی کی کچھ عام قسمیں کیا
+ہیں؟\n\nقابل تجدید توانائی کی کچھ عام قسمیں کیا ہیں؟\n\nقابل تجدید توانائی کی کچھ عام قسمیں کیا
+ہیں؟'","'\n\n<h2><strong>1.</strong> <strong>The</strong> <strong>ability</strong> <strong>to</strong>
+<strong>do</strong> <strong>something</strong> <strong>is</strong> <strong>the</strong>
+<strong>ability</strong> <strong>to</strong> <strong>perform</strong> <strong>a</strong>
+<strong>particular</strong> <strong>action</strong> <strong>or</strong> <strong>'",۔ اہلیت سے لے کر تک ۔ اہلیت سے لے کر ۔ کوئی چیز سے لے کر ۔ اس کی اہلیت سے لے کر ۔ اس کی اہلیت سے لے کر ۔ اس کی اہلیت سے ۔
+Query 43,'کیا آپ صحت مند کھانے کے لئے کچھ نکات فراہم کرسکتے ہیں؟','Can you provide some tips for healthy eating?',"'\n\nکیا آپ کو کچھ ایسی باتوں کا علم ہے کہ آپ کو اپنے جسم کو صحت مند بنانے میں مدد مل سکتی
+ہے؟\n\nکیا آپ کو کچھ ایسی باتوں کا علم ہے کہ آپ کو اپنے جسم کو صحت مند بنانے میں مد'","'\n\nI am a 20 year old girl and I am very overweight. I am 5\' 4"" tall and weigh 140 pounds. I am
+very conscious of my weight and I am trying to lose weight. I am taking a diet of 1200 calories per
+day. I'",میں ایک عمر کی لڑکی ہوں اور میں بہت زیادہ وزن والی ہوں ۔ میں پانچ فٹ کا ہوں اور وزن میں 140 پاؤنڈ ہوں ۔ میں اپنے وزن پر بہت حساس ہوں اور وزن کم کرنے کی کوشش کر رہا ہوں ۔ میں روزانہ 1200 کیلوگرام فی دن کھاتا ہوں ۔
+Query 44,'پنرجہرن نے یورپ کو کیسے بدلا؟','How did the Renaissance change Europe?',"'\n\n[User 0001]\n\nپنرجہرن نے یورپ کو کیسے بدلا؟\n\n[User 0002]\n\nپنرجہرن نے یورپ کو کیسے
+بدلا؟\n\n[User 0003]\n\nپن'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 45,'صحت کی دیکھ بھال میں اے آئی کا کیا کردار ہے؟',"""What's the role of AI in healthcare?""","' اے آئی کی دیکھ بھال کے لیے کیا استعمال کیا جاتا ہے؟ اے آئی کی دیکھ بھال کے لیے کیا استعمال کیا
+جاتا ہے؟ اے آئی کی دیکھ بھال کے لیے کیا استعمال کیا جاتا ہے؟ اے آئی کی دیکھ'","'\n\n[User 0001]\n\nI am a student of 12th class and I want to know that what is the role of A1 in
+health care?\n \n\n[User 0002]\n\nA1 is a very important element in health care. It is used in'",میں بارہویں کلاس کا طالب علم ہوں اور مجھے یہ جاننا چاہتا ہوں کہ صحت کی دیکھ بھال میں اے اے ایل کا کیا کردار ہے ؟
+Query 46,'کلاؤڈ کمپیوٹنگ کیسے کام کرتی ہے؟','How does cloud computing work?',"' کیا یہ آپ کے لیے مفید ہے؟ کیا یہ آپ کے لیے مفید ہے؟ کیا یہ آپ کے لیے مفید ہے؟ کیا یہ آپ کے لیے
+مفید ہے؟ کیا یہ آپ کے لیے مفید ہے؟ کیا یہ آپ کے لیے مفید ہے؟ کیا یہ آپ کے لیے مفید ہے؟ کیا یہ آپ کے
+لیے مفید ہے؟'","'\n\nکلاؤڈ کمپیوٹنگ What is Cloud Computing\n\nCloud Computing is a framework that permits the
+utilization of cloud administrations, which are given by a cloud organization. It is a framework
+that permits the utilization of cloud administrations, which are given by a cloud organization. It
+is a framework that permits the utilization'",کلاؤڈ کمپیوٹنگ کہ Cloud Computنگ کیا ہے Cloud Computنگ ایک فریم ورک ہے ، جو کہ ایک بلاک آرگنائزیشن کے ذریعہ فراہم کیا جاتا ہے ، یہ ایک ایسا فریم ورک ہے ، جو بلاک انتظامیہ کے ذریعہ فراہم کی جانے والی بلاک انتظامیہ کے استعمال کو اجازت دیتا ہے ، یہ ایک ایسا فریم ورک ہے
+Query 47,'مشہور سمفونیوں کی کچھ مثالیں کیا ہیں؟','What are some examples of famous symphonies?',"'\n\n[User 0001]\n\nمشہور سمفونیوں کی کچھ مثالیں کیا ہیں؟\n\n[User 0002]\n\n<strong>The 1812
+Overture</strong>\n\n<strong>The 1812 Overture</strong> is a symphonic poem by Russian composer P'","'\n\n[User 0001]\n\n<b><u>\nWhat are some famous symphonies?\n</u></b>\n \n\n[User
+0002]\n\n<b><u>\nWhat are some famous symphonies?\n</u></b>\n \n\n[User 0003]\n\n<b><u>\nWhat'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 48,'کیا آپ گرج چمک کے پیچھے سائنس کی وضاحت کرسکتے ہیں؟','Can you explain the science behind thunderstorms?',"'\n\nکیا آپ گرج چمک کے پیچھے سائنس کی وضاحت کرسکتے ہیں؟\n\nکیا آپ گرج چمک کے پیچھے سائنس کی وضاحت
+کرسکتے ہیں؟\n\nکیا آپ گرج چمک کے پیچھے سائنس کی'","'\n\nI am not a scientist but I think that the reason for the formation of the mountains is that the
+earth is a hot planet and the heat of the earth is very high and the heat of the earth is very high
+and the heat of the earth is very high and the heat of the earth is very high and the'",میں سائنسدان نہیں ہوں لیکن مجھے لگتا ہے کہ پہاڑوں کی تشکیل کی وجہ یہ ہے کہ زمین ایک گرم سیارہ ہے اور زمین کی گرمی بہت اونچی ہے اور زمین کی گرمی بہت اونچی ہے اور زمین کی گرمی بہت اونچی ہے
+Query 49,'اسٹرنگ تھیوری کیا ہے؟','What is string theory?',"' اسٹرنگ تھیوری کی بنیاد پر کیا کام کرتا ہے؟ اسٹرنگ تھیوری کی بنیاد پر کیا کام کرتا ہے؟ اسٹرنگ
+تھیوری کی بنیاد پر کیا کام کرتا ہے؟ اسٹرنگ تھیوری کی بنیاد پر کیا کام کرتا ہے؟'","'\n\n[User 0001]\n\n<b>اسٹرنگ تھیوری</b>\n\n<b>What is the meaning of the word ""STRANG
+THEORY""</b>\n\n<b>I have heard this word from a book of ""The Complete Book of English Grammar"" by
+""M.A.K.HANIF""</b>'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر یوزر ؍ یوزر ؍ یوزر یوزر ؍ یوزر یوزر ؍ یوزر یوزر ؍ یوزر یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 50,'مٹی کا کٹاؤ زراعت پر کیا اثر ڈالتا ہے؟','How does soil erosion affect agriculture?',"'\n\n[User 0001]\n\nمٹی کا کٹاؤ زراعت پر کیا اثر ڈالتا ہے؟\n \n\n[User 0002]\n\nمٹی کا کٹاؤ زراعت پر
+کیا اثر ڈالتا ہے؟\n \n\n[User '","'\n\n[User 0001]\n\n<b>مٹی کا کٹاؤ زراعت پر کیا اثر ڈالتا ہے؟</b>\n\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>
+\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ زراعت پر کیا اثر ڈالتا ہے ؟
+Query 51,'کیا آپ تاریخ کے بارے میں جاننے کے لئے کتابوں کی ایک فہرست تجویز کرسکتے ہیں؟','Can you suggest a list of books to learn about history?',"'\n\n[User 0001]\n\nکیا آپ تاریخ کے بارے میں جاننے کے لئے کتابوں کی ایک فہرست تجویز کرسکتے
+ہیں؟\n\n[User 0002]\n\nاس کے بارے میں بہت سی کتابیں ہیں، لیکن یہاں سے آپ کو'","'\n\nI am a student of history and I am looking for a list of books on history.\n\nI am a student of
+history and I am looking for a list of books on history.\n\nI am a student of history and I am
+looking for a list of books on history.\n\nI am a student of history'",میں ایک طلبہ ہوں اور میں تاریخ پر کتابوں کی ایک فہرست تلاش کر رہا ہوں ۔ میں ایک طلبہ ہوں اور میں تاریخ پر کتابوں کی ایک فہرست تلاش کر رہا ہوں ۔
+Query 52,'تعلقات میں ہمدردی کی کیا اہمیت ہے؟',"""What's the importance of empathy in relationships?""","'\n\n[User 0001]\n\nالسلام علیکم و رحمۃ اللہ و برکاتہ\n\nایک سوال یہ ہے کہ علماء نے کہا ہے کہ ہمدردی
+کی کیا اہمیت ہے؟\n\n[User 0002]\n\nالسلام علیکم و رح'","'\n\n[User 0001]\n\n<b>تعلقات میں ہمدردی کی کیا اہمیت
+ہے؟</b>\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر کی کیا اہمیت ہے ؟
+Query 53,'گردشی نظام کیسے کام کرتا ہے؟','How does the circulatory system function?',"'\n\n[User 0001]\n\n<b>گردشی نظام کیسے کام کرتا ہے؟</b>\n\n<b>گردشی نظام کیسے کام کرتا
+ہے؟</b>\n\n<b>گردشی نظام کیسے کام کرتا ہے؟</b>\n\n<b>گردشی نظام کیسے کام کرتا ہے؟'","'\n\n[User 0001]\n\nI am a student of 12th class and I want to know that what is the meaning of the
+word ""گردشی"" in the sentence ""I am going for a round trip"" and what is the meaning of the word
+""نظام"" in the sentence'",میں کلاس کے طالب علم ہوں اور مجھے معلوم کرنا چاہتا ہوں کہ اس sentence میںگردش کا معنی کیا ہے کہ میں ایک طویل سفر کرنے جا رہا ہوں اور اس sentence میں نظام کا معنی کیا ہے ۔
+Query 54,'سمندری زندگی پر آلودگی کا کیا اثر ہے؟',"""What's the impact of pollution on marine life?""","'\n\n[User 0001]\n\nسمندری زندگی پر آلودگی کا کیا اثر ہے؟\n\n[User 0002]\n\nبچوں کی صحت پر اثر پڑتا
+ہے\n\n[User 0003]\n\nسمندری زندگی پر آلودگی کا اثر یہ'","'\n\n[User 0001]\n\nI have a 2005 model 1.3cc alto and i have been using it for 2 years now and i
+have noticed that the car is giving me a lot of problems in the form of smoke coming out of the
+exhaust and the car is'",میرے پاس ایک 2005 ماڈل کا ایک آئٹزر ہے اور میں اسے اب دو سال سے استعمال کر رہا ہوں اور میں نے دیکھا ہے کہ یہ گاڑی مجھے بہت سے مسائل کا سامنا کر رہی ہے ۔
+Query 55,'عالمگیریت سے مقامی معیشتوں پر کیا اثر پڑتا ہے؟','How does globalization affect local economies?',"'\n\n[User 0001]\n\nعالمگیریت سے مقامی معیشتوں پر کیا اثر پڑتا ہے؟\n\n[User 0002]\n\nعالمگیریت سے
+مقامی معیشتوں پر کیا اثر پڑتا ہے؟\n\n[User 00'","'\n\n[User 0001]\n\n<b>عالمگیریت سے مقامی معیشتوں پر کیا اثر پڑتا
+ہے؟</b>\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ مقامی معیشتوں پر کیا اثر پڑتا ہے ؟
+Query 56,'کیا آپ Android اور iOS کے مابین اختلافات کی وضاحت کرسکتے ہیں؟','Can you explain the differences between Android and iOS?',"' آپ کو یہاں سے آسانی سے آسانی سے آسانی سے آسانی سے آسانی سے آسانی سے آسانی سے آسانی سے آسانی سے
+آسانی سے آسانی سے آسانی سے آسانی سے آسانی سے آسانی سے آسانی سے آسانی سے آسانی سے آسانی سے آسانی'","'\n\n<h2><strong>Android vs
+iOS</strong></h2>\n\n<strong>Android</strong>\n\n<strong>Android</strong> is a <strong>free and
+open-source</strong> operating system for mobile devices, tablets, and other devices. It is
+developed by <strong>Google</strong> and is based on the <strong>Linux kernel</strong>. Android is
+the most popular mobile operating'",یہ ایک آزاد اور اوپن سورس نظام ہے جو کہ موبائل آلات ، ٹیبلوں اور دیگر آلات کے لئے تیار کیا گیا ہے ۔ یہ نظام گوگل کی طرف سے تیار کیا گیا ہے اور یہ نظام Linux kernel کی بنیاد پر ہے ۔ Android سب سے زیادہ مقبول موبائل نظام ہے ۔
+Query 57,'جسم میں خامروں کا کیا کردار ہے؟',"""What's the role of enzymes in the body?""","'\n\nجسے بھی خامروں کا استعمال کیا جاتا ہے، اس کا جسم میں کیا کردار ہے؟\n\nجسے بھی خامروں کا استعمال
+کیا جاتا ہے، اس کا جسم میں کیا کردار ہے؟\n\nجسے بھی خامروں کا استعمال کیا جاتا'","'\n\n[User 0001]\n\n<b>جسم میں خامروں کا What is the role of fat in the body?</b>\n\n<b>\n</b>\n<b>\
+n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n'",جسم میں خامیوں کا کردار بدن میں چربی کا کردار کیا ہے ؟
+Query 58,'جین میں ترمیم کیسے کام کرتی ہے؟','How does gene editing work?',"' جین میں ترمیم کیسے کام کرتی ہے؟ جین میں ترمیم کیسے کام کرتی ہے؟ جین میں ترمیم کیسے کام کرتی ہے؟
+جین میں ترمیم کیسے کام کرتی ہے؟ جین میں ترمیم کیسے کام کرتی ہے'","'\n\n[User 0001]\n\nI have a question regarding the use of <b><i>jinn</i></b> in
+<b><i>Quran</i></b>.\n\nIn <b><i>Quran</i></b>, <b><i>jinn</i></b> is used in the following two
+places:\n\n1. <b><i>Quran'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر کے استعمال کے بارے میں ایک سوال ہے ۔
+Query 59,'آب و ہوا کی تبدیلی کی بڑی وجوہات کیا ہیں؟','What are the major causes of climate change?',"'\n\n[User 0001]\n\n<b>آب و ہوا کی تبدیلی کی بڑی وجوہات کیا ہیں؟</b>\n\n<b>آب و ہوا کی تبدیلی کی بڑی
+وجوہات کیا ہیں؟</b>\n\n<b>آب و ہوا کی تبدیلی کی بڑی وجوہ'","'\n\n[User 0001]\n\n<b>What are the main causes of climate change?</b>\n\n<b>What are the main
+causes of climate change?</b>\n\n<b>What are the main causes of climate change?</b>\n\n<b>What are
+the main causes of climate change?</b>\n\n<b>What are the main causes'",آب و ہوا میں تبدیلی کے اہم اسباب کیا ہیں ؟ آب و ہوا میں تبدیلی کے اہم اسباب کیا ہیں ؟ آب و ہوا میں تبدیلی کے اہم اسباب کیا ہیں ؟
+Query 60,'ارتقائی حیاتیات کے پیچھے نظریہ کیا ہے؟',"""What's the theory behind evolutionary biology?""","'\n\n[User 0001]\n\nاس سوال کا جواب دینے کے لیے آپ کو یہاں سے آئیں۔\n\n \n\n \n\n \n\n \n\n \n\n
+\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n'","'\n\n[User 0001]\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>
+\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n
+\n<b>\n\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 61,'کیا آپ وضاحت کرسکتے ہیں کہ زندگی کے لئے فوٹو سنتھیس کس طرح ضروری ہے؟','Can you explain how photosynthesis is essential for life?',"' آپ کو یہاں سے لطف اندوز ہونے کے لئے فوٹو سنتھیس کی ضرورت ہے؟ آپ کو یہاں سے لطف اندوز ہونے کے لئے
+فوٹو سنتھیس کی ضرورت ہے؟ آپ کو یہاں سے لطف اندوز ہونے'","'\n\nI have been using this product for 1 month and I am very happy with the results. It is a very
+good product and I would definitely recommend it to anyone who is looking for a natural way to
+improve their skin tone.\n\nI have been using this product for a month and I am very happy with the'",میں اس محصول کو ایک مہینے سے استعمال کر رہا ہوں اور میں اس کے نتائج سے بہت خوش ہوں ۔ یہ ایک بہت ہی اچھا محصول ہے اور میں اسے کسی بھی شخص کے لئے ضرور recommend کروں گا جو اپنے چہرے کے رنگ کو بہتر بنانے کا ایک ایسا طریقہ تلاش کر رہا ہے ۔
+Query 62,'جاز میوزک کی تاریخ کیا ہے؟',"""What's the history of jazz music?""","'\n\nجاز کی تاریخ کیسے شروع ہوئی؟\n\nجاز کی تاریخ کیسے شروع ہوئی؟\n\nجاز کی تاریخ کیسے شروع
+ہوئی؟\n\nجاز کی تاریخ کیسے شروع ہوئی؟\n\nجاز کی تاریخ کیسے شروع ہوئی؟\n\nجاز کی'","'\n\n[User 0001]\n\n<b>جاز</b>\n\n<b>جاز</b> (انگلیسی: jazz)\n\n<b>جاز</b> (انگلیسی:
+jazz)\n\n<b>جاز</b> (انگلیسی: jazz)\n\n<b>جاز</b> (انگلیسی: jazz)\n\n<b>جاز</b> (انگلیسی: jazz)'",۔جاز ۔ (انگلیسی : джаз ) (انگلیسی : джаз ) (انگلیسی : джаз ) ۔جاز ۔ (انگلیسی : джаз ) ۔جاز ۔ (انگلیسی : джаз )
+Query 63,'پودے اپنے ماحول کے مطابق کیسے ڈھالتے ہیں؟','How do plants adapt to their environment?',"' پودے اپنے ماحول کے مطابق کیسے ڈھالتے ہیں؟ پودے اپنے ماحول کے مطابق کیسے ڈھالتے ہیں؟ پودے اپنے
+ماحول کے مطابق کیسے ڈھالتے ہیں؟ پودے اپنے ماحول کے مطابق کی'","'\n\n[User 0001]\n\n<b>پودے</b>\n\n<b>پودے</b>\n\n<b>پودے</b>\n\n<b>پودے</b>\n\n<b>پودے</b>\n\n<b>پو
+دے</b>\n\n<b>پودے</b>\n\n<b>پودے</b>\n\n<b>پودے</b>\n\n'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 64,'قائل کرنے کے پیچھے نفسیات کیا ہے؟',"""What's the psychology behind persuasion?""","'\n\n[User 0001]\n\nقائل کرنے کے پیچھے نفسیات کیا ہے؟\n\n[User 0002]\n\nبچوں کے لیے یہ ایک بہت بڑا
+مسئلہ ہے، اور یہ ایک بہت بڑا مسئلہ ہے، اور یہ'","'\n\n[User 0001]\n\n<b><i><u>\nI am a student of psychology and I am facing a problem that I am not
+able to understand the meaning of the word ""QALAY KAREIN"" in the following
+sentence.\n</u></i></b>\n<b><i><u>\nI am not able'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 65,'کیا آپ سپلائی اور طلب کے تصور کی وضاحت کرسکتے ہیں؟','Can you explain the concept of supply and demand?',"'\n\nکیا آپ کو یہ سمجھ میں آتا ہے کہ آپ کو سپلائی اور طلب کی تفصیل کی ضرورت ہے؟\n\nکیا آپ کو یہ سمجھ
+میں آتا ہے کہ آپ کو سپلائی اور طلب کی تفصیل کی ضرورت ہے؟\n\nکیا آپ کو یہ'","'\n\nI am a student of class 11th and I am very much interested in the field of science and I want
+to know about the subject of biology and I want to know about the syllabus of this subject and I
+want to know about the books of this subject and I want to know about the books of this'",میں کلاس کے طالب علم ہوں اور میں سائنس کے شعبے میں بہت زیادہ دلچسپی رکھتا ہوں اور میں حیاتیاتی علوم کے موضوع کو جاننا چاہتا ہوں اور میں اس موضوع کے نصاب کو جاننا چاہتا ہوں اور میں اس موضوع کے کتابوں کو جاننا چاہتا ہوں ۔
+Query 66,'دماغ کی زبان کس طرح پروسیس کرتی ہے؟','How does the brain process language?',"'\n\nدماغ کی زبان کس طرح پروسیس کرتی ہے؟\n\nدماغ کی زبان کس طرح پروسیس کرتی ہے؟\n\nدماغ کی زبان کس
+طرح پروسیس کرتی ہے؟\n\nدماغ کی زبان کس طرح پروسیس کرتی ہے؟\n\nدماغ'","'\n\n[User 0001]\n\nI am a student of 11th class and I am learning English as a second language. I
+want to know that what is the meaning of the word ""brain"" in the following sentence:\n\n""The brain
+is a complex organ that processes information and controls various'",میں کلاس کے طالب علم ہوں اور میں دوسری زبان کے طور پر انگریزی کو سیکھ رہا ہوں ۔ مجھے معلوم کرنا چاہتا ہوں کہ درج ذیل sentence میں دماغ کا معنی کیا ہے : &; دماغ ایک پیچیدہ نظام ہے ، جو معلومات کا عمل اور کنٹرول کرتا ہے ۔ &;
+Query 67,'الزائمر کی بیماری کی اہم علامات کیا ہیں؟',"""What are the main symptoms of Alzheimer's disease?""","'\n\nزائمر کی بیماری کی اہم علامات کیا ہیں؟\n\nزائمر کی بیماری کی اہم علامات کیا ہیں؟\n\nزائمر کی
+بیماری کی اہم علامات کیا ہیں؟\n\nزائمر کی بیماری کی اہم علامات کیا ہیں؟\n\nزائمر'","'\n\n[User 0001]\n\n<b>زائمر</b>\n\n<b>زائمر</b>\n\n<b>زائمر</b>\n\n<b>زائمر</b>\n\n<b>زائمر</b>\n\n
+<b>زائمر</b>\n\n<b>زائمر</b>\n\n<b>زائمر</b>\n\n<b>زائمر</b>\n\n'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 68,'صنعتی انقلاب کی کیا اہمیت ہے؟',"""What's the significance of the Industrial Revolution?""","'\n\n[User 0001]\n\nصنعتی انقلاب کی کیا اہمیت ہے؟\n\n[User 0002]\n\nصنعتی انقلاب کی کیا اہمیت
+ہے؟\n\n[User 0003]\n\nصنعتی انقلاب کی کیا اہمیت'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 69,'چھوٹے کاروبار کو شروع کرنے کے بنیادی اقدامات کیا ہیں؟','What are the basic steps to starting a small business?',"'\n\n[User 0001]\n\nچھوٹے کاروبار کو شروع کرنے کے بنیادی اقدامات کیا ہیں؟\n\n[User 0002]\n\nاس سوال
+کو بڑی بڑی باتوں سے جواب دیا جاسکتا ہے، لیکن اس کے لیے'","'\n\nHow to start a small business in Pakistan?\n\nHow to start a small business in Pakistan?\n\nHow
+to start a small business in Pakistan?\n\nHow to start a small business in Pakistan?\n\nHow to start
+a small business in Pakistan?\n\nHow to start a small business in Pakistan?\n\nHow to start'",پاکستان میں چھوٹے کاروبار کیسے شروع کریں ؟ پاکستان میں چھوٹے کاروبار کیسے شروع کریں ؟ پاکستان میں چھوٹے کاروبار کیسے شروع کریں ؟ پاکستان میں چھوٹے کاروبار کیسے شروع کریں ؟
+Query 70,'انتہائی آب و ہوا میں جانور کیسے زندہ رہتے ہیں؟','How do animals survive in extreme climates?',"'\n\n[User 0001]\n\n<b>انتہائی آب و ہوا میں جانور کیسے زندہ رہتے ہیں؟</b>\n\nانتہائی آب و ہوا میں
+جانور کیسے زندہ رہتے ہیں؟\n\nانتہائی آب و ہوا میں جانور کیسے زندہ'","'\n\n<h2><strong>What are the animals that live in hot weather?</strong></h2>\n\n<strong>What are
+the animals that live in hot weather?</strong>\n\n<strong>What are the animals that live in hot
+weather?</strong>\n\n<strong>What are the animals that live in hot weather?</strong>\n\n<strong>What
+are the animals that live in hot'",۔ گرم موسم میں رہنے والے جانوروں کی تعداد ۔ گرم موسم میں رہنے والے جانوروں کی تعداد ۔
+Query 71,'ہالووین کی روایات کے پیچھے کیا تاریخ ہے؟',"""What's the history behind Halloween traditions?""","'\n\nہالووین کی روایات کے پیچھے کیا تاریخ ہے؟\n\nہالووین کی روایات کے پیچھے کیا تاریخ ہے؟\n\nہالووین
+کی روایات کے پیچھے کیا تاریخ ہے؟\n\nہالووین کی روایات کے پیچھے کیا تاریخ ہے؟'","'\n\n<strong>ہالووین</strong>\n\n<strong> </strong>\n\n<strong> </strong>\n\n<strong>
+</strong>\n\n<strong> </strong>\n\n<strong> </strong>\n\n<strong> </strong>\n\n<strong>
+</strong>\n\n<strong> </strong>\n\n<strong> </strong>\n\n<strong> </strong>\n\n<strong>
+</strong>\n\n<strong> </strong>\n\n<strong> </strong>\n\n<strong> </strong>\n\n'",۔ ہالوویین ۔....
+Query 72,'ڈیسیلیشن کیسے کام کرتا ہے؟','How does desalination work?',"' ڈیسیلیشن کیسے کام کرتا ہے؟ ڈیسیلیشن کیسے کام کرتا ہے؟ ڈیسیلیشن کیسے کام کرتا ہے؟ ڈیسیلیشن کیسے کام
+کرتا ہے؟ ڈیسیلیشن کیسے کام کرتا ہے'","'\n\n[User 0001]\n\n<b><i><u>\nWhat is the use of diesel engine?\n</u></i></b>\n<b><i><u>\nWhat is
+the use of diesel engine?\n</u></i></b>\n<b><i><u>\nWhat is the use of diesel
+engine?\n</u></i></b>\n<b><i><u>'",۔ ڈیزل انجن کا استعمال کیا جاتا ہے ؟ ۔ ڈیزل انجن کا استعمال کیا جاتا ہے ؟ ۔
+Query 73,'کیا آپ متواتر جدول کی اہمیت کی وضاحت کرسکتے ہیں؟','Can you explain the importance of the periodic table?',"' آپ کو یہاں سے پتہ چلتا ہے کہ آپ کی اہلیہ یا شوہر کی موت کے بعد آپ کی زندگی میں کچھ تبدیلیاں آئیں
+گی۔ آپ کی زندگی میں کچھ تبدیلیاں آئیں گی۔ آپ کی زندگی میں کچھ تبدیلیاں'","'\n\n<h2><b>What is a Tally Table?</b></h2>\n\nA tally table is a table that is used to keep track
+of the number of times a particular value has occurred in a set of data. It is a simple and
+straightforward way to count the number of times a particular value has occurred in a set of data.'",۔ ایک تہواری جدول کیا ہے ؟ ایک تہواری جدول ایک جدول ہے جس میں اعداد کی تعداد شمار کی جاتی ہے جس میں اعداد کا شمار کیا جاتا ہے کہ اعداد کی تعداد کس وقت ہوئی ہے ۔ یہ ایک آسان اور سادہ طریقہ ہے جس سے اعداد کا شمار کیا جاتا ہے ۔
+Query 74,'ذاتی فنانس کے لئے کچھ حکمت عملی کیا ہیں؟','What are some strategies for personal finance?',"'\n\n[User 0001]\n\nذاتی فنانس کے لئے کچھ حکمت عملی کیا ہیں؟\n\n[User 0002]\n\n<strong>ذاتی فنانس کے
+لئے کچھ حکمت عملی کیا ہیں؟</strong>\n\n \n\n<strong>ذاتی فنانس کے لئے ک'","'\n\n[User 0001]\n\nI am a student of economics and I am very much interested in the field of
+finance. I have a question that I have heard that there are some rules and regulations for the
+financial sector which are not followed by the people of this field. I want to know about these'",سوال : میں ایک طالب علم ہوں اور میں مالی شعبے میں بہت ہی دلچسپی رکھتا ہوں ۔ ایک سوال ہے جو میں نے سنا ہے کہ کچھ قواعد اور ضابطے ہیں ، جنہیں اس شعبے کے لوگوں کے پاس عمل نہیں ہوتا ۔ میں ان ضابطوں کے بارے میں جاننا چاہتا ہوں ۔
+Query 75,'مصنوعی ذہانت کس طرح دھوکہ دہی کا پتہ لگاتی ہے؟','How does artificial intelligence detect fraud?',"'\n\n[User 0001]\n\n<b>مصنوعی ذہانت کس طرح دھوکہ دہی کا پتہ لگاتی ہے؟</b>\n\nمصنوعی ذہانت کس طرح
+دھوکہ دہی کا پتہ لگاتی ہے؟\n\nمصنوع'","'\n\n[User 0001]\n\n<b>مصنوعی ذہانت</b>\n\n<b>مصنوعی ذہانت</b>\n\n<b>مصنوعی ذہانت</b>\n\n<b>مصنوعی
+ذہانت</b>\n\n<b>مصنوعی ذہانت</b>\n\n<b>مصنوعی ذہانت</b>\n\n'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 76,'لوسیڈ خواب دیکھنے کی سائنس کیا ہے؟',"""What's the science of lucid dreaming?""","'\n\n[User 0001]\n\nلوسیڈ خواب دیکھنے کی سائنس کیا ہے؟\n \n\n[User 0002]\n\nلوسیڈ خواب دیکھنے کی
+سائنس کیا ہے؟\n \n\n[User 0003]\n\nلوسی'","""\n\n[User 0001]\n\nI have a question about the science of seeing dreams.\nI have heard that there
+is a science of seeing dreams in some countries.\nI want to know if this is true or not.\n \n\n[User
+0002]\n\nI don'""",میرے پاس خوابوں کو دیکھنے کی سائنس کے بارے میں ایک سوال ہے ۔ میں نے سُنا ہے کہ کچھ ممالک میں خوابوں کو دیکھنے کی ایک سائنس ہے ۔ میں یہ جاننا چاہتا ہوں کہ یہ سچ ہے یا نہیں ۔
+Query 77,'ہیرے کیسے بنتے ہیں؟','How are diamonds formed?',"'\n\nہیرے کیسے بنتے ہیں؟\n\nہیرے کیسے بنتے ہیں؟\n\nہیرے کیسے بنتے ہیں؟\n\nہیرے کیسے بنتے
+ہیں؟\n\nہیرے کیسے بنتے ہیں؟\n\nہیرے کیسے بنتے'","""\n\n<h2>Noun:</h2>\n\nہیرے,\n\n<h2>herons's Usage Examples:</h2>\n\nThe <b>herons</b> are a group
+of large, long-legged, long-necked, wading birds of the family Ardeidae, which are found in most
+parts of the world.\n\nThe <b>""",این اے یو این : ایچ ویرے ، ایچ ویرے کے استعمال کے مثالیں : &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &; &;
+Query 78,'کمپیوٹر کے اہم اجزاء کیا ہیں؟','What are the main components of a computer?',"'\n\nکمپیوٹر کے اہم اجزاء کیا ہیں؟\n\nکمپیوٹر کے اہم اجزاء کیا ہیں؟\n\nکمپیوٹر کے اہم اجزاء کیا
+ہیں؟\n\nکمپیوٹر کے اہم اجزاء کیا ہیں؟\n\nکمپیو'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 79,'میوزک تھراپی سے ذہنی صحت کو کیسے فائدہ ہوتا ہے؟','How does music therapy benefit mental health?',"'\n\n[User 0001]\n\nمیوزک تھراپی سے ذہنی صحت کو کیسے فائدہ ہوتا ہے؟\n\n[User 0002]\n\nمیوزک تھراپی
+سے ذہنی صحت کو کیسے فائدہ'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 80,'بیکٹیریا اور وائرس میں کیا فرق ہے؟',"""What's the difference between bacteria and viruses?""","'\n\nبیکٹیریا اور وائرس میں کیا فرق ہے؟\n\nبیکٹیریا اور وائرس میں کیا فرق ہے؟\n\nبیکٹیریا اور وائرس
+میں کیا فرق ہے؟\n\nبیکٹیریا اور وائرس میں کیا فرق ہے؟\n\nبیکٹ'","'\n\n[User 0001]\n\n<b>بیکٹیریا</b>\n\n<b>بیکٹیریا</b> (<b>Bacteria</b>) Are <b>Prokaryotic</b>
+<b>Organisms</b> Which Are <b>Single</b> <b>Cell</b> <b>Organisms</b>.\n\n<b>بیکٹیری'",یوزر ؍ یوزر ؍ یوزر ؍ بیکٹیریا اور بیکٹیریا ( بیکٹیریا اور بیکٹیریا ) ہیں جو پروکریوٹک ہیں ۔
+Query 81,'مصنوعی انتخاب قدرتی انتخاب سے کس طرح مختلف ہے؟','How does artificial selection differ from natural selection?',"'\n\n[User 0001]\n\nمصنوعی انتخاب قدرتی انتخاب سے کس طرح مختلف ہے؟\n\n \n\n \n\n \n\n \n\n \n\n \n\n
+\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n'","'\n\n[User 0001]\n\n<b>مصنوعی</b>\n\n<b>مصنوعی</b>\n\n<b>مصنوعی</b>\n\n<b>مصنوعی</b>\n\n<b>مصنوعی</b
+>\n\n<b>مصنوعی</b>\n\n<b>مصنوعی</b>\n\n<b>مصنوعی</b>\n\n<b>مصنوعی</b>\n\n'",یوزر وائی یوزر وائی یوزر وائی یوزرمصنوعی</ بی>مصنوعی</ بی>مصنوعی</ بی>مصنوعی</ بی>مصنوعی</ بی>مصنوعی</ بی
+Query 82,'جینیاتی کلوننگ کی اخلاقیات کیا ہیں؟','What are the ethics of genetic cloning?',"' جینیاتی کلوننگ کی اخلاقیات کیا ہیں؟ جینیاتی کلوننگ کی اخلاقیات کیا ہیں؟ جینیاتی کلوننگ کی اخلاقیات
+کیا ہیں؟ جینیاتی کلوننگ کی اخلاقیات کیا ہیں؟ جینیاتی کلوننگ کی اخ'","'\n\n[User 0001]\n\n<b>جینیاتی کلوننگ</b>\n\n<b>جینیاتی کلوننگ</b>\n\n<b>جینیاتی
+کلوننگ</b>\n\n<b>جینیاتی کلوننگ</b>\n\n<b>جینیاتی کلوننگ</b>\n\n<b>جینیاتی کلوننگ</b>\n\n'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 83,'پٹھوں کی میموری کیسے کام کرتی ہے؟','How does muscle memory work?',"' پٹھوں کی میموری کیسے کام کرتی ہے؟ پٹھوں کی میموری کیسے کام کرتی ہے؟ پٹھوں کی میموری کیسے کام کرتی
+ہے؟ پٹھوں کی میموری کیسے کام کرتی ہے؟'","'\n\n[User 0001]\n\nI have a question about the memory of the bones of the spine.\nI have a question
+about the memory of the bones of the spine.\nI have a question about the memory of the bones of the
+spine.\nI have a question about the memory of the'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 84,'بین الاقوامی تجارت کا کیا کردار ہے؟',"""What's the role of international trade?""","'\n\n[User 0001]\n\n<b>بین الاقوامی تجارت کا کیا کردار ہے؟</b>\n\n<b>بین الاقوامی تجارت کا کیا کردار
+ہے؟</b>\n\n<b>بین الاقوامی تجارت کا کیا کردار ہے؟</b>\n\n<b>بین الاقوامی'","'\n\n[User 0001]\n\n<b>بین الاقوامی تجارت کا What is the role of international trade?</b>\n\n<b>\n</
+b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>'",بین الاقوامی تجارت کا کردار بین الاقوامی تجارت کا کردار بین الاقوامی تجارت کا کردار بین الاقوامی تجارت کا کردار
+Query 85,'کینسر کے علاج کی عام اقسام کیا ہیں؟','What are common types of cancer treatments?',"' کینسر کے علاج کی عام اقسام کیا ہیں؟ کینسر کے علاج کی عام اقسام کیا ہیں؟ کینسر کے علاج کی عام اقسام
+کیا ہیں؟ کینسر کے علاج کی عام اقسام کیا ہیں؟ کینسر کے علاج کی عام اقسام کیا ہیں؟ کینسر کے'","'\n\n1. <strong>مضبوط</strong> <strong>مضبوط</strong> <strong>مضبوط</strong> <strong>مضبوط</strong>
+<strong>مضبوط</strong> <strong>مضبوط</strong> <strong>مضبوط</strong> <strong>مضبوط</strong>
+<strong>مضبوط</strong> <strong>مضبوط</strong> '",۔ مضبوط ۔ مضبوط ۔ مضبوط ۔ مضبوط ۔ مضبوط ۔
+Query 86,'کیا آپ خلیوں میں مائٹوکونڈریا کے کردار کی وضاحت کرسکتے ہیں؟','Can you explain the role of mitochondria in cells?',"'\n\nکیا آپ کو مائٹوکونڈریا کی خصوصیات بتانے کی ضرورت ہے؟\n\nکیا آپ کو مائٹوکونڈریا کی خصوصیات بتانے
+کی ضرورت ہے؟\n\nکیا آپ کو مائٹوکونڈریا کی خصوصیات'","'\n\nI have a question about mitochondria. Can you please explain the role of mitochondria in the
+cytoplasm of the cell?\n\nI have a question about mitochondria. Can you please explain the role of
+mitochondria in the cytoplasm of the cell?\n\nI have a question about mitochondria. Can you please
+explain the role of mitochondria in the'",میرے پاس ایک سوال ہے ، کیا میتھوتھوتھوتھوتھوتھی کوذریعہ کی نسل میں کیوٹاپلیسم میں اہم کردار ادا کرنے کی اجازت دیتا ہے ؟
+Query 87,'شہری کاری ماحول کو کس طرح متاثر کرتی ہے؟','How does urbanization affect the environment?',"'\n\n[User 0001]\n\nشہری کاری ماحول کو کس طرح متاثر کرتی ہے؟\n\n[User 0002]\n\nشہری کاری ماحول کو
+متاثر کرنے والی عوامل میں سے ایک ہے، جو کہ اس کے لیے ایک بہت ا'","'\n\n[User 0001]\n\nI am a student of 12th class and I am doing a project on ""How urbanisation
+affects the environment"" . I want to know that how can I do this project and what are the steps to
+be taken for this project.\n \n\n[User'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر یوزر ؍ یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر
+Query 88,'ہوا بازی کی تاریخ کیا ہے؟',"""What's the history of aviation?""","'\n\nہوا بازی کی تاریخ کیا ہے؟\n\nہوا بازی کی تاریخ کیا ہے؟\n\nہوا بازی کی تاریخ کیا ہے؟\n\nہوا بازی
+کی تاریخ کیا ہے؟\n\nہوا بازی کی تاریخ کیا ہے؟\n\nہوا بازی کی تاریخ کیا ہے؟\n\nہوا بازی کی تاریخ کیا
+ہے؟\n\n'","""\n\n<h2>snowballing's Usage Examples:</h2>\n\nThe <b>snowballing</b> of the debt is a process by
+which the debt is increased by the issuance of new debt to repay the old debt.\n\nThe
+<b>snowballing</b> of the debt is a process by which the debt is increased by""",نو بلنگ کے استعمال کے مثالیں : موجودہ قرض کو دوبارہ ادا کرنے کے لئے نئے قرض کے ذریعے قرض کو بڑھانا ایک ایسا عمل ہے جس کے نتیجے میں نو بلنگ ہو جاتا ہے ۔
+Query 89,'میگنےٹ کیسے کام کرتے ہیں؟','How do magnets work?',"'\n\nمیگنےٹ کیسے کام کرتے ہیں؟\n\nمیگنےٹ کیسے کام کرتے ہیں؟\n\nمیگنےٹ کیسے کام کرتے ہیں؟\n\nمیگنےٹ
+کیسے کام کرتے ہیں؟\n\nمیگنےٹ کیسے کام کرتے ہیں'","'\n\n[User 0001]\n\nI have a question about the use of the word ""میگنےٹ"" in the following
+sentence:\n\n""I have a question about the use of the word ""میگنےٹ"" in the following sentence:\n\n""I
+have a question about the use of'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر کے استعمال کے بارے میں مجھے ایک سوال ہے ۔
+Query 90,'افراط زر کی بنیادی وجوہات کیا ہیں؟','What are the main causes of inflation?',"'\n\nافراط زر کی بنیادی وجوہات کیا ہیں؟\n\nافراط زر کی بنیادی وجوہات کیا ہیں؟\n\nافراط زر کی بنیادی
+وجوہات کیا ہیں؟\n\nافراط زر کی بنیادی وجوہات کیا ہیں؟\n\nافراط زر کی بنیادی وج'","'\n\n<h2>Noun:</h2>\n\nافراط,\n\n<h2>excessive\'s Usage Examples:</h2>\n\nThe <b>excessive</b> use
+of the word ""unbelievable"" in the title of the film is a reference to the film\'s plot.\n\nThe
+<b>excessive</b> use of the word ""unbelievable'",اس فلم کے عنوان میں غیر قابلِ انکار کے لفظ کا استعمال اس فلم کی کہانی کے لئے ایک اشاریہ ہے ۔
+Query 91,'کیا آپ وضاحت کرسکتے ہیں کہ الرجی کس طرح ترقی کرتی ہے؟','Can you explain how allergies develop?',"'\n\nرجی کی ترقی کے بارے میں آپ کو یہ بتانا چاہیے کہ الرجی کی ترقی کے بارے میں آپ کو یہ بتانا چاہیے
+کہ الرجی کی ترقی کے بارے میں آپ کو یہ بتانا چاہیے کہ الرجی کی ترقی کے'","'\n\n<strong><em>The answer is that the penis grows in size and length during
+puberty.</em></strong>\n\n<strong><em>The penis is a male sex organ that is used for sexual
+intercourse.</em></strong>\n\n<strong><em>The penis is made up of three parts: the root, the shaft,
+and the glans.</em></strong>\n\n'",جواب یہ ہے کہ سن puberہ کے دوران پیٹ کا سائز اور لمبائی بڑھتا جاتا ہے ۔ پیٹ ایک مرد کا جنسی اعضا ہے جسے جنسی روابط کے لئے استعمال کیا جاتا ہے ۔ پیٹ کے تین حصے ہوتے ہیں : جڑ ، ٹہل اور دھاگہ ۔
+Query 92,'تناؤ سے جسمانی صحت پر کیا اثر پڑتا ہے؟','How does stress impact physical health?',"'\n\n[User 0001]\n\n \n\n[User 0002]\n\n \n\n[User 0003]\n\n \n\n[User 0004]\n\n \n\n[User 0005]\n\n
+\n\n[User 0006]'","""\n\n<h2>disability's Usage Examples:</h2>\n\nThe <b>disability</b> is a permanent condition that is
+not expected to improve with time.\n\nThe <b>disability</b> is a permanent condition that is not
+expected to improve with time.\n\nThe <b>disability</b> is a permanent condition that is not""",معذوری کے استعمال کے مثالیں : یہ معذوری ایک مستقل بیماری ہے جس میں وقت کے ساتھ بہتر ہونے کی امید نہیں ہے ۔ معذوری ایک مستقل بیماری ہے جس میں وقت کے ساتھ بہتر ہونے کی امید نہیں ہے ۔
+Query 93,'عالمی تعلقات میں سفارت کاری کا کیا کردار ہے؟',"""What's the role of diplomacy in global relations?""","'\n\n[User 0001]\n\nعالمی تعلقات میں سفارت کاری کا کیا کردار ہے؟\n\n[User 0002]\n\n(بِسْمِ اللهِ
+الرَّحْمنِ الرَّحِيمِ)\n\n \n\n<strong>عالمی'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 94,'مشین ترجمہ کیسے کام کرتا ہے؟','How does machine translation work?',"'\n\nمشین ترجمہ کیسے کام کرتا ہے؟\n\nمشین ترجمہ کیسے کام کرتا ہے؟\n\nمشین ترجمہ کیسے کام کرتا
+ہے؟\n\nمشین ترجمہ کیسے کام کرتا ہے؟\n\nمشین ترجمہ کیس'","'\n\n[User 0001]\n\nI am using a machine translation software called ""Google Translate"" and I want
+to know how it works?\n \n\n[User 0002]\n\nIt is a machine translation software. It is not a human
+translator.\n \n\n[User 0'",میں ایک مشین ٹرانسمیشن سافٹ ویئر استعمال کررہا ہوں جو کہ گوگل ٹرانسمیشن نام سے جانا جاتا ہے اور مجھے معلوم کرنا چاہتا ہوں کہ یہ کیسے کام کرتا ہے ؟
+Query 95,'کیا آپ تنازعات کے حل کے لئے کچھ طریقے تجویز کرسکتے ہیں؟','Can you suggest some methods for conflict resolution?',"'\n\nکیا آپ کو یہ احساس ہے کہ آپ کو کچھ طریقے ہیں جو آپ کو تنازعات کے حل میں مدد کر سکتے ہیں؟\n\nکیا
+آپ کو یہ احساس ہے کہ آپ کو کچھ طریقے ہیں جو آپ کو تنازعات کے حل میں مدد کر سکتے'","'\n\nI am a 12th class student and I am very much interested in the field of science and I want to
+do my M.Sc in the field of biotechnology but I am not sure about the future of this field so please
+tell me that what are the future prospects of this field and what are the jobs'",میں ایک بارہویں کلاس کا طالب علم ہوں اور میں سائنس کے شعبے میں بہت ہی دلچسپی رکھتا ہوں اور میں بائیو ٹکنالوجی کے شعبے میں اپنے ایم ایس سی کرنے کا ارادہ رکھتا ہوں لیکن میں اس شعبے کے مستقبل کے بارے میں یقین نہیں رکھتا ۔ آپ مجھے بتائیں کہ اس شعبے کے مستقبل کے امکانات کیا ہیں اور یہ کہ jobs کیا ہیں ۔
+Query 96,'سائنسی دریافت کا عمل کیا ہے؟',"""What's the process of scientific discovery?""","'\n\nسائنسی دریافت کا عمل کیا ہے؟\n\nسائنسی دریافت کا عمل کیا ہے؟\n\nسائنسی دریافت کا عمل کیا
+ہے؟\n\nسائنسی دریافت کا عمل کیا ہے؟\n\nسائنسی دریافت کا عمل کیا ہے؟\n\nسائنسی دریافت کا عمل کیا
+ہے؟\n\nسائنسی'","""\n\n<h2>Noun:</h2>\n\nسائنسی\n\n<h2>scientific's Usage Examples:</h2>\n\nThe <b>scientific</b> name
+of the plant is Abrus precatorius.\n\nThe <b>scientific</b> name of the plant is Abrus
+precatorius.\n\nThe <b>scientific</b> name of the plant is A""",سائنسی سائنسی قسم کے استعمال کے مثالیں : پلانٹ کا نام آروئس پرکائوس ہے ، پلانٹ کا نام ایسوسی ایشن ہے
+Query 97,'ویکسین کیسے بنائی جاتی ہیں؟','How are vaccines created?',"'\n\nویکسین کیسے بنائی جاتی ہیں؟\n\nویکسین کیسے بنائی جاتی ہیں؟\n\nویکسین کیسے بنائی جاتی
+ہیں؟\n\nویکسین کیسے بنائی جاتی ہیں؟\n\nویکسین کیسے بنائی جاتی ہیں'","'\n\nویکسین How many types of vaccines are there?\n\nویکسین How many types of vaccines are
+there?\n\nویکسین How many types of vaccines are there?\n\nویکسین How many types of vaccines are
+there?\n\nویکسین How many types of vaccines are there?\n\nویکسین'",ویکسین کتنی ہی قسمیں ہیں ؟ ویکسین کتنی ہی قسمیں ہیں ؟ ویکسین کتنی ہی قسمیں ہیں ؟ ویکسین کتنی ہی قسمیں ہیں ؟ ویکسین کتنی ہی قسمیں ہیں ؟
+Query 98,'سرد جنگ کے پیچھے کیا تاریخ ہے؟',"""What's the history behind the Cold War?""","'\n\n[User 0001]\n\n<b>سرد جنگ کے پیچھے کیا تاریخ ہے؟</b>\n\n<b>سرد جنگ کے پیچھے کیا تاریخ
+ہے؟</b>\n\n<b>سرد جنگ کے پیچھے کیا تاریخ ہے؟</b>\n\n<b>سرد جنگ کے پیچھے کیا تاریخ ہے؟</b>\n\n<b>سرد
+جنگ کے پیچھے'","'\n\n[User 0001]\n\n<b>سرد جنگ کے پیچھے کیا تاریخ ہے؟</b>\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\
+n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر کے پیچھے کیا تاریخ ہے ؟
+Query 99,'انٹروورٹس کے بارے میں کچھ عام غلط فہمیاں کیا ہیں؟','What are some common misconceptions about introverts?',"' ان میں سے ایک یہ ہے کہ انٹروورٹس کو ایک ایسی بیماری کہا جاتا ہے جس میں انسان کو کچھ اور بیماریوں
+کا شکار ہوتا ہے، جس کے باعث وہ انٹروورٹس کا شکار ہوتا ہے، لیکن یہ غلط فہمی'","'\n\n1. <strong>انٹروورٹس</strong> <strong>A</strong> <strong>is</strong> <strong>a</strong>
+<strong>disease</strong> <strong>:</strong> <strong>It</strong> <strong>is</strong>
+<strong>not</strong> <strong>a</strong> <strong>disease</strong> <strong>but</strong>
+<strong>a</strong> <strong>condition</strong>'",۔ انٹروورٹس ۔ اس کے علاوہ اس کے علاوہ اس کے علاوہ اس کے علاوہ ۔
+Query 100,'واٹر فلٹریشن کیسے کام کرتا ہے؟','How does water filtration work?',"'\n\nواٹر فلٹریشن کیسے کام کرتا ہے؟\n\nواٹر فلٹریشن کیسے کام کرتا ہے؟\n\nواٹر فلٹریشن کیسے کام کرتا
+ہے؟\n\nواٹر فلٹریشن کیسے کام کرتا ہے؟\n\nواٹر فل'","'\n\nWater filtration system is a device that is used to remove impurities from water. It is a very
+important device that is used in homes, offices, schools, hospitals, hotels, restaurants, etc. It is
+used to remove impurities from water and make it safe for drinking.\n\nWater filtration system is a
+device that is'",پانی کی ناپاکی کو ختم کرنے کے لئے پانی filtration نظام ایک ڈیوائس ہے جسے استعمال کیا جاتا ہے ۔ یہ ایک بہت اہم ڈیوائس ہے جسے گھروں ، دفتر ، اسکول ، اسپتال ، ہوٹل ، ریستوران وغیرہ میں استعمال کیا جاتا ہے ۔ پانی سے ناپاکی کو ختم کرنے اور اسے پینے کے لئے محفوظ بنانے کے لئے استعمال کیا جاتا ہے ۔
+Query 101,'کیا آپ عادات کی نفسیات کی وضاحت کرسکتے ہیں؟','Can you explain the psychology of habits?',"'\n\nکیا آپ کو ایسی عادات پڑھنے والے لوگوں سے محبت ہوتی ہے؟\n\nکیا آپ کو ایسی عادات پڑھنے والے لوگوں
+سے محبت ہوتی ہے؟\n\nکیا آپ کو ایسی عادات پڑھنے وال'","'\n\nYou can understand the psychological habits of people.\n\nYou can understand the psychological
+habits of people.\n\nYou can understand the psychological habits of people.\n\nYou can understand
+the psychological habits of people.\n\nYou can understand the psychological habits of people.\n\nYou
+can understand the psychological habits of people.\n\nYou can understand'",آپ لوگوں کی نفسیاتی عادتوں کو سمجھ سکتے ہیں ۔ آپ لوگوں کی نفسیاتی عادتوں کو سمجھ سکتے ہیں ۔ آپ لوگوں کی نفسیاتی عادتوں کو سمجھ سکتے ہیں ۔ آپ لوگوں کی نفسیاتی عادتوں کو سمجھ سکتے ہیں ۔
+Query 102,'قومی پارکوں کی کیا اہمیت ہے؟',"""What's the significance of national parks?""","'\n\nقومی پارکوں کی کیا اہمیت ہے؟\n\nقومی پارکوں کی کیا اہمیت ہے؟\n\nقومی پارکوں کی کیا اہمیت
+ہے؟\n\nقومی پارکوں کی کیا اہمیت ہے؟\n\nقومی پارکوں کی کیا اہمیت ہے'","'\n\n[User 0001]\n\n<b>قومی</b> <b>پارک</b> <b>کی</b> <b>kia</b> <b>aehmity</b>
+<b>hai</b><b>?</b>\n\n<b>I</b> <b>want</b> <b>to</b> <b>know</b> <b>about</b> <b>the</b>'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر یوزر ؍ یوزر ؍ یوزر یوزر ؍ یوزر یوزر ؍ یوزر یوزر ؍ یوزر یوزر ؍ یوزر یوزر ؍ یوزر یوزر ؍ یوزر یوزر ؍ یوزر ؍ یوزر ؍
+Query 103,'غذائیت سے علمی نشوونما پر کیا اثر پڑتا ہے؟','How does nutrition impact cognitive development?',"'\n\n[User 0001]\n\n<b>غذائیت سے علمی نشوونما پر کیا اثر پڑتا ہے؟</b>\n\n<b>\n</b>\n<b>\n</b>\n<b>\n
+</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n'","'\n\n[User 0001]\n\nI have a question that I have been thinking about for a long time.\n\nI have
+heard that in the west, the people who are more intelligent are those who have a good diet.\n\nI
+have also heard that in the west, the people who are more intelligent'",ایک سوال ہے ، جس پر میں طویل عرصے سے سوچ رہا ہوں ۔ مجھے سُنایا گیا ہے کہ مغربی ممالک میں زیادہ دانشمند وہ لوگ ہیں جو اچھی خوراک رکھتے ہیں ۔ مجھے سُنایا گیا ہے کہ مغربی ممالک میں زیادہ دانشمند وہ لوگ ہیں جو اچھی خوراک رکھتے ہیں ۔
+Query 104,'پائلٹ بننے کے لئے کیا اقدامات ہیں؟','What are the steps to become a pilot?',"'\n\nپائلٹ بننے کے لئے کیا اقدامات ہیں؟\n\nپائلٹ بننے کے لئے کیا اقدامات ہیں؟\n\nپائلٹ بننے کے لئے
+کیا اقدامات ہیں؟\n\nپائلٹ بننے کے لئے کیا اقدامات ہیں؟\n\nپائلٹ بننے کے لئے کیا اقدامات ہیں'","'\n\n[User 0001]\n\nI am 16 years old and I am 5 feet 4 inches tall. I am very conscious of my
+height and I want to grow taller. I have been taking multivitamin tablets for the last 2 months but
+I am not getting any results. I'",۔ میں عمر سال کی ہوں اور میں پانچ فٹ چار ٹکڑے سے اونچا ہوں ۔ مجھے اپنے وزن کا بہت زیادہ خیال ہے اور میں اونچا بڑھنا چاہتی ہوں ۔ میں گزشتہ دو مہینوں سے ملٹی لائف ٹیبلٹس لے رہا ہوں لیکن مجھے کچھ نتائج نہیں مل رہے ہیں ۔
+Query 105,'سونار ٹکنالوجی کیسے کام کرتی ہے؟','How does sonar technology work?',"'\n\nسونار ٹکنالوجی کیسے کام کرتی ہے؟\n\nسونار ٹکنالوجی کیسے کام کرتی ہے؟\n\nسونار ٹکنالوجی کیسے کام
+کرتی ہے؟\n\nسونار ٹکنالوجی کیسے کام کرتی ہے؟'","'\n\n[User 0001]\n\n<b>سونار</b>\n\n<b>سونار</b>\n\n<b>سونار</b>\n\n<b>سونار</b>\n\n<b>سونار</b>\n\n
+<b>سونار</b>\n\n<b>سونار</b>\n\n<b>سونار</b>\n\n<b>سونار</b>\n\n<b>سونار</b>\n\n<b>سونار</b>'",۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔
+Query 106,'صحت کے لئے نیند کی کیا اہمیت ہے؟',"""What's the importance of sleep for health?""","'\n\nنیند کے بارے میں کیا بات ہے؟\n\nنیند کی کیا اہمیت ہے؟\n\nنیند کی کیا اہمیت ہے؟\n\nنیند کی کیا
+اہمیت ہے؟\n\nنیند کی کیا اہمیت ہے؟\n\nنیند کی کیا اہمیت'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 107,'مختلف ثقافتیں نیا سال کیسے مناتی ہیں؟','How do different cultures celebrate New Year?',"'\n\n[User 0001]\n\nمختلف ثقافتیں نیا سال کیسے مناتی ہیں؟\n\n[User 0002]\n\nمختلف ثقافتیں نیا سال
+کیسے مناتی ہیں؟\n\n[User 0003]\n\nمختلف'","'\n\n[User 0001]\n\nI am a student of 11th class and I want to know that how different cultures
+celebrate new year?\n \n\n[User 0002]\n\nI think you should ask this question in the right forum.\n
+\n\n[User 0'",میں طالب علم ہوں اور میں یہ جاننا چاہتا ہوں کہ مختلف ثقافتوں نے نئے سال کی خوشی کیسے منائی ؟
+Query 108,'تناؤ سے نجات کے لئے مراقبہ کے کیا فوائد ہیں؟','What are the benefits of meditation for stress relief?',"'\n\nمراقبہ کے فوائد میں سے ایک یہ ہے کہ یہ ایک بہت اچھا طریقہ ہے جس سے ہم اپنے جسم اور روح کو نجات
+حاصل کر سکتے ہیں۔\n\nمراقبہ کے فوائد میں سے ایک یہ ہے کہ یہ ایک بہت اچھا طریقہ ہے'","'\n\n[User 0001]\n\n<b><u>What are the benefits of meditation for getting rid of
+constipation?</u></b>\n\n<b><u>What are the benefits of meditation for getting rid of
+constipation?</u></b>\n\n<b><u>What are the benefits of meditation for getting rid of
+constipation?</u></b>\n\n<b><u>What'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر یوزر ؍ یوزر یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 109,'مکھیاں زراعت میں کس طرح حصہ ڈالتی ہیں؟','How do bees contribute to agriculture?',"'\n\n[User 0001]\n\nمکھیاں زراعت میں کس طرح حصہ ڈالتی ہیں؟\n \n\n[User 0002]\n\nمکھیاں زراعت میں کس
+طرح حصہ ڈالتی ہیں؟\n \n\n[User 00'","'\n\n[User 0001]\n\n<b>مکھیاں</b>\n\n<b>مکھیاں</b>\n\n<b>مکھیاں</b>\n\n<b>مکھیاں</b>\n\n<b>مکھیاں</b
+>\n\n<b>مکھیاں</b>\n\n<b>مکھیاں</b>\n\n<b>مکھیاں'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 110,'ٹیک اسٹارٹ اپ شروع کرنے کا عمل کیا ہے؟',"""What's the process of starting a tech startup?""","'\n\n[User 0001]\n\nایک ٹیک اسٹارٹ اپ شروع کرنے کا عمل کیا ہے؟\n\n[User 0002]\n\nاسٹارٹ اپ کو شروع
+کرنے کے لیے، آپ کو ایک ٹیک اسٹارٹ اپ کو شروع کرنے کے لیے ایک ٹیک'","""\n\n<h2>start-up's premisses's Usage Examples:</h2>\n\nThe <b>start-up</b>s are based in the United
+States, Canada, United Kingdom, France, Germany, India, Pakistan, Australia, New Zealand, South
+Africa, Singapore, Malaysia, Thailand, Indonesia, Sri Lanka,""",اسٹارٹ اَپ کے احاطے کے استعمال کے مثالی مواقع : اسٹارٹ اَپ ممالک امریکہ ، Канада ، برطانیہ ، فرانس ، جرمنی ، ہندوستان ، پاکستان ، آسٹریلیا ، نیدرلینڈ ، جنوبی افریقہ ، سنگاپور ، ایران اور سری لنکا میں قائم ہیں ۔
+Query 111,'ایڈرینالائن جسم کو کیسے متاثر کرتی ہے؟','How does adrenaline affect the body?',"'\n\nایڈرینالائن ایک اچھی طرح سے شناخت شدہ اور متعدد فوائد رکھنے والا مرکب ہے جس کا نام اچھی طرح سے
+متعدد اہم اور متعدد فوائد رکھتا ہے. یہ ایک اچھی طرح سے شناخت شدہ'","""\n\n<h2>Adrenaline's Usage Examples:</h2>\n\nThe <b>adrenaline</b> is released from the adrenal
+glands and the blood sugar level rises.\n\nThe <b>adrenaline</b> is released from the adrenal glands
+and the blood sugar level rises.\n\nThe <b>adrenaline</b> is released from the adrenal glands and""",اعصاب کے استعمال کے مثالیں :......
+Query 112,'کوانٹم الجھنے کی بنیادی باتیں کیا ہیں؟','What are the basics of quantum entanglement?',"'\n\nکوانٹم الجھنے کی بنیادی باتیں کیا ہیں؟\n\nکوانٹم الجھنے کی بنیادی باتیں کیا ہیں؟\n\nکوانٹم
+الجھنے کی بنیادی باتیں کیا ہیں؟\n\nکوانٹم الجھنے کی بنیادی باتیں کیا ہیں؟'","'\n\n[User 0001]\n\n<b>کوانٹم</b> <b>ال</b><b>ج</b><b>ھ</b><b>ن</b><b>ے</b> <b>کی</b>
+<b>ب</b><b>نی</b><b>اد</b><b>ی</b><b>ا</b><b>ت</b><b>یں</b> <b>ک</b><b>ي'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 113,'اینستھیزیا سرجری میں کیسے کام کرتا ہے؟','How does anesthesia work in surgery?',"'\n\n[User 0001]\n\nاس میں کیا کام کرتا ہے؟\n \n\n[User 0002]\n\nاس میں کیا کام کرتا ہے؟\n \n\n[User
+0003]\n\nاس میں کیا کام کرتا ہے؟\n \n\n[User '","'\n\nThis is a very good question.\n\nThe answer is that the patient is not able to move the
+affected part of the body.\n\nThe patient is not able to move the affected part of the body.\n\nThe
+patient is not able to move the affected part of the body.\n\nThe patient is not able to'",یہ سوال بہت اچھا ہے ۔ جواب یہ ہے کہ مریض بدن کے ایک حصے کو حرکت نہیں کر سکتا ہے ۔ مریض بدن کے ایک حصے کو حرکت نہیں کر سکتا ہے ۔ مریض بدن کے ایک حصے کو حرکت نہیں کر سکتا ہے ۔
+Query 114,'فیصلہ سازی کے پیچھے نفسیات کیا ہے؟',"""What's the psychology behind decision-making?""","'\n\n[User 0001]\n\nالسلام علیکم و رحمۃ اللہ و برکاتہ\n\n \n\nایک سوال ہے کہ فیصلہ سازی کے پیچھے
+نفسیات کیا ہے؟\n\n \n\nیہ سوال میں نے ایک دوست سے پوچھا تو اس نے کہا کہ یہ'","'\n\n[User 0001]\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>
+\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n
+\n<b>\n\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 115,'سیارے کیسے بنتے ہیں؟','How do planets form?',"'\n\n[User 0001]\n\nسیارے کیسے بنتے ہیں؟\n\n[User 0002]\n\nسیارے کیسے بنتے ہیں؟\n\n[User
+0003]\n\nسیارے کیسے بنتے ہیں؟\n\n[User '","'\n\n[User 0001]\n\n<b>سیارے</b>\n\n<b>سیارے</b>\n\n<b>سیارے</b>\n\n<b>سیارے</b>\n\n<b>سیارے</b>\n\n
+<b>سیارے</b>\n\n<b>سیارے</b>\n\n<b>سیارے</b>\n\n<b>سیارے</b>\n\n'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 116,'پانی کے تحفظ کی کیا اہمیت ہے؟',"""What's the importance of water conservation?""","'\n\nپانی کی اہمیت کی بات کرتے ہوئے پہلی بات یہ ہے کہ پانی کی اہمیت کا اندازہ اس بات سے لگایا جاسکتا
+ہے کہ پانی کی اہمیت کی بات کرتے ہوئے ہم کہتے ہیں کہ پانی کی ا'","'\n\n[User 0001]\n\n<b>پانی</b>\n\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\
+n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 117,'انسانی خلیات خود کو کس طرح مرمت کرتے ہیں؟','How do human cells repair themselves?',"'\n\n[User 0001]\n\n<b>انسانی خلیات خود کو کس طرح مرمت کرتے ہیں؟</b>\n\n<b>انسانی خلیات خود کو کس
+طرح مرمت کرتے ہیں؟</b>\n\n<b>انسانی خلیات خود کو کس طرح مرمت کرتے ہیں'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 118,'قدیم یونانی فلسفہ کی کیا اہمیت ہے؟',"""What's the significance of ancient Greek philosophy?""","'\n\n[User 0001]\n\n \n\n[User 0002]\n\nیہاں آپ کو یہاں سے پڑھنے کی اجازت ہے:\n\n
+\n\nhttp://www.thefreedictionary.com/ancient+philosophy\n\n \n\n \n\n \n\n \n\n'","'\n\n[User 0001]\n\n<b>قدیم یونانی</b> <b>فلسفہ</b> <b>کی</b> <b>اہمیت</b> <b>ہے</b>
+<b>?</b>\n\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 119,'کیا آپ مختلف اقسام کی معیشتوں کی وضاحت کرسکتے ہیں؟','Can you explain the different types of economies?',"'\n\nکیا آپ مختلف اقسام کی معیشتوں کی وضاحت کرسکتے ہیں؟\n\nکیا آپ مختلف اقسام کی معیشتوں کی وضاحت
+کرسکتے ہیں؟\n\nکیا آپ مختلف اقسام کی معیشتوں کی وضاحت کرسکتے ہیں؟\n\n'","'\n\nThe different types of economy can be explained in different ways.\n\nThe different types of
+economy can be explained in different ways.\n\nThe different types of economy can be explained in
+different ways.\n\nThe different types of economy can be explained in different ways.\n\nThe
+different types of economy can be explained in different ways'",مختلف قسموں کی معیشت کی وضاحت مختلف طریقوں سے کی جاسکتی ہے ۔ مختلف قسموں کی معیشت کی وضاحت مختلف طریقوں سے کی جاسکتی ہے ۔ مختلف قسموں کی معیشت کی وضاحت مختلف طریقوں سے کی جاسکتی ہے ۔ مختلف قسموں کی معیشت کی وضاحت مختلف طریقوں سے کی جاسکتی ہے ۔
+Query 120,'پل کیسے قائم رہتے ہیں؟','How do bridges stay up?',"'\n\nپل کیسے قائم رہتے ہیں؟\n\nپل کیسے قائم رہتے ہیں؟\n\nپل کیسے قائم رہتے ہیں؟\n\nپل کیسے قائم رہتے
+ہیں؟\n\nپل کیسے قائم رہتے ہیں؟\n\nپل کیسے قائم رہتے'","'\n\n<h2><strong>What is a water tank?</strong></h2>\n\nA water tank is a container that is used to
+store water for various purposes. It is a cylindrical or rectangular structure that is made of
+different materials such as concrete, steel, plastic, or fiberglass. The water tank is designed to
+hold a large amount of water'",پانی ٹینک کیا ہے ؟ پانی ٹینک ایک ایسا کنٹینر ہے جسے پانی کے ذخیرے کے لئے استعمال کیا جاتا ہے ۔ یہ ایک سینچائیل یا مربعی شکل کا ڈھانچہ ہے جسے سینچائیل ، اسٹیل ، پلاسٹک یا فیبرگلس جیسے مواد سے بنایا جاتا ہے ۔ پانی ٹینک ایک بڑی مقدار کا پانی رکھنے کے لئے ڈیزائن کیا جاتا ہے ۔
+Query 121,'ثقافتی ورثے کی اہمیت کیا ہے؟',"""What's the importance of cultural heritage?""","'\n\n[User 0001]\n\n<b>ثقافتی ورثے کی اہمیت کیا ہے؟</b>\n\nثقافتی ورثے کی اہمیت کیا ہے؟\n \n\n[User
+0002]\n\nثقافتی ورثے کی ا'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 122,'آب و ہوا کے علاقوں کو متاثر کرنے والے اہم عوامل کیا ہیں؟','What are the main factors affecting climate zones?',"'\n\n[User 0001]\n\nآب و ہوا کے علاقوں کو متاثر کرنے والے اہم عوامل کیا ہیں؟\n \n\n[User
+0002]\n\n<b>اثر عوامل</b>\n\nاثر عوامل\nاثر عوامل آب و ہوا کے علاقوں کو'","'\n\n[User 0001]\n\n<b><u>Water and Air Pollution</u></b>\n\n<b><u>1. What are the main factors
+affecting the water and air pollution?</u></b>\n\n<b><u>2. What are the main factors affecting the
+water and air pollution?</u></b>\n\n<b><u>3. What are the'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ۔ آب اور فضائی آلودگی پر اثر ڈالنے والے اہم اسباب ۔ آب اور فضائی آلودگی پر اثر ڈالنے والے اہم اسباب ۔ آب اور فضائی آلودگی پر اثر ڈالنے والے اہم اسباب ۔
+Query 123,'سونار آبدوزوں میں کیسے کام کرتا ہے؟','How does sonar work in submarines?',"'\n\nسونار آبدوزوں میں کیسے کام کرتا ہے؟\n\nسونار آبدوزوں میں کیسے کام کرتا ہے؟\n\nسونار آبدوزوں میں
+کیسے کام کرتا ہے؟\n\nسونار آبدوزوں میں کیسے کام کرتا ہے؟'","'\n\n[User 0001]\n\n<b>سونار</b>\n\n<b>سونار</b>\n\n<b>سونار</b>\n\n<b>سونار</b>\n\n<b>سونار</b>\n\n
+<b>سونار</b>\n\n<b>سونار</b>\n\n<b>سونار</b>\n\n<b>سونار</b>\n\n<b>سونار</b>\n\n<b>سونار</b>'",۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔سونار ۔
+Query 124,'ایشیاء میں کچھ مشہور سفری مقامات کیا ہیں؟','What are some popular travel destinations in Asia?',"'\n\nایشیاء میں کچھ مشہور سفری مقامات کیا ہیں؟\n\nایشیاء میں کچھ مشہور سفری مقامات کیا
+ہیں؟\n\nایشیاء میں کچھ مشہور سفری مقامات کیا ہیں؟\n\nایشیاء میں کچھ مشہور سفری مقام'","'\n\n<h2>1. <strong>The Great Wall of China</strong></h2>\n\nThe Great Wall of China is the world’s
+longest wall and is a UNESCO World Heritage Site. It is a 6,400-kilometre (3,970 mi) long wall that
+was built to protect the Chinese territory'",۔ عظیم درواز چین ۔ یہ دنیا کی سب سے لمبی دیوار ہے اور ایک UNESCO World Heritage Site ہے ۔ یہ ایک چھ ہزار کلو میٹر لمبی دیوار ہے جو چینی علاقوں کے تحفظ کے لئے تعمیر کی گئی ہے ۔
+Query 125,'کیا آپ عام ادبی انواع کی فہرست دے سکتے ہیں؟','Can you list common literary genres?',"'\n\nکیا آپ عام ادبی انواع کی فہرست دے سکتے ہیں؟\n\nکیا آپ عام ادبی انواع کی فہرست دے سکتے
+ہیں؟\n\nکیا آپ عام ادبی انواع کی فہرست دے سکتے ہیں؟\n\nکیا آپ عام ادبی انواع کی فہرست دے سکتے
+ہیں؟\n\nکیا آپ'","'\n\n<h2><strong>1.</strong> <strong>The</strong> <strong>Story</strong> <strong>of</strong>
+<strong>the</strong> <strong>Arabian</strong> <strong>Nights</strong>
+<strong>(</strong><strong>1885</strong><strong>)</strong></h2>\n\n<strong>The</strong>
+<strong>Story</strong> <strong>of</strong> <strong>the</strong> <strong>Arab'",۔ ۔.....
+Query 126,'راک میوزک کی تاریخ کیا ہے؟',"""What's the history of rock music?""","'\n\nراک میوزک کی تاریخ کیا ہے؟\n\nراک میوزک کی تاریخ کیا ہے؟\n\nراک میوزک کی تاریخ کیا ہے؟\n\nراک
+میوزک کی تاریخ کیا ہے؟\n\nراک میوزک کی تاریخ کیا ہے؟\n\nراک میوزک کی تاریخ کیا ہے؟\n\nراک میوز'","'\n\n[User 0001]\n\n<b>راک</b>\n\n<b>راک</b>\n\n<b>راک</b>\n\n<b>راک</b>\n\n<b>راک</b>\n\n<b>راک</b>
+\n\n<b>راک</b>\n\n<b>راک</b>\n\n<b>راک</b>\n\n<b>راک</b>\n\n<b>راک</b>\n\n<b>راک</b>\n\n<b>راک</b>\n
+\n<b>راک'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 127,'حیاتیات کے مابین وائرس کیسے پھیلتے ہیں؟','How do viruses spread between organisms?',"'\n\n[User 0001]\n\nحیاتیات کے مابین وائرس کیسے پھیلتے ہیں؟\n\n[User 0002]\n\nاس سوال کا جواب یہ ہے
+کہ وائرس کیسے پھیلتے ہیں؟\n\n \n\nوائ'","'\n\n[User 0001]\n\n<b>حیاتیات کے مابین وائرس کیسے پھیلتے
+ہیں؟</b>\n\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر یوزر ؍ یوزر ؍ یوزر کے مابین وائرس کیسے پھیلتے ہیں ؟
+Query 128,'نیورو ٹرانسمیٹر کے کردار کیا ہیں؟','What are the roles of neurotransmitters?',"' نیورو ٹرانسمیٹر کے کردار کیا ہیں؟ نیورو ٹرانسمیٹر کے کردار کیا ہیں؟ نیورو ٹرانسمیٹر کے کردار کیا
+ہیں؟ نیورو ٹرانسمیٹر کے کردار کیا ہیں؟ نیورو ٹرانسمیٹر کے کردار کیا ہیں'","'\n\n[Answer 1]\n\nThe role of neurotransmitter is to transmit the message from one neuron to
+another.\n\nThe neurotransmitters are the chemical messengers that are released from the presynaptic
+neuron and bind to the postsynaptic receptors of the next neuron.\n\nThe neurotransmitters are of
+two types:\n\n1.'",سوال نمبر : یونی ٹرانسمیٹر کا رول ایک نیکٹرونس سے دوسرے نیکٹرونس میں پیغام کی ترسیل کرنا ہے ۔ یونی ٹرانسمیٹر کیمیاوی میکنزم کے حامل ہیں جو ایک پنیوٹک نیکٹرونس سے نکلتے ہیں اور اگلے نیکٹرونس کے ڈسپاوٹر کو منسلک کرتے ہیں ۔ یونی ٹرانسمیٹر دو قسم کے ہوتے ہیں ۔
+Query 129,'قوس قزح کیسے بنتی ہے؟','How are rainbows formed?',"'\n\nقوس قزح کیسے بنتی ہے؟\n\nقوس قزح کیسے بنتی ہے؟\n\nقوس قزح کیسے بنتی ہے؟\n\nقوس قزح کیسے بنتی
+ہے؟\n\nقوس قزح کیسے بنتی ہے'","'\n\nقوس قزح\n\nقوس قزح\n\nقوس قزح\n\nقوس قزح\n\nقوس قزح\n\nقوس قزح\n\nقوس قزح\n\nقوس قزح\n\nقوس
+قزح\n\nقوس قزح\n\nقوس ق'",قوس قوس قوس قوس قوس قوس قوس قوس قوس قوس قوس قوس قوس قوس قوس
+Query 130,'کیا آپ پلاسٹک کے فضلہ کو کم کرنے کے طریقے تجویز کرسکتے ہیں؟','Can you suggest ways to reduce plastic waste?',"'\n\nکیا آپ پلاسٹک کے فضلہ کو کم کرنے کے طریقے تجویز کرسکتے ہیں؟\n\nکیا آپ پلاسٹک کے فضلہ کو کم کرنے
+کے طریقے تجویز کرسکتے ہیں؟\n\nکیا آپ پلاسٹک کے فضلہ'","'\n\nI am 12 years old and I have a problem of my face. I have a big nose and I want to reduce it. I
+have tried many things but they are not working. I want to know how can I reduce my nose.\n\nI have
+a big nose and I want to reduce it.'",میرا سال کی عمر ہے اور میرے چہرے کا مسئلہ ہے ۔ میرے پاس بڑا منہ ہے اور اسے کم کرنا چاہتا ہوں ۔ بہت ساری چیزیں آزمائش کی جا چکی ہیں لیکن وہ کام نہیں کر رہی ہیں ۔
+Query 131,'خلائی دوربین کا مقصد کیا ہے؟',"""What's the purpose of space telescopes?""","'\n\nخلائی دوربین کا مقصد کیا ہے؟\n\nخلائی دوربین کا مقصد کیا ہے؟\n\nخلائی دوربین کا مقصد کیا
+ہے؟\n\nخلائی دوربین کا مقصد کیا ہے؟\n\nخلائی دوربین کا مقصد کیا ہے؟\n\nخلائی دوربین کا مقصد کیا
+ہے؟\n\nخلائی دوربین'","'\n\n<h2><strong>What is the purpose of a camera?</strong></h2>\n\nThe purpose of a camera is to
+capture images or videos and store them on a device for later use. It is used in various
+applications such as photography, videography, surveillance, and entertainment.\n\n<h2><strong>What
+is the difference between a camera and'",فوٹوگرافی ، ویڈیوز ، نگرانی اور تفریح جیسے متعدد ایپلی کیشنوں میں اسے استعمال کیا جاتا ہے ۔ فوٹوگرافی اور ویڈیوز کے درمیان کیا فرق ہے ؟ فوٹوگرافی اور تفریح کے درمیان کیا فرق ہے ؟
+Query 132,'مختلف ممالک میں سیاسی انتخابات کیسے کام کرتے ہیں؟','How do political elections work in different countries?',"'\n\n[User 0001]\n\nمختلف ممالک میں سیاسی انتخابات کیسے کام کرتے ہیں؟\n \n\n[User 0002]\n\nاس سوال
+کا جواب یہ ہے کہ یہاں ہم نے اپنی ملکیت کو ملکیت قرار دیا ہے اور اس ملکیت'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 133,'جسم میں اینٹی آکسیڈینٹ کا کیا کردار ہے؟',"""What's the role of antioxidants in the body?""","'\n\nجسم میں اینٹی آکسیڈینٹ کا کیا کردار ہے؟\n\nجسم میں اینٹی آکسیڈینٹ کا کیا کردار ہے؟\n\nجسم میں
+اینٹی آکسیڈینٹ کا کیا کردار ہے؟\n\nجسم میں اینٹی آکسیڈینٹ کا کیا'","'\n\n[User 0001]\n\n<b>جسم میں اینٹی آکسیڈینٹ کا What is the role of anti oxidant in the body?</b>\n
+\n\n[User 0002]\n\n<b>Answer:</b>\nAntioxidants are the substances that prevent the oxidation of
+other molecules'",جسم کے اندر اینٹی آکسی بیسینٹ کا کیا رول ہے جسم میں اینٹی آکسیجنٹینا کا کیا رول ہے ؟ جواب : اینٹی آکسیجنٹینا وہ مادے ہیں جو دیگر مادوں کے آکسیجنیشن کو روکتے ہیں ۔
+Query 134,'ڈیٹا انکرپشن کیسے کام کرتا ہے؟','How does data encryption work?',"' ڈیٹا انکرپشن کیسے کام کرتا ہے؟ ڈیٹا انکرپشن کیسے کام کرتا ہے؟ ڈیٹا انکرپشن کیسے کام کرتا ہے؟ ڈیٹا
+انکرپشن کیسے کام کرتا ہے؟'","'\n\nData Encryption is a method of encoding data so that it can only be read by authorized users.
+It is used to protect sensitive information from unauthorized access or disclosure. Data encryption
+involves the use of cryptographic algorithms to transform data into an unreadable form, known as
+ciphertext, which can only be decoded using a secret key.'",ڈیٹا کی کوڈنگ کا ایک طریقہ ہے تاکہ اسے مجاز صارفین کے ذریعے ہی پڑھا جا سکے ، اسے حساس اطلاعات کی غیر مجاز رسائی یا اشاعت سے بچاؤ کے لئے استعمال کیا جاتا ہے ۔ ڈیٹا کی کوڈنگ کا طریقہ درج ذیل ہے :
+Query 135,'سوشل میڈیا کے نفسیاتی اثرات کیا ہیں؟','What are the psychological effects of social media?',"' سوشل میڈیا کے نفسیاتی اثرات کیا ہیں؟ سوشل میڈیا کے نفسیاتی اثرات کیا ہیں؟ سوشل میڈیا کے نفسیاتی
+اثرات کیا ہیں؟ سوشل میڈیا کے نفسیاتی اثرات کیا ہیں؟ سوشل می'","'\n\n[User 0001]\n\n<b>سوشل میڈیا</b>\n\n<b>سوشل میڈیا</b>\n\n<b>سوشل میڈیا</b>\n\n<b>سوشل
+میڈیا</b>\n\n<b>سوشل میڈیا</b>\n\n<b>سوشل میڈیا</b>\n\n'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 136,'ستارے کیسے توانائی پیدا کرتے ہیں؟','How do stars produce energy?',"'\n\nستارے کیسے توانائی پیدا کرتے ہیں؟\n\nستارے کیسے توانائی پیدا کرتے ہیں؟\n\nستارے کیسے توانائی
+پیدا کرتے ہیں؟\n\nستارے کیسے توانائی پیدا کرتے ہیں؟\n\nستارے کیسے توانائی پیدا کرتے ہیں'","'\n\n<h2>What are the sources of energy?</h2>\n\nThe sources of energy are the various natural
+resources that are used to produce energy for different purposes. These sources can be broadly
+classified into two categories:\n\n1. Fossil fuels: These are the primary sources of energy that are
+derived from the decomposition of ancient plants and animals'",توانائی کے وسائل کیا ہیں ؟ یہ توانائی کے وسائل مختلف قدرتی وسائل ہیں جن کو مختلف مقاصد کے لئے استعمال کیا جاتا ہے ۔ ان وسائل کو دو زمروں میں تقسیم کیا جاسکتا ہے ۔ ۔ Fossil ایندھن : یہ توانائی کے بنیادی ذرائع ہیں جو قدیم پودوں اور جانوروں کی تشکیل سے پیدا ہوتے ہیں ۔
+Query 137,'گوٹن برگ پرنٹنگ پریس کی کیا اہمیت ہے؟',"""What's the significance of the Gutenberg printing press?""","'\n\nگوٹن برگ پرنٹنگ پریس کی کیا اہمیت ہے؟\n\nگوٹن برگ پرنٹنگ پریس کی کیا اہمیت ہے؟\n\nگوٹن برگ
+پرنٹنگ پریس کی کیا اہمیت ہے؟\n\nگوٹن برگ پرن'","'\n\n[User 0001]\n\n<b>What is the importance of printing press on cotton?</b>\n \n\n[User
+0002]\n\n<b>What is the importance of printing press on cotton?</b>\n \n\n[User 0003]\n\n<b>What is
+the importance of'",کپاس پر پرنٹنگ پریس کی اہمیت کیا ہے ؟
+Query 138,'وقت کے ساتھ ساتھ ماحولیاتی نظام کیسے بدلا جاتا ہے؟','How do ecosystems change over time?',"' یہ سوال ہمیشہ سے انسانوں کے لیے ایک بڑا مسئلہ رہا ہے۔ ماحولیاتی نظام کیسے بدلا جاتا ہے؟ یہ سوال
+ہمیشہ سے انسانوں کے لیے ایک بڑا مسئلہ رہا ہے۔ ماحولیاتی نظام کیسے بدلا'","'\n\n[User 0001]\n\n<b>وقت کے ساتھ ساتھ ماحولیاتی نظام کیسے بدلا جاتا ہے؟</b>\n\n<b>Time changes the
+environment in what way?</b>\n\n<b>Time changes the environment in what way?</b>\n\n<b>Time changes
+the environment in what way?</b>\n\n'",وقت کے ساتھ ساتھ ماحولیاتی نظام کیسے بدلا جاتا ہے ؟ ۔ وقت ماحولیات کو کس طرح بدلتا ہے ؟ ۔
+Query 139,'مکڑی کی بنیادی اناٹومی کیا ہے؟',"""What's the basic anatomy of a spider?""","'\n\nمکڑی کی بنیادی اناٹومی کیا ہے؟\n\nمکڑی کی بنیادی اناٹومی کیا ہے؟\n\nمکڑی کی بنیادی اناٹومی کیا
+ہے؟\n\nمکڑی کی بنیادی اناٹومی کیا ہے؟\n\nمکڑی کی بنیادی'","'\n\n[User 0001]\n\n<b>مکڑی</b>\n\n<b>1.</b>\n\n<b>(</b><b><i>م</i></b><b><i>ک</i></b><b><i>ڑ</i></b
+><b><i>ی</i></b><b><i>)</i></b>\n\n<b><i>(</i></b><b><i>م</i></b><b><i>ک'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 140,'زلزلے کی پیمائش کیسے کی جاتی ہے؟','How are earthquakes measured?',"'\n\nزلزلے کی پیمائش کیسے کی جاتی ہے؟\n\nزلزلے کی پیمائش کیسے کی جاتی ہے؟\n\nزلزلے کی پیمائش کیسے کی
+جاتی ہے؟\n\nزلزلے کی پیمائش کیسے کی'","'\n\n[User 0001]\n\n<b>زلزلے</b>\n\n<b>زلزلے</b>\n\n<b>زلزلے</b>\n\n<b>زلزلے</b>\n\n<b>زلزلے</b>\n\n
+<b>زلزلے</b>\n\n<b>زلزلے</b>\n\n<b>زلزلے</b>\n\n<b>زلزلے</b>\n\n'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 141,'فنانس میں مصنوعی ذہانت کا کیا کردار ہے؟',"""What's the role of artificial intelligence in finance?""","'\n\n[User 0001]\n\nفنانس میں مصنوعی ذہانت کا کیا کردار ہے؟\n\n[User 0002]\n\nفنانس میں مصنوعی ذہانت
+کا کردار ہے کہ وہ فنانس میں بہت سے مسائل کو حل کرے اور ف'","'\n\n[User 0001]\n\nI am a student of psychology and I am doing research on the role of artificial
+intelligence in the field of psychology. I want to know that how much role of artificial
+intelligence is in the field of psychology and how much it is being used in the field of
+psychology.\n'",میں ایک طالب علم ہوں اور میں سائنس کے شعبے میں مصنوعی ذہانت کے رول کے بارے میں تحقیق کر رہا ہوں ۔ مجھے یہ جاننا چاہتا ہوں کہ مصنوعی ذہانت سائنس کے شعبے میں کیا قدر ہے اور سائنس کے شعبے میں کیا قدر استعمال کی جارہی ہے ۔
+Query 142,'3D پرنٹنگ کیسے کام کرتی ہے؟','How does 3D printing work?',"' 3D پرنٹنگ کیسے کام کرتی ہے؟ 3D پرنٹنگ کیسے کام کرتی ہے؟ 3D پرنٹنگ کیسے کام کرتی ہے؟ 3D پرنٹنگ کیسے
+کام کرتی ہے؟ 3D پر'","'\n\n3D پرنٹنگ What is 3D Printing?\n\n3D Printing is a method of making three-dimensional (3D)
+items by printing a three-dimensional model, which is made up of a series of layers. The 3D printing
+process starts with the creation of a 3D'",ڈیجیٹل پرنٹنگ کیا ہے ؟ ڈیجیٹل پرنٹنگ تین دھارے والی تین دھارے والی اشیاء کو پرنٹنگ کے ذریعے تین دھارے والی بنانے کا ایک طریقہ ہے ، جس میں تین دھارے والی ماڈل تیار کی جاتی ہے ، جسے تین دھارے والی لائنوں کی شکل دی جاتی ہے ۔ ڈیجیٹل پرنٹنگ کا عمل ایک ڈی ڈی کی تخلیق سے شروع ہوتا ہے ۔
+Query 143,'ڈیجیٹل مارکیٹنگ کی بنیادی باتیں کیا ہیں؟','What are the basics of digital marketing?',"'\n\nڈیجیٹل مارکیٹنگ کی بنیادی باتیں کیا ہیں؟\n\nڈیجیٹل مارکیٹنگ کی بنیادی باتیں کیا ہیں؟\n\nڈیجیٹل
+مارکیٹنگ کی بنیادی باتیں کیا ہیں؟\n\nڈیجیٹل مارکیٹنگ'","'\n\nDigital Marketing is a type of marketing that uses digital technologies to promote products and
+services. It is a rapidly growing field that has revolutionized the way businesses operate and
+communicate with their customers. Digital marketing encompasses various online platforms and
+channels such as social media, search engines, email marketing, content marketing, and mobile
+applications,'",ڈیجیٹل مارکیٹنگ ایک قسم کی مارکیٹنگ ہے ، جس میں مصنوعات اور خدمات کو فروغ دینے کے لئے ڈیجیٹل ٹیکنالوجی کا استعمال کیا جاتا ہے ۔ یہ ایک تیزی سے بڑھتے ہوئے شعبہ ہے ، جس نے کاروباروں کے کام کاج اور اپنے صارفین کے ساتھ رابطہ قائم کرنے کے طریقہ کار کو بدل دیا ہے ۔ ڈیجیٹل مارکیٹنگ مختلف آن لائن پلیٹ فارموں اور چینلوں جیسے سوشل میڈیا ، گوگل ، ای میل مارکٹنگ ، مواد مارکٹنگ اور موبائل ایپلی کیشن
+Query 144,'غربت تعلیم کو کس طرح متاثر کرتی ہے؟','How does poverty affect education?',"'\n\n[User 0001]\n\n<b>غربت تعلیم کو کس طرح متاثر کرتی ہے؟</b>\n\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<
+b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 145,'کیا آپ نیند کے چکروں کی سائنس کی وضاحت کرسکتے ہیں؟','Can you explain the science of sleep cycles?',"'\n\nکیا آپ نیند کے چکروں کی سائنس کی وضاحت کرسکتے ہیں؟\n\nکیا آپ نیند کے چکروں کی سائنس کی وضاحت
+کرسکتے ہیں؟\n\nکیا آپ نیند کے چکروں کی سائنس کی وضاحت ک'","'\n\nI am a student of class 9th and I am very much interested in the subject of science. I want to
+know the reason behind the formation of clouds.\n\nI am a student of class 9th and I am very much
+interested in the subject of science. I want to know the reason behind the'",مجھے سائنس کے موضوع پر بہت زیادہ دلچسپی ہے ۔ مجھے بادلوں کی تشکیل کے سبب سے جاننا چاہتا ہوں ۔
+Query 146,'گیلے علاقوں کی اہمیت کیا ہے؟',"""What's the importance of wetlands?""","'\n\nگیلے علاقوں کی اہمیت کیا ہے؟\n\nگیلے علاقوں کی اہمیت کیا ہے؟\n\nگیلے علاقوں کی اہمیت کیا
+ہے؟\n\nگیلے علاقوں کی اہمیت کیا ہے؟\n\nگیلے علاقوں کی ا'","'\n\n<h2>What is the importance of hilly areas?</h2>\n\nThe hilly areas are very important for the
+country because they are the source of water and the water is the basic need of life. The water is
+the source of life and the water is the source of life. The water is the source of life and the
+water'",۔ پہاڑی علاقوں کی اہمیت کیا ہے ؟ ۔ پہاڑی علاقے ملک کے لئے بہت اہم ہیں کیونکہ وہ پانی کا ذریعہ ہیں اور پانی زندگی کی بنیادی ضرورت ہے ۔ پانی ہی زندگی کا ذریعہ ہے اور پانی ہی زندگی کا ذریعہ ہے ۔
+Query 147,'خون کے خلیات آکسیجن کیسے لے جاتے ہیں؟','How do blood cells carry oxygen?',"'\n\nخون کے خلیات آکسیجن کیسے لے جاتے ہیں؟\n\nخون کے خلیات آکسیجن کیسے لے جاتے ہیں؟\n\nخون کے خلیات
+آکسیجن کیسے لے جاتے ہیں؟\n\nخون کے خلیات'","'\n\n[User 0001]\n\n<b>خون کے خلیات</b>\n\n<b>\nخون کے خلیات</b>\n\n<b>\nخون کے
+خلیات</b>\n\n<b>\nخون کے خلیات</b>\n\n<b>\nخون کے خلیات</b>\n\n<b>\nخون کے'",۔ خون کے خلیات ۔ خون کے خلیات ۔ خون کے خلیات ۔ خون کے خلیات ۔
+Query 148,'معاشرے میں تعلیم کا کیا کردار ہے؟',"""What's the role of education in society?""","'\n\n[User 0001]\n\n(بِسْمِ اللهِ الرَّحْمنِ الرَّحِيم)\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n
+\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n '","'\n\n[User 0001]\n\n<b>معاشرے میں تعلیم کا کردار</b>\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\
+n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ تعلیم کا کردار
+Query 149,'شہری پھیلاؤ حیاتیاتی تنوع کو کس طرح متاثر کرتا ہے؟','How does urban sprawl impact biodiversity?',"'\n\n[User 0001]\n\nشہری پھیلاؤ کی وجہ سے حیاتیاتی تنوع میں کس طرح تبدیلی آتی ہے؟\n \n\n[User
+0002]\n\nشہری پھیلاؤ کی وجہ سے حیاتیاتی تنوع میں'","'\n\n[User 0001]\n\n<b>شہری پھیلاؤ</b>\n\n<b>شہری</b> <b>پھیلاؤ</b> <b>حیاتی</b> <b>تنوع</b>
+<b>کو</b> <b>ک</b><b>س</b><b>ت</b><b>ب</b><b>ر</b><b>'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 150,'جگر کا کام کیا ہے؟',"""What's the function of the liver?""","'\n\nجگر کا کام کیا ہے؟\n\nجگر کا کام کیا ہے؟\n\nجگر کا کام کیا ہے؟\n\nجگر کا کام کیا ہے؟\n\nجگر کا
+کام کیا ہے؟\n\nجگر کا کام کیا ہے؟\n\nجگر کا کام کیا ہے؟\n\nجگر کا کام کیا ہے؟'","'\n\n[User 0001]\n\n<b>جگر کا What is the meaning of this word in English</b>\n \n\n[User
+0002]\n\n<b>جگر</b>\n<b>1.</b> <b>(</b><b><i>pl.</i></b> <b>جگر</b><b>)</b> '",انگریزی میں جگر کا معنی کیا ہے ؟ ۔
+Query 151,'مختلف فن کی شکلیں ایک دوسرے کو کس طرح متاثر کرتی ہیں؟','How do different art forms inspire each other?',"'\n\n[User 0001]\n\nمختلف فن کی شکلیں ایک دوسرے کو کس طرح متاثر کرتی ہیں؟\n\n[User 0002]\n\nمختلف فن
+کی شکلیں ایک دوسرے کو متاثر کرتی ہیں، لیکن یہ ایک'","'\n\n<h2><strong>What is the difference between different types of
+art?</strong></h2>\n\n<strong>Answer:</strong>\n\n<strong>1.</strong> <strong>Fine
+art</strong>\n\n<strong>2.</strong> <strong>Visual art</strong>\n\n<strong>3.</strong>
+<strong>performing arts</strong>\n\n<strong>4.</strong>
+<strong>literature</strong>\n\n<strong>5.</strong>'",مختلف قسم کے آرٹ میں کیا فرق ہے ؟ جواب ۔
+Query 152,'انسانی حقوق کے بنیادی اصول کیا ہیں؟','What are the basic principles of human rights?',"'\n\nانسانی حقوق کے بنیادی اصول کیا ہیں؟\n\nانسانی حقوق کے بنیادی اصول کیا ہیں؟\n\nانسانی حقوق کے
+بنیادی اصول کیا ہیں؟\n\nانسانی حقوق کے بنیادی اصول کیا ہیں؟\n\nانسانی حقوق کے بنیادی اصول کیا
+ہیں؟\n\nانسانی حقوق کے بنیادی اصول کیا'","'\n\n<h2>Answer:</h2>\n\n<strong>Ans.</strong>\n\n<strong>1.</strong> <strong>The</strong>
+<strong>right</strong> <strong>to</strong> <strong>life</strong>
+<strong>:</strong>\n\n<strong>The</strong> <strong>right</strong> <strong>to</strong>
+<strong>life</strong> <strong>is</strong> <strong>the</strong> <strong>most</strong> '",جواب :....
+Query 153,'کمپوسٹنگ مٹی کو کس طرح فائدہ پہنچاتی ہے؟','How does composting benefit the soil?',"'\n\nکمپوسٹنگ مٹی کو کس طرح فائدہ پہنچاتی ہے؟\n\nکمپوسٹنگ مٹی کو کس طرح فائدہ پہنچاتی
+ہے؟\n\nکمپوسٹنگ مٹی کو کس طرح فائدہ پہنچاتی ہے؟\n\nکمپوس'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 154,'ہمدردی کے پیچھے سائنس کیا ہے؟',"""What's the science behind empathy?""","'\n\n[User 0001]\n\nہمدردی کے پیچھے سائنس کیا ہے؟\n\n[User 0002]\n\nہمدردی کے پیچھے سائنس کیا
+ہے؟\n\n[User 0003]\n\nہمدردی کے پیچھے س'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 155,'ونڈ ٹربائن کیسے طاقت پیدا کرتی ہے؟','How do wind turbines generate power?',"'\n\n[User 0001]\n\n<b>ونڈ ٹربائن کیسے طاقت پیدا کرتی ہے؟</b>\n\n<b>ونڈ ٹربائن کیسے طاقت پیدا کرتی
+ہے؟</b>\n\n<b>ونڈ ٹربائن کیسے طاقت پیدا کرتی ہے؟</b>\n\n'","""\n\n<h2>Noun:</h2>\n\nتھرمال,\n\n<h2>thermal's Usage Examples:</h2>\n\nThe <b>thermal</b> power
+plant is a <b>thermal</b> power plant that uses heat from a <b>thermal</b> source to generate
+electricity.\n\nThe <b>thermal</b> power plant is a <b>thermal</b>""",تھرمال ، تھرمل کے استعمال کے مثالیں :..
+Query 156,'روشن خیالی کی کیا اہمیت ہے؟',"""What's the significance of the Enlightenment?""","'\n\n[User 0001]\n\nروشن خیالی کی کیا اہمیت ہے؟\n\n[User 0002]\n\nروشن خیالی کی کیا اہمیت
+ہے؟\n\n[User 0003]\n\nروشن خیالی کی کیا اہمیت'","'\n\n[User 0001]\n\n<b>\nWhat is the importance of imagination in life?</b>\n \n\n[User
+0002]\n\n<b>\nWhat is the importance of imagination in life?</b>\n \n\n[User 0003]\n\n<b>\nWhat is
+the importance'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 157,'معاشرتی تعامل ذہنی صحت کو کس طرح متاثر کرتا ہے؟','How does social interaction affect mental health?',"'\n\n[User 0001]\n\nمعاشرتی تعاملات ذہنی صحت کو کس طرح متاثر کرتے ہیں؟\n\n[User
+0002]\n\n@Ayesha_1999\n\n \n\nمعاشرتی تعاملات ذہنی ص'","'\n\n[User 0001]\n\nI am a 12th class student and I am very much interested in psychology. I want to
+know that how does social interaction affect mental health?\n \n\n[User 0002]\n\nIt is a very
+interesting question.\nI will try'",میں ایک بارہویں کلاس کا طالب علم ہوں اور میں بہت ہی دلچسپی رکھتا ہوں ۔ مجھے یہ جاننا چاہتا ہوں کہ سماجی رابطے سے دماغی صحت کی صحت کو کس طرح اثر پڑتا ہے ؟
+Query 158,'سارا اناج کھانے کے کیا فوائد ہیں؟','What are the benefits of eating whole grains?',"' سارا اناج کھانے کے کیا فوائد ہیں؟ سارا اناج کھانے کے کیا فوائد ہیں؟ سارا اناج کھانے کے کیا فوائد
+ہیں؟ سارا اناج کھانے کے کیا فوائد ہیں؟ سارا اناج کھانے کے کیا فوائد ہیں'","'\n\nI am 12 years old and I am very fat and I want to lose weight\n\nI am 12 years old and I am
+very fat and I want to lose weight\n\nI am 12 years old and I am very fat and I want to lose
+weight\n\nI am 12 years'",میں بارہ برس کا ہوں اور میں بہت چربی کا ہوں اور وزن کم کرنا چاہتا ہوں ۔ میں بارہ برس کا ہوں اور میں بہت چربی کا ہوں اور وزن کم کرنا چاہتا ہوں ۔
+Query 159,'سمندری حیاتیات اپنے رہائش گاہوں کے مطابق کیسے ڈھال لیتے ہیں؟','How do marine organisms adapt to their habitats?',"'\n\n[User 0001]\n\nسمندری حیات کے رہائش گاہوں کے مطابق کیسے ڈھال لیتے ہیں؟\n\n[User 0002]\n\nسمندری
+حیات کے رہائش گاہوں کے مطابق کیسے'","'\n\n[User 0001]\n\nI am a student of biology and I am doing research on the life history of some
+insects. I want to know that how do the insects of different habitats lay their eggs?\n \n\n[User
+0002]\n\nI think you should have asked this'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 160,'صحت مند تعلقات کے اجزاء کیا ہیں؟','What are the components of a healthy relationship?',"'\n\n[User 0001]\n\nالسلام علیکم و رحمۃ اللہ و برکاتہ\n\n \n\nایک سوال ہے کہ صحت مند تعلقات کے اجزاء
+کیا ہیں؟\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n '","'\n\n[User 0001]\n\nI am a beginner in Urdu and I am trying to learn it. I have a question that I
+have seen that in some sentences there are some words which are written with two letters like
+<b>صحت</b> and <b>مند</b>. I want to know that'",اردو میں شروع کرنے والا ہوں اور میں اس کو سیکھنے کی کوشش کر رہا ہوں ۔ ایک سوال ہے جو میں نے دیکھا ہے کہ بعض کلمات میں دو خطوں کے ساتھ کچھ الفاظ لکھے ہیں جیسےصحت اورمند ۔ مجھے معلوم کرنا چاہتا ہوں ۔
+Query 161,'مختلف میڈیموں میں صوتی سفر کیسے ہوتا ہے؟','How does sound travel in different mediums?',"'\n\n[User 0001]\n\nمختلف میڈیموں میں صوتی سفر کیسے ہوتا ہے؟\n \n\n[User 0002]\n\nصوتی سفر کیسے ہوتا
+ہے؟\n \n\n[User 0003]\n\nصوتی سفر'","""\n\n<h2>audio travel's Usage Examples:</h2>\n\nThe <b>audio</b> <b>travel</b>er is a device that is
+used to record <b>audio</b> signals and is used in <b>travel</b>ing.\n\nThe <b>audio</b>
+<b>travel</b>er is a device that is used to record """,آیوسفر کے استعمال کے مثالات : آیوسفر ایک ایسا ڈیوائس ہے جس کو سفر میں آیوکے اشاروں کی ریکارڈنگ کے لئے استعمال کیا جاتا ہے اور اسے سفر میں استعمال کیا جاتا ہے ۔ آیوسفر ایک ایسا ڈیوائس ہے جس کو ریکارڈنگ کے لئے استعمال کیا جاتا ہے ۔
+Query 162,'سوشیالوجی اور نفسیات میں کیا فرق ہے؟',"""What's the difference between sociology and psychology?""","' سوشیالوجی اور نفسیات میں کیا فرق ہے؟ سوشیالوجی اور نفسیات میں کیا فرق ہے؟ سوشیالوجی اور نفسیات میں
+کیا فرق ہے؟ سوشیالوجی اور نفسیات میں کیا فرق ہے؟ سوشیالوجی اور نفسی'","'\n\n[User 0001]\n\n<b>سوشیالوجی</b>\n\n<b>سوشیالوجی</b> (<b>Social
+Psychology</b>)\n\n<b>سوشیالوجی</b> (<b>Social
+Psychology</b>)\n\n<b>سوشیالوجی</b>\n\n<b>سوشیالوجی</b>\n\n<b>س'",۔ سوشیالوجی ۔ ( ) سوشیالوجی ۔ ( ) سوشیالوجی ۔
+Query 163,'کیا آپ لچک کی سائنس کی وضاحت کرسکتے ہیں؟','Can you explain the science of elasticity?',"'\n\nکیا آپ لچک کی سائنس کی وضاحت کرسکتے ہیں؟\n\nکیا آپ لچک کی سائنس کی وضاحت کرسکتے ہیں؟\n\nکیا آپ
+لچک کی سائنس کی وضاحت کرسکتے ہیں؟\n\nکیا آپ لچک کی'","""\n\nI am a student of class 9th and I am very interested in science and I want to know about the
+science of the earth and the earth's atmosphere.\n\nI am a student of class 9th and I am very
+interested in science and I want to know about the science of the earth and""",مجھے سائنس میں بہت دلچسپی ہے اور میں زمین کی سائنس اور زمین کے ماحولیات کی سائنس کے بارے میں جاننا چاہتا ہوں ۔
+Query 164,'ریاضی کی تاریخ کیا ہے؟',"""What's the history of mathematics?""","' ریاضی کی تاریخ کی ابتدا 1800ء کی دہائی میں ہوئی۔ اس وقت سے اس کی تاریخ میں بہت سی تبدیلیاں ہوئیں۔
+اس کی تاریخ میں ریاضی کی مختلف شاخوں کی تاریخ بھی شامل ہے۔\n\n<h2>ریاضی کی تاریخ</h2>\n\nریاضی کی
+تاریخ'","'\n\n<h2>ریاضیات کی History</h2>\n\nریاضیات کی History\n\n<h2>ریاضیات کی History</h2>\n\nریاضیات کی
+History\n\n<h2>ریاضیات کی History</h2>\n\nریاضیات کی History\n\n<h2>ریاضیات کی
+History</h2>\n\nریاضیات کی History\n\n<h2>ریاضیات کی History</h2>'",ریاضیات کی تاریخ ہے ۔ریاضیات کی تاریخ ہے ۔ریاضیات کی تاریخ ہے ۔ریاضیات کی تاریخ ہے ۔ریاضیات کی تاریخ ہے ۔ریاضیات کی تاریخ ہے ۔ریاضیات کی تاریخ ہے ۔ریاضیات کی تاریخ ہے ۔ریاضیات کی تاریخ ہے ۔ریاضیات کی تاریخ ہے ۔ریاضیات کی تاریخ ہے ۔ریاضیات کی تاریخ ہے ۔
+Query 165,'معاشرتی تحریکیں سیاست کو کس طرح متاثر کرتی ہیں؟','How do social movements influence politics?',"'\n\n[User 0001]\n\n<blockquote>میں نے اس بات کو بھی دیکھا ہے کہ جب کوئی معاشرتی تحریک ہو تو اس کے
+بعد سیاست میں تبدیلی آتی ہے اور سیاست میں تبدیلی آتی ہے تو معاشرتی تحریک بھی آتی ہے اور یہ'","'\n\n[User 0001]\n\n<b>معاشرتی تحریکیں</b>\n\n<b>What are the political effects of social
+movements?</b>\n\n<b>What are the political effects of social movements?</b>\n\n<b>What are the
+political effects of social movements?</b>\n\n<b>What are the political effects of'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ تحریکوں کے سیاسی اثرات کیا ہیں ؟ کیا سماجی تحریکوں کے سیاسی اثرات سیاسی اثرات ہیں ؟ کیا سماجی تحریکوں کے سیاسی اثرات سیاسی اثرات ہیں ؟
+Query 166,'پائیدار زراعت کیا ہے؟','What is sustainable agriculture?',"'\n\n[User 0001]\n\nپائیدار زراعت کیا ہے؟\n \n\n[User 0002]\n\nپائیدار زراعت کی تعریف کیا ہے؟\n
+\n\n[User 0003]\n\nپائیدار زراعت کی'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 167,'ہنسی جسم کو کیسے متاثر کرتی ہے؟','How does laughter affect the body?',"'\n\nہنسی جسم کو کیسے متاثر کرتی ہے؟\n\nہنسی جسم کو کیسے متاثر کرتی ہے؟\n\nہنسی جسم کو کیسے متاثر
+کرتی ہے؟\n\nہنسی جسم کو کیسے متاثر کرتی ہے؟'","""\n\n<h2>Noun:</h2>\n\nہنسی,\n\n<h2>hensi's Usage Examples:</h2>\n\nThe <b>hensi</b>s are a group of
+small, flightless birds of the family Rallidae, found in the Indian subcontinent.\n\nThe
+<b>hensi</b>s are a group of small""",این ایچ ای این ایس : این ایچ ای این ایس استعمال کے مثالیں : این ایچ ای این ایس خاندان ریلڈ اے میں پائے جانے والے چھوٹے پرواز کے بغیر پرندوں کا ایک گروپ ہے ۔
+Query 168,'انسانی لیمفاٹک نظام کا مقصد کیا ہے؟',"""What's the purpose of the human lymphatic system?""","'\n\nانسانی لیمفاٹک نظام کا مقصد کیا ہے؟\n\nانسانی لیمفاٹک نظام کا مقصد کیا ہے؟\n\nانسانی لیمفاٹک
+نظام کا مقصد کیا ہے؟\n\nانسانی لیمفاٹک نظام کا مقصد کیا ہے؟\n\nانسانی ل'","""\n\n<h2>lymphatic system's Usage Examples:</h2>\n\nThe <b>lymphatic system</b> is a network of
+tissues and organs that drains excess fluid from the tissues and transports it to the blood.\n\nThe
+<b>lymphatic system</b> is a network of tissues and organs that drains excess fluid from the tissues
+and transports""",لوتھیٹک سسٹم کے استعمال کے مثالیں : &; لوتھیٹک سسٹم &; ایک ٹکڑوں اور اعضا کے نیٹ ورک ہے جو ٹکڑوں سے اضافی پانی نکالتا ہے اور اسے خون میں پہنچاتا ہے ۔
+Query 169,'زبانیں کیسے تیار ہوتی ہیں؟','How do languages evolve?',"'\n\n[User 0001]\n\n<b>زبانیں کیسے تیار ہوتی ہیں؟</b>\n\n<b>زبانیں کیسے تیار ہوتی
+ہیں؟</b>\n\n<b>زبانیں کیسے تیار ہوتی ہیں؟</b>\n\n<b>زبانیں کیسے تیار'","'\n\n<h2>How to make a sentence with words from other languages \u200b\u200b?</h2>\n\nHow to make a
+sentence with words from other languages \u200b\u200b? and what is the meaning of these words in
+English translation of Urdu sentences.\n\n<h2>How to make a sentence with words from other languages
+\u200b\u200b?</h2>\n\nHow to make a sentence'",دیگر زبانوں سے الفاظ کے ساتھ ایک sentence بنانے کا کیا طریقہ ہے ؟ اور انگریزی ترجمہ میں ان الفاظ کا معنی کیا ہے ؟ ۔
+Query 170,'پٹھوں کے درد کے پیچھے سائنس کیا ہے؟',"""What's the science behind muscle cramps?""","' پٹھوں کے درد کے پیچھے سائنس کیا ہے؟ پٹھوں کے درد کے پیچھے سائنس کیا ہے؟ پٹھوں کے درد کے پیچھے
+سائنس کیا ہے؟ پٹھوں کے درد کے پیچھے سائنس کیا ہے؟ پٹھوں'","'\n\n[User 0001]\n\n<b>پٹھوں کے درد</b>\n\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b
+>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 171,'درجہ حرارت ہوا کے دباؤ کو کیسے متاثر کرتا ہے؟','How does temperature affect air pressure?',"'\n\n[User 0001]\n\nمیں نے ایک بار ایک سوال پوچھا تھا کہ ہوا کے دباؤ کو کیسے متاثر کرتا ہے؟\n\nمیں
+نے اسے Google پر تلاش کیا اور اسے یوں پڑھا:\n\n<blockquote>ہوا کے دبا'","'\n\n[User 0001]\n\nI am a student of physics and I am doing a project on the effect of temperature
+on the atmospheric pressure. I want to know that how the temperature of the atmosphere affects the
+atmospheric pressure.\n \n\n[User 0002]\n\nThe atmospheric pressure is'",میں فزیکل کے طالب علم ہوں اور میں ماحولیاتی دباؤ پر درجہ حرارت کے اثرات کے بارے میں ایک پروجیکٹ کر رہا ہوں ۔ مجھے یہ جاننا چاہتا ہوں کہ ماحولیاتی درجہ حرارت کس طرح ماحولیاتی دباؤ کو متاثر کرتا ہے ۔
+Query 172,'غربت کی بنیادی وجوہات کیا ہیں؟','What are the main causes of poverty?',"'\n\n[User 0001]\n\n<blockquote>یہ بھی ہے کہ یہاں سے ہمارے پاس کوئی بھی اہل علم نہیں ہے، ہمارے پاس
+کوئی بھی اہل علم نہیں ہے، ہمارے پاس کوئی بھی اہل علم نہیں ہے، ہمارے'","'\n\n<h2>The Causes of Westernization</h2>\n\nThe Causes of Westernization\n\nThe term
+“westernization” is used to refer to the process of adopting the social, political, and economic
+practices of the West. It is a complex phenomenon that has been the subject of extensive research
+and debate in various fields, including sociology,'",۔ Westernization کی وجوہات ۔ Westernization کی وجوہات : مغربی ممالک کی سماجی ، سیاسی اور اقتصادی روایات کو اپنانے کے عمل کی طرف اشارہ کرتے ہوئے یہ لفظ استعمال کیا جاتا ہے ۔ یہ ایک پیچیدہ حقیقت ہے ، جسے سماجی علوم سمیت مختلف شعبوں میں تحقیق اور بحث کا موضوع بنا دیا جاتا ہے ۔
+Query 173,'ٹیم ورک سے پیداواری صلاحیت کو کیسے فائدہ ہوتا ہے؟','How does teamwork benefit productivity?',"'\n\n[User 0001]\n\nٹیم ورک سے پیداواری صلاحیت کو کیسے فائدہ ہوتا ہے؟\n\n[User 0002]\n\nٹیم ورک سے
+پیداواری صلاحیت کو کیسے فائدہ ہوتا ہے؟'","'\n\n[User 0001]\n\n<b><i><u>\nWhat is the benefit of team work?</u></i></b>\n \n\n[User
+0002]\n\n<b><i><u>\nWhat is the benefit of team work?</u></i></b>\n \n\n[User 0003]\n\n'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 174,'کمپیوٹر سائنس میں کچھ عام الگورتھم کیا ہیں؟','What are some common algorithms in computer science?',"'\n\n[User 0001]\n\nکمپیوٹر سائنس میں کچھ عام الگورتھم کیا ہیں؟\n\n[User 0002]\n\nبہت سے الگورتھم
+ہیں، لیکن یہاں آپ کو صرف چند الگورتھم بت'","'\n\n[User 0001]\n\nI am a student of computer science and I want to know that what are some common
+algorithms in computer science?\n \n\n[User 0002]\n\nYou can find the list of algorithms in any book
+of computer science.\n \n\n[User '",۔ میں کمپیوٹر سائنس کے طالب علم ہوں اور مجھے یہ جاننا چاہتا ہوں کہ کمپیوٹر سائنس میں عام الگوریتم کیا ہیں ؟ ۔
+Query 175,'ڈیجیٹل کرنسی روایتی کرنسی سے کیسے مختلف ہے؟','How does digital currency differ from traditional currency?',"' ڈیجیٹل کرنسی روایتی کرنسی سے کیسے مختلف ہے؟ ڈیجیٹل کرنسی روایتی کرنسی سے کیسے مختلف ہے؟ ڈیجیٹل
+کرنسی روایتی کرنسی سے کیسے مختلف ہے؟ ڈ'","""\n\n<h2>cryptocurrency's Usage Examples:</h2>\n\nThe <b>cryptocurrency</b> market is a market for
+the trading of <b>cryptocurrency</b>s, which are digital or virtual currencies that are not issued
+by any central.\n\nThe <b>cryptocurrency</b> market is a market for the trading of <b>crypto""",کُرنسی کے استعمال کے مثالیں : کُرنسی مارکیٹ کُرنسی کی تجارت کے لئے ایک منڈی ہے جو کہ کُرنسی کی تجارت کا ذریعہ ہے ، جو کہ ڈیجیٹل یا ورچوول کرنسی ہیں جو کہ کسی مرکزی کے ذریعہ نہیں جاری کی جاتیں ۔ کُرنسی مارکیٹ کُرنسی کی تجارت کے لئے ایک منڈی ہے ۔
+Query 176,'انسانی تلاش کی تاریخ کیا ہے؟',"""What's the history of human exploration?""","'\n\nانسانی تلاش کی تاریخ کیا ہے؟\n\nانسانی تلاش کی تاریخ کیا ہے؟\n\nانسانی تلاش کی تاریخ کیا
+ہے؟\n\nانسانی تلاش کی تاریخ کیا ہے؟\n\nانسانی تلاش کی تاریخ کیا ہے؟\n\nانسانی تلاش کی تاریخ کیا
+ہے؟\n\nانسانی تلاش کی تاریخ کیا ہے؟\n\n'","'\n\n[User 0001]\n\n<b><i><u>\nThe History of Human
+Efforts\n</u></i></b>\n<b><i><u>\nBy\n</u></i></b>\n<b><i><u>\nDr. Muhammad Ali
+Shaikh\n</u></i></b>\n<b><i><u>\nPublished By\n</u></i></b>\n<b><i><u>\nThe'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 177,'پودے کاربن سائیکلنگ میں کس طرح حصہ ڈالتے ہیں؟','How do plants contribute to carbon cycling?',"'\n\n[User 0001]\n\nپودے کاربن سائیکلنگ میں کس طرح حصہ ڈالتے ہیں؟\n \n\n[User 0002]\n\nپودے کاربن
+سائیکلنگ میں کس طرح حصہ ڈالتے ہیں؟\n '","'\n\n[User 0001]\n\n<b>پودے</b>\n\n<b>Carbon Cycle</b>\n\n<b>Carbon Cycle</b>\n\n<b>Carbon
+Cycle</b>\n\n<b>Carbon Cycle</b>\n\n<b>Carbon Cycle</b>\n\n<b>Carbon Cycle</b>\n\n<b>Carbon
+Cycle</b>\n\n<b>Carbon Cycle</b>\n\n<b>Carbon Cycle</b>\n\n<b>Carbon Cycle'",یوزر وائی فائی :....
+Query 178,'قابل تجدید اور ناقابل تجدید وسائل میں کیا فرق ہے؟',"""What's the difference between renewable and nonrenewable resources?""","'\n\n[User 0001]\n\nالسلام علیکم\n\nمیں نے ایک کتاب پڑھی ہے جس میں یہ بات بتائی گئی ہے کہ\n\nقابل
+تجدید اور ناقابل تجدید وسائل میں کیا فرق ہے؟\n\nمیں نے اس بات کو سمجھا کہ قابل'","'\n\n[User 0001]\n\n<b>قابل تجدید اور ناقابل تجدید</b>\n\n<b>What is the difference between the two
+words</b>\n\n<b>I have heard that</b>\n\n<b>1)</b> <b>قابل</b> <b>means</b> <b>can be</b> <b>and</b>
+'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ تجدید شدہ اور ناقابل تجدید دونوں کے درمیان کیا فرق ہے ؟ یوزر ؍ تجدید شدہ اور ناقابل تجدید دونوں کے درمیان فرق کیا ہے ؟
+Query 179,'افراط زر معیشت کو کیسے متاثر کرتا ہے؟','How does inflation affect the economy?',"'\n\nافراط زر کی وجہ سے معیشت میں بہت سی تبدیلیاں رونما ہوتی ہیں، اس کے نتیجے میں معیشت میں بہت سی
+تبدیلیاں رونما ہوتی ہیں، اس کے نتیجے میں معیشت میں بہت سی تبدیلیاں'","'\n\n[User 0001]\n\nI have a question that I am not able to understand.\nI have read that in the
+case of overeating, the body is not able to digest the food properly and the excess fat is stored in
+the body.\nBut in the case of overeating, the'",میرے پاس ایک سوال ہے جو میں سمجھ نہیں سکتا ۔ میں نے پڑھا ہے کہ افراط در افراط کھانے کی صورت میں بدن صحیح طریقے سے خوراک کو جذب نہیں کر سکتا اور بدن میں اضافی چربی ذخیرہ ہوتی ہے ، لیکن افراط در افراط کھانے کی صورت میں بدن میں اضافی چربی ذخیرہ ہوتی ہے ۔
+Query 180,'زمین کی تزئین کی فوٹو گرافی کی بنیادی باتیں کیا ہیں؟','What are the basics of landscape photography?',"'\n\nزمین کی تزئین کی فوٹو گرافی کی بنیادی باتیں کیا ہیں؟\n\nزمین کی تزئین کی فوٹو گرافی کی بنیادی
+باتیں کیا ہیں؟\n\nزمین کی تزئین کی فوٹو گرافی کی بنیادی باتیں کیا ہیں؟\n\nزمین کی تز'","'\n\n<h2>About Photograpy</h2>\n\nThe basic principles of photograpy are:\n\n1. The light is the
+most important factor in photography.\n2. The light should be natural and should not be
+artificial.\n3. The subject should be in focus and the background should be blurred.\n4. The'",فوٹو گرافی کے بنیادی اصول یہ ہیں کہ فوٹو گرافی میں نور سب سے اہم عنصر ہے ۔ یہ نور غیر مصنوعی نہیں ہونا چاہئے ۔ اس کے ساتھ ساتھ تصویر کا مرکز بھی توجہ کا مرکز ہو اور تصویر کا پس منظر بھی واضح ہو ۔
+Query 181,'رولر کوسٹر کیسے کام کرتے ہیں؟','How do roller coasters work?',"'\n\nرولر کوسٹر کیسے کام کرتے ہیں؟\n\nرولر کوسٹر کیسے کام کرتے ہیں؟\n\nرولر کوسٹر کیسے کام کرتے
+ہیں؟\n\nرولر کوسٹر کیسے کام کرتے ہیں؟\n\nرولر کوسٹر کیس'","'\n\nرولر کوسٹر What are roller coasters?\n\nرولر کوسٹر What are roller coasters?\n\nرولر کوسٹر What
+are roller coasters?\n\nرولر کوسٹر What are roller coasters?\n\nرولر کوسٹر What are roller
+coasters?\n\nرولر کوسٹر What are roller'",رولر کوسٹر ، رولر کوسٹر ، رولر کوسٹر ، رولر کوسٹر ، رولر کوسٹر ، رولر کوسٹر ، رولر کوسٹر ، رولر کوسٹر ، رولر کوسٹر
+Query 182,'مدافعتی نظام کا مقصد کیا ہے؟',"""What's the purpose of the immune system?""","'\n\n[User 0001]\n\nمدافعتی نظام کا مقصد کیا ہے؟\n\n[User 0002]\n\nمدافعتی نظام کا مقصد یہ ہے کہ کسی
+بھی قسم کی حملے سے بچنے کے لیے نظام کو تیار کیا جائے۔\n\n[User 0'","'\n\n[User 0001]\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>
+\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n\n<b>\n
+\n<b>\n\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 183,'مراقبہ دماغ کی لہروں کو کیسے متاثر کرتا ہے؟','How does meditation affect brain waves?',"'\n\n[User 0001]\n\nمراقبہ دماغ کی لہروں کو کیسے متاثر کرتا ہے؟\n\n[User 0002]\n\nمراقبہ دماغ کی
+لہروں کو کیسے متاثر کرتا'","'\n\n[User 0001]\n\nI have been reading that the brain is the most delicate organ of the body and it
+is very important to take care of it. I have been reading that the brain is the most delicate organ
+of the body and it is very important to take care of it. I have'",میں پڑھ رہا ہوں کہ دماغ بدن کا سب سے حساس حصہ ہے اور اس کی دیکھ بھال کرنا بہت ضروری ہے ۔ میں پڑھ رہا ہوں کہ دماغ بدن کا سب سے حساس حصہ ہے اور اس کی دیکھ بھال کرنا بہت ضروری ہے ۔
+Query 184,'کچھ مشہور قدیم نشانات کیا ہیں؟','What are some famous ancient landmarks?',"'\n\n[User 0001]\n\nکچھ مشہور قدیم نشانات کیا ہیں؟\n\n[User 0002]\n\n<strong>مشرق</strong>\n\n<stron
+g>مشرق</strong>\n\n<strong>مشرق</strong>\n\n<strong>مشرق</strong>\n\n<strong>مشرق</strong>\n\n<stron
+g>م'","'\n\n[User 0001]\n\n<b>کچھ مشہور قدیم نشانات کیا ہیں؟</b>\n\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n<
+/b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر کیا ہیں ؟
+Query 185,'کاروبار مارکیٹ کی تحقیق کیسے کرتے ہیں؟','How do businesses conduct market research?',"'\n\n[User 0001]\n\nکاروبار مارکیٹ کی تحقیق کیسے کرتے ہیں؟\n \n\n[User 0002]\n\nکاروبار مارکیٹ کی
+تحقیق کیسے کرتے ہیں؟\n \n\n[User 0003'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 186,'نیوروپلاسٹیٹی کیا ہے؟','What is neuroplasticity?',"' نیوروپلاسٹیٹی کی تعریف نیوروپلاسٹیٹی کی تعریف نیوروپلاسٹیٹی کی تعریف نیوروپلاسٹیٹی کی تعریف
+نیوروپلاسٹیٹی کی تعریف نیوروپلاسٹیٹی کی تعریف نیوروپلاسٹیٹی کی تعریف نیوروپلاسٹیٹی کی تعریف'","'\n\n[User 0001]\n\nI am a student of 12th class and I am preparing for my board exams. I have a
+doubt that what is the meaning of the word ""نیوروپلاسٹیٹی "" and what is its full form?\n \n\n[User
+00'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر
+Query 187,'بلاکچین ڈیٹا سیکیورٹی کو کیسے یقینی بناتا ہے؟','How does blockchain ensure data security?',"' بلاکچین ڈیٹا سیکیورٹی کو کیسے یقینی بناتا ہے؟ بلاکچین ڈیٹا سیکیورٹی کو کیسے یقینی بناتا ہے؟
+بلاکچین ڈیٹا سیکیورٹی کو کیسے یقینی بناتا'","'\n\n[User 0001]\n\n<b>بلاکچین</b>\n\n<b>بلاکچین</b>\n\n<b>بلاکچین</b>\n\n<b>بلاکچین</b>\n\n<b>بلاکچ
+ین</b>\n\n<b>بلاکچین</b>\n\n<b>بلاکچین</b>\n\n<b>بلاکچین</b>\n\n<b>بلاکچین</b>\n\n'",۔بلاکچین ۔بلاکچین ۔بلاکچین ۔بلاکچین ۔بلاکچین ۔بلاکچین ۔بلاکچین ۔بلاکچین ۔بلاکچین ۔بلاکچین ۔بلاکچین ۔بلاکچین ۔بلاکچین ۔بلاکچین ۔بلاکچین ۔بلاکچین ۔بلاکچین ۔بلاکچین
+Query 188,'صحت پر فاسٹ فوڈ کا کیا اثر ہے؟',"""What's the impact of fast food on health?""","'\n\nصحت پر فوڈ کا کیا اثر ہے؟\n\nصحت پر فوڈ کا کیا اثر ہے؟\n\nصحت پر فوڈ کا کیا اثر ہے؟\n\nصحت پر
+فوڈ کا کیا اثر ہے؟\n\nصحت پر فوڈ کا کیا اثر ہے؟\n\nصحت پر'","'\n\n[User 0001]\n\nI am 15 years old and I am very overweight. I am 5 feet 4 inches tall and weigh
+120 pounds. I am very worried about my weight and I want to lose weight. I am very active and I do
+exercise daily.'",یوزر وائی فائی : میں سال کی عمر کا ہوں اور میں بہت زیادہ وزن کا حامل ہوں ۔ میں پانچ فٹ چار ٹکڑے کا ہوں اور وزن 120 پاؤنڈ کا ہوں ۔ مجھے وزن کے بارے میں بہت زیادہ تشویش ہے اور میں وزن کم کرنا چاہتا ہوں ۔ میں بہت سرگرم ہوں اور روزانہ ورزش کرتا ہوں ۔
+Query 189,'سمندری تیزابیت سمندری زندگی کو کس طرح متاثر کرتی ہے؟','How does ocean acidification affect marine life?',"' سمندری تیزابیت سمندری تیزابیت سمندری تیزابیت سمندری تیزابیت سمندری تیزابیت سمندری تیزابیت سمندری
+تیزابیت سمندری تیزابیت سمندری تیزابیت سم'","'\n\n[User 0001]\n\nI have a 2008 model 1.3cc Suzuki Swift and I am facing a problem in its engine.
+It is giving me a lot of trouble. It is giving me a lot of trouble in starting. It is giving me a
+lot of trouble'",میرے پاس ایک سال کے ماڈل کا ایک Suzuki Swift ہے اور مجھے اس کے انجن میں ایک مشکل کا سامنا کرنا پڑا ہے ۔ مجھے بہت سے مشکلات کا سامنا کرنا پڑا ہے ۔ شروع کرنے میں بہت سے مشکلات کا سامنا کرنا پڑا ہے ۔
+Query 190,'مقصد اور ساپیکش حقیقت میں کیا فرق ہے؟',"""What's the difference between objective and subjective reality?""","'\n\n[User 0001]\n\nالسلام علیکم و رحمة الله و بركاته\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n
+\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n '","'\n\n[User 0001]\n\n<b>What is the difference between destination and purpose?</b>\n\n<b>I have
+heard that the word ""destination"" is used in the context of a place and ""purpose"" is used in the
+context of a thing.</b>\n\n<b>Is it true?</b>\n\n<b>If'",جواب : مقصد اور مقصد میں کیا فرق ہے ؟ جواب : میں نے سنا ہے کہ مقصد کا لفظ ایک جگہ کے تناظر میں استعمال ہوتا ہے اور مقصد کا لفظ کسی چیز کے تناظر میں استعمال ہوتا ہے ۔ کیا یہ حق ہے ؟ جواب : اگر ہے ۔
+Query 191,'موسیقی انسانی جذبات کو کس طرح متاثر کرتی ہے؟','How does music influence human emotions?',"'\n\n[User 0001]\n\nموسیقی انسانی جذبات کو کس طرح متاثر کرتی ہے؟\n\n[User 0002]\n\nموسیقی انسانوں کو
+جذباتی طور پر متاثر کرتی ہے، لیکن یہ متاثر ہونے کا'","'\n\n[User 0001]\n\n<b><i><u>\nI have a question that is how music affects our
+emotions?\n</u></i></b>\n \n\n[User 0002]\n\n<b><i><u>\nI think it depends on the type of music and
+the mood you are in.\n</u>'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر یوزر ؍ یوزر یوزر ؍ یوزر یوزر یوزر یوزر یوزر یوزر یوزر
+Query 192,'کہانی سنانے کے اہم عنصر کیا ہیں؟','What are the main elements of storytelling?',"'\n\n[User 0001]\n\nکہانی سنانے کے اہم عنصر کیا ہیں؟\n \n\n[User 0002]\n\n<b>اسلام میں کہانیاں سنانے
+کے اہم عنصر کیا ہیں؟</b>\n\nاسلام میں کہانیاں س'","'\n\n[User 0001]\n\n<b>کہانی</b>\n\n<b>کہانی</b>\n\n<b>کہانی</b>\n\n<b>کہانی</b>\n\n<b>کہانی</b>\n\n
+<b>کہانی</b>\n\n<b>کہانی</b>\n\n<b>کہانی</b>\n\n<b>کہانی</b>\n\n<b>کہانی</b>\n\n<b>کہانی</b>'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر یوزر ؍ یوزر یوزر ؍ یوزر یوزر
+Query 193,'ہجرت کے دوران پرندے کیسے تشریف لے جاتے ہیں؟','How do birds navigate during migration?',"'\n\n[User 0001]\n\nہجرت کے دوران پرندے کیسے تشریف لے جاتے ہیں؟\n\n[User 0002]\n\nبہت سے پرندے اپنے
+آپ کو جگہ سے باہر نکالنے کے لیے اپنے ذہن'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 194,'ابتدائی طبی امداد کے اصول کیا ہیں؟','What are the principles of first aid?',"'\n\nابتدائی طبی امداد کے اصول کیا ہیں؟\n\nابتدائی طبی امداد کے اصول کیا ہیں؟\n\nابتدائی طبی امداد
+کے اصول کیا ہیں؟\n\nابتدائی طبی امداد کے اصول کیا ہیں؟\n\nابتدائی طبی امداد کے اصول کیا ہیں'","'\n\n1.\n\n2.\n\n3.\n\n4.\n\n5.\n\n6.\n\n7.\n\n8.\n\n9.\n\n10.\n\n11.\n\n12.\n\n13.\n\n14.\n\n15.\n\
+n16.\n\n17.\n\n18.\n\n'",۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔
+Query 195,'دماغ میں میموری کیسے کام کرتی ہے؟','How does memory work in the brain?',"' دماغ میں میموری کیسے کام کرتی ہے؟ دماغ میں میموری کیسے کام کرتی ہے؟ دماغ میں میموری کیسے کام کرتی
+ہے؟ دماغ میں میموری کیسے کام کرتی ہے؟ دماغ میں'","'\n\n[User 0001]\n\n<b>دماغ میں میموری کیسے کام کرتی ہے؟</b>\n\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>
+\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر
+Query 196,'سائبرسیکیوریٹی کی کیا اہمیت ہے؟',"""What's the importance of cybersecurity?""","' سائبرسیکیوریٹی کی کیا اہمیت ہے؟ سائبرسیکیوریٹی کی کیا اہمیت ہے؟ سائبرسیکیوریٹی کی کیا اہمیت ہے؟
+سائبرسیکیوریٹی کی کیا اہمیت ہے؟ سائبرس'","'\n\n[User 0001]\n\n<b>سائبرسیکیوریٹی</b>\n\n<b>What is the importance of cyber
+security?</b>\n\n<b>What is the importance of cyber security?</b>\n\n<b>What is the importance of
+cyber security?</b>\n\n<b>What is the importance of cyber security?</b>\n\n'",۔ سائبرسیکیوریٹی ۔ سائبرسیکیوریٹی کی اہمیت ۔ سائبر سکیورٹی کی اہمیت ۔ سائبر سکیورٹی کی اہمیت ۔ سائبر سکیورٹی کی اہمیت ۔
+Query 197,'مصنوعی ذہانت کا عمل کس طرح ہوتا ہے؟','How does artificial intelligence process data?',"'\n\n[User 0001]\n\nمصنوعی ذہانت کا عمل کس طرح ہوتا ہے؟\n\n[User 0002]\n\n@Ahsan_Ali_Khan\n\n \n\n
+\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n'","'\n\n[User 0001]\n\n<b>مصنوعی ذہانت کا What is the process of how it happens?</b>\n\n<b>What is the
+process of how the artificial intelligence happens?</b>\n \n\n[User 0002]\n\nIt is a very complex
+subject and there are many'",صارف ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ ایک بہت ہی پیچیدہ موضوع ہے اور اس میں بہت سے مسائل موجود ہیں ۔
+Query 198,'جرائم کو حل کرنے میں فرانزک سائنس کا کیا کردار ہے؟',"""What's the role of forensic science in solving crimes?""","'\n\n[User 0001]\n\nجرائم کو حل کرنے میں فرانزک سائنس کا کیا کردار ہے؟\n\n[User 0002]\n\nجرائم کو حل
+کرنے میں فرانزک سائنس کا کیا کردار ہے؟\n\n[User 00'","'\n\n[User 0001]\n\n<b>جرائم کو حل کرنے میں فرانک سائنس کا What role is played?</b>\n\n<b>I am
+reading a book and there is a sentence in it that says:</b>\n\n<b>""The role of Frank science in
+solving crimes is not known.""</b>'",.جرائم کو حل کرنے میں فرانک سائنس کا کیا رول ہے ؟ میں ایک کتاب پڑھ رہا ہوں اور اس میں ایک قَسم ہے جو کہتی ہے : ۔
+Query 199,'ممالک افراط زر کو کیسے کنٹرول کرتے ہیں؟','How do countries control inflation?',"'\n\n[User 0001]\n\nممالک افراط زر کو کیسے کنٹرول کرتے ہیں؟\n\n[User 0002]\n\nممالک افراط زر کو کیسے
+کنٹرول کرتے ہیں؟\n\n[User 0003]\n\n'","'\n\n[User 0001]\n\n<b>ممالک افراط زر کو How To Control</b>\n\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\
+n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر کو کیسے کنٹرول کیا جائے ؟
+Query 200,'قابل تجدید توانائی کی اہم اقسام کیا ہیں؟','What are the main types of renewable energy?',"'\n\nقابل تجدید توانائی کی اقسام کیا ہیں؟\n\nقابل تجدید توانائی کی اقسام کیا ہیں؟\n\nقابل تجدید
+توانائی کی اقسام کیا ہیں؟\n\nقابل تجدید توانائی کی اقسام کیا ہیں؟\n\nقابل تجدید توانائی کی اقسام کیا
+ہیں'","'\n\n[User 0001]\n\n<b>قابل تجدید توانائی</b>\n\n<b>\n<b>قابل تجدید توانائی</b></b>\n\n<b>\n<b>قابل
+تجدید توانائی</b></b>\n\n<b>\n<b>قابل تجدید توانائی</b></b>\n\n<b>\n<b>قابل تجدید توانائی'",قابل تجدید توانائی ہے ۔ قابل تجدید توانائی ہے ۔ قابل تجدید توانائی ہے ۔
+Query 201,'ورزش ذہنی صحت پر کیا اثر ڈالتی ہے؟','How does exercise impact mental health?',"'\n\n[User 0001]\n\nورزش ذہنی صحت پر کیا اثر ڈالتی ہے؟\n\n[User 0002]\n\nاس سوال کا جواب بہت ہی
+پیچیدہ ہے، لیکن یہ بات واضح ہے کہ ورزش ذہنی صحت پر بہت اثر'","'\n\n[User 0001]\n\n<b><u>\nWhat is the effect of physical exercise on mental
+health?\n</u></b>\n<b><u>\nWhat is the effect of physical exercise on mental
+health?\n</u></b>\n<b><u>\nWhat is the effect of physical exercise on mental health?\n</u></b>\n'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر یوزر ؍ یوزر یوزر یوزر یوزر یوزر یوزر
+Query 202,'پودے مٹی سے غذائی اجزاء کیسے حاصل کرتے ہیں؟','How do plants obtain nutrients from soil?',"'\n\nپودے مٹی سے غذائی اجزاء کیسے حاصل کرتے ہیں؟\n\nپودے مٹی سے غذائی اجزاء کیسے حاصل کرتے
+ہیں؟\n\nپودے مٹی سے غذائی اجزاء کیسے حاصل کرتے ہیں؟\n\nپودے'","'\n\n[User 0001]\n\n<b>پودے</b>\n\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\
+n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n<b>\n</b>\n'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر یوزر ؍ یوزر یوزر ؍ یوزر یوزر ؍ یوزر یوزر
+Query 203,'جامد بجلی کے پیچھے سائنس کیا ہے؟',"""What's the science behind static electricity?""","'\n\n[User 0001]\n\n<b>جامد بجلی کے پیچھے سائنس کیا ہے؟</b>\n\n<b>جامد بجلی کے پیچھے سائنس کیا
+ہے؟</b>\n\n<b>جامد بجلی کے پیچھے سائنس کیا ہے؟</b>\n\n<b>جامد بجلی کے'","'\n\n[User 0001]\n\nI have a question regarding the structure of the body.\nI have heard that the
+body is made up of 70% water.\nBut I have also heard that the body is made up of 70% water.\nWhich
+one is correct?\n'",میرے پاس بدن کے ڈھانچے کے بارے میں ایک سوال ہے ۔ میں نے سُنا ہے کہ بدن 70% پانی سے پَیدا ہوتا ہے لیکن میں نے سُنا ہے کہ بدن 70% پانی سے پَیدا ہوتا ہے ۔ کون صحیح ہے ؟
+Query 204,'آبدوزوں کو کس طرح خوشی برقرار رکھتی ہے؟','How do submarines maintain buoyancy?',"'\n\nآبدوزوں کو کس طرح خوشی برقرار رکھتی ہے؟\n\nآبدوزوں کو کس طرح خوشی برقرار رکھتی ہے؟\n\nآبدوزوں
+کو کس طرح خوشی برقرار رکھتی ہے؟\n\nآبدوزوں کو کس طرح خوشی برقرار ر'","'\n\n[User 0001]\n\nI have a question regarding the word ""Abdoza"" which is used in the following
+sentence:\n\n""Aabdoza ko kis tarah khush rakhti hai?""\n\nI have heard this word being used in the
+context of a person who is very'",اس الفاظ کے بارے میں جس کا استعمال درج ذیل الفاظ میں کیا جاتا ہے : &; &; &; &; &; &; &;
+Query 205,'موٹاپا کی بنیادی وجوہات کیا ہیں؟','What are the main causes of obesity?',"'\n\nموٹاپا کی بنیادی وجوہات کیا ہیں؟\n\nموٹاپا کی بنیادی وجوہات کیا ہیں؟\n\nموٹاپا کی بنیادی وجوہات
+کیا ہیں؟\n\nموٹاپا کی بنیادی وجوہات کیا ہیں؟\n\nموٹاپ'","""\n\n<h2>Noun:</h2>\n\nموٹاپا,\n\n<h2>motopas's Usage Examples:</h2>\n\nThe <b>motopas</b> is a type
+of traditional dance of the people of the Khyber Pakhtunkhwa region of Pakistan.\n\nThe
+<b>motopas</b> is a type of""",نوون : موسٰیپا ، ایم او ٹی اے پی ایس کے استعمال کے مثالیں : پاکستان کے کھبر پکھواڑہ خطہ کے لوگوں کے روایتی رقص ۔ ایم او ٹی اے پی ایس ایک ایسا ہے ۔
+Query 206,'انجینئر محفوظ عمارتوں کو کس طرح ڈیزائن کرتے ہیں؟','How do engineers design safer buildings?',"'\n\n[User 0001]\n\nانجینئر محفوظ عمارتوں کو کس طرح ڈیزائن کرتے ہیں؟\n\n[User 0002]\n\nانگریز میں آپ
+کو اس کا جواب ملے گا\n\n \n\n \n\n \n\n \n\n \n\n \n\n '","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 207,'مراقبہ کس طرح حراستی کو بہتر بناتا ہے؟','How does meditation improve concentration?',"'\n\n[User 0001]\n\nمراقبہ کس طرح حراستی کو بہتر بناتا ہے؟\n\n[User 0002]\n\nمراقبہ حراستی کو بہتر
+بناتا ہے کیوں کہ حراستی کے بارے میں بہت سے لوگ'","'\n\n[User 0001]\n\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n
+<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n<b>\n'",یوزر ؍ یوزر ؍ یوزر نمبر :....
+Query 208,'جینیاتی بحالی کا عمل کیا ہے؟',"""What's the process of genetic recombination?""","'\n\nجینیاتی بحالی کا عمل کیا ہے؟\n\nجینیاتی بحالی کا عمل کیا ہے؟\n\nجینیاتی بحالی کا عمل کیا
+ہے؟\n\nجینیاتی بحالی کا عمل کیا ہے؟\n\nجینیاتی بحالی کا عمل کیا ہے؟\n\nجینیاتی بحالی کا عمل کیا'","'\n\n[User 0001]\n\nI have a question regarding the word ""جینیاتی""\n\nI have heard that it is used
+in the sentence ""جینیاتی بحالی کا عمل کیا""\n\nWhat does it mean?\n\n[User 0002]\n\nIt is a word
+which'",اس لفظ سے متعلق میرے پاس ایک سوال ہے ۔ میں نے سُنا ہے کہ یہ لفظ بحالی کا عمل کیا میں استعمال کیا جاتا ہے ۔ یہ کیا بات ہے ؟
+Query 209,'ویکسین مدافعتی نظام کو کیسے فروغ دیتی ہے؟','How do vaccines boost the immune system?',"'\n\nویکسین کو کیسے فروغ دیتی ہے؟\n\nویکسین کو کیسے فروغ دیتی ہے؟\n\nویکسین کو کیسے فروغ دیتی
+ہے؟\n\nویکسین کو کیسے فروغ دیتی ہے؟\n\nویکسین کو کیسے'","'\n\n[User 0001]\n\nI am a student of law and I am doing a research on the role of the judiciary in
+the protection of human rights. I want to know that what is the role of the judiciary in the
+protection of human rights and what are the constitutional and legal provisions regarding the
+protection'",۔ میں ایک طالب علم ہوں اور میں انسانی حقوق کے تحفظ میں عدلیہ کے رول کے بارے میں تحقیق کر رہا ہوں ۔ مجھے یہ جاننا چاہتا ہوں کہ انسانی حقوق کے تحفظ میں عدلیہ کا کردار کیا ہے اور ان حقوق کے تحفظ سے متعلق آئینی اور قانونی تجاویز کیا ہیں ۔
+Query 210,'کچھ عام معدنیات اور ان کے استعمال کیا ہیں؟','What are some common minerals and their uses?',"'\n\n[User 0001]\n\nکچھ عام معدنیات اور ان کے استعمال کیا ہیں؟\n\n[User
+0002]\n\n<strong>معدنیات</strong>\n\nمعدنیات وہ مواد ہیں جو معدنیات کے طور پر استعمال کیے جاتے ہیں۔
+معدنی'","'\n\n[User 0001]\n\n<b>کچھ عام معدنیات اور ان کے استعمال کیا ہیں؟</b>\n\n<b>I have a question about
+the use of some common minerals.</b>\n\n<b>I have a question about the use of some common
+minerals.</b>\n\n<b>I have a question about the'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر نے عام معدنیات اور ان کا استعمال کیا ہے یا نہیں ؟ کچھ عام معدنیات کے استعمال کے بارے میں میرا ایک سوال ہے ۔
+Query 211,'کیفین جسم کو کیسے متاثر کرتا ہے؟','How does caffeine affect the body?',"'\n\n[User 0001]\n\nکیا کوئی جانا سکے کہ جس جسم کو کیسے متاثر کرتا ہے؟\n \n\n[User 0002]\n\n<b>جس
+جسم کو کیسے متاثر کرتا ہے؟</b>\n\n<b>جس'","'\n\n[User 0001]\n\nI have a question that I am not able to understand.\nWhat is the difference
+between the following two sentences?\n1. What affects the body?\n2. What affects the body?\n
+\n\n[User 0002]\n\n1. What'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر یوزر ؍ یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر یوزر
+Query 212,'ماحول کے ذریعے پانی کا چکر کیسے ہوتا ہے؟','How does water cycle through the environment?',"'\n\nماحول کے ذریعے پانی کا چکر کیسے ہوتا ہے؟\n\nماحول کے ذریعے پانی کا چکر کیسے ہوتا ہے؟\n\nماحول
+کے ذریعے پانی کا چکر کیسے ہوتا ہے؟\n\nماحول کے'","'\n\nWhat is the role of water cycle in the atmosphere?\n\nWhat is the role of water cycle in the
+atmosphere?\n\nWhat is the role of water cycle in the atmosphere?\n\nWhat is the role of water cycle
+in the atmosphere?\n\nWhat is the role of water cycle in the atmosphere?\n\nWhat is the'",ماحولیات میں آبی سائیکل کا رول کیا ہے ؟ ماحولیات میں آبی سائیکل کا رول کیا ہے ؟ ماحولیات میں آبی سائیکل کا رول کیا ہے ؟ ماحولیات میں آبی سائیکل کا رول کیا ہے ؟
+Query 213,'انسانی اناٹومی کی تاریخ کیا ہے؟',"""What's the history of human anatomy?""","'\n\nانسانی اناٹومی کی تاریخ کیا ہے؟\n\nانسانی اناٹومی کی تاریخ کیا ہے؟\n\nانسانی اناٹومی کی تاریخ
+کیا ہے؟\n\nانسانی اناٹومی کی تاریخ کیا ہے؟\n\nانسانی اناٹومی کی تاریخ کیا ہے؟\n\nانسانی اناٹومی کی
+تاریخ کیا'","'\n\n<h2>History of Human Anatomy</h2>\n\nThe word <strong><em>Anatomy</em></strong> is derived from
+the Greek word <strong><em>Ana</em></strong> which means <strong><em>up</em></strong> and
+<strong><em>Tome</em></strong> which means <strong><em>cut</em></strong>. The word
+<strong><em>Anatomy</em></strong> was first used by'",انسانی انتودیہ کی تاریخ ۔ یہ لفظ یونانی لفظ انتودیہ سے پیدا کیا گیا ہے جس کا مطلب ہے ۔ یہ لفظ اولین بار استعمال کیا گیا جب لفظ انتودیہ استعمال کیا گیا ۔
+Query 214,'AI ڈیٹا سے کیسے سیکھتا ہے؟','How does AI learn from data?',"'\n\n[User 0001]\n\nAI ڈیٹا سے کیسے سیکھتا ہے؟\n\n[User 0002]\n\nAI ڈیٹا سے کیسے سیکھتا ہے؟\n\n[User
+0003]\n\nAI ڈیٹ'","'\n\n[User 0001]\n\n<b>AI</b> <b>Data</b> <b>How</b> <b>to</b> <b>Learn</b> <b>from</b> <b>It</b>
+<b>?</b>\n\n<b>AI</b> <b>Data</b> <b>How</b> <b>to</b> <b>Learn</b> <b>from'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر یوزر ؍ یوزر ؍ یوزر
+Query 215,'غذا اور توانائی کے مابین کیا تعلق ہے؟',"""What's the relationship between diet and energy?""","'\n\n[User 0001]\n\nالسلام علیکم و رحمۃ اللہ و برکاتہ۔\n\n \n\nایک سوال یہ ہے کہ ہم نے کبھی کبھی
+دیکھا ہے کہ ایک شخص کو غذا اور توانائی کے مابین کیا تعلق ہے؟\n\n \n\nی'","'\n\n[User 0001]\n\n<b><u>Question</u></b>\n\n<b><u>Answer</u></b>\n\n<b><u>Explanation</u></b>\n\n<
+b><u>Reference</u></b>\n\n<b><u>Reference</u></b>\n\n<b><u>Reference</u></b>\n\n<b><u>Reference</u><
+/b>\n\n<b><u>Reference</u></b>\n\n<b><u>Reference</u></b>\n\n'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر
+Query 216,'وائلڈ لائف کا تحفظ کیسے کام کرتا ہے؟','How does wildlife conservation work?',"'\n\nوائلڈ لائف کا تحفظ کیسے کام کرتا ہے؟\n\nوائلڈ لائف کا تحفظ کیسے کام کرتا ہے؟\n\nوائلڈ لائف کا
+تحفظ کیسے کام کرتا ہے؟\n\nوائلڈ لائف کا تحفظ کیسے کام'","'\n\n<h2>what does life insurance do</h2>\n\n1. <strong>What is life insurance?</strong>\n\n  *
+<strong>Life insurance</strong> is a contract between an individual and an insurance company, which
+provides financial protection to the insured’s family in the event of the insured’s death. The
+insurance company pays a predetermined'",لائف انشورنس کیا کام کرتا ہے ؟ لائف انشورنس ایک فرد اور انشورنس کمپنی کے درمیان ایک معاہدہ ہے جو انشورنس کی موت کے صورت میں انشورنس کے اہل خانہ کو مالی تحفظ فراہم کرتا ہے ۔ انشورنس کمپنی کو ایک مقررہ وقت کے بعد انشورنس کی ادائیگی کی جاتی ہے ۔
+Query 217,'ڈی این اے کی ساخت کیا ہے؟',"""What's the structure of DNA?""","' ڈی این اے کی ساخت کیا ہے؟ ڈی این اے کی ساخت کیا ہے؟ ڈی این اے کی ساخت کیا ہے؟ ڈی این اے کی ساخت
+کیا ہے؟ ڈی این اے کی ساخت کیا ہے؟ ڈی این اے کی ساخت کیا ہے؟ ڈی این ا'","""\n\n<h2>Noun:</h2>\n\nڈی این اے,\n\n<h2>dna's Usage Examples:</h2>\n\nThe <b>DNA</b> of the
+<b>DNA</b>-binding proteins is usually found to be rich in A-T base pairs, while the <b>DNA</b> of
+the <b>DNA</b>-binding proteins""",ڈی این اے کے استعمال کے مثالیں : عام طور پر ڈی اے این اے سے جڑی ہوئی نسلوں میں اے ٹی بیس کے جوڑے زیادہ پائے جاتے ہیں ، جبکہ ڈی اے این اے سے جڑی ہوئی نسلوں میں این اے ٹی کے جوڑے زیادہ پائے جاتے ہیں ۔
+Query 218,'سمندری طوفان کیسے بنتا ہے؟','How do hurricanes form?',"'\n\n[User 0001]\n\nسمندری طوفان کیسے بنتا ہے؟\n \n\n[User 0002]\n\nسمندری طوفان کیسے بنتا ہے؟\n
+\n\n[User 0003]\n\nسمندری ط'","""\n\n[User 0001]\n\nI have a 2008 model of swift and i want to know that how much it will cost to
+get the car's body painted with the color of the car's roof and how much it will cost to get the
+car's roof painted with""",میرے پاس تیز رفتار کی ایک ایک ماڈل ہے اور میں یہ جاننا چاہتا ہوں کہ اس گاڑی کی روف کے رنگ کے ساتھ کیا قیمت ہوگی اور اس گاڑی کی روف کی پینٹنگ کے لئے کیا قیمت ہوگی ۔
+Query 219,'ذاتی فنانس کے بنیادی اصول کیا ہیں؟','What are the basic rules of personal finance?',"'\n\nذاتی فنانس کے بنیادی اصول کیا ہیں؟\n\nذاتی فنانس کے بنیادی اصول کیا ہیں؟\n\nذاتی فنانس کے
+بنیادی اصول کیا ہیں؟\n\nذاتی فنانس کے بنیادی اصول کیا ہیں؟\n\nذاتی فنانس کے بنیادی اصول کیا ہیں'","'\n\nذاتی فنانس What are the basic principles of personal finance?\n\nWhat are the basic principles
+of personal finance?\n\nWhat are the basic principles of personal finance?\n\nWhat are the basic
+principles of personal finance?\n\nWhat are the basic principles of personal finance?\n\nWhat are
+the basic principles of personal finance'",ذاتی فنانس کے بنیادی اصول کون ہیں ؟ ذاتی مالی کے بنیادی اصول کون ہیں ؟ ذاتی مالی کے بنیادی اصول کون ہیں ؟ ذاتی مالی کے بنیادی اصول کون ہیں ؟ ذاتی مالی کے بنیادی اصول کون ہیں ؟
+Query 220,'گرین ہاؤس اثر کا مقصد کیا ہے؟',"""What's the purpose of the greenhouse effect?""","'\n\n[User 0001]\n\n<b>Green House Effect</b>\n\n<b>Green House Effect</b>\n\n<b>Green House
+Effect</b>\n\n<b>Green House Effect</b>\n\n<b>Green House Effect</b>\n\n<b>Green House
+Effect</b>\n\n<b>Green House Effect</b>\n\n<b>Green House Effect</b>\n\n<b>Green House
+Effect</b>\n\n'","""\n\n<h2>green house effect's Usage Examples:</h2>\n\nThe <b>green house effect</b> is a natural
+phenomenon that occurs when the gases in the atmosphere trap heat from the sun and keep it from
+escaping into space.\n\nThe <b>green house effect</b> is a natural phenomenon that occurs when the
+gases in the atmosphere""",گرین ہاؤس ایسیس کے استعمال کے مثالیں : یہ ایک قدرتی حقیقت ہے جب ماحولیاتی گیسوں نے سورج کے حرارت سے ٹھنڈا کر لیا اور اسے خلا سے باہر نکلنے سے روکا ۔
+Query 221,'دماغ رنگوں کی ترجمانی کس طرح کرتا ہے؟','How does the brain interpret colors?',"' دماغ رنگوں کی ترجمانی کس طرح کرتا ہے؟ دماغ رنگوں کی ترجمانی کس طرح کرتا ہے؟ دماغ رنگوں کی ترجمانی
+کس طرح کرتا ہے؟ دماغ رنگوں کی ترجمانی کس طرح کرتا ہے؟ دماغ رنگ'","'\n\n[User 0001]\n\n<b>دماغ</b> <b>رنگوں</b> <b>کی</b> <b>ترجمانی</b> <b>کست</b> <b>کرتا</b>
+<b>ہے</b> <b>؟</b>\n\n<b>I</b> <b>have</b> <b>read</b> <b>'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ رنگوں کا استعمال کریں ۔
+Query 222,'الگورتھم سوشل میڈیا پر مواد کو کس طرح فلٹر کرتے ہیں؟','How do algorithms filter content on social media?',"'\n\n[User 0001]\n\nالگورتھم سوشل میڈیا پر مواد کو کس طرح فلٹر کرتے ہیں؟\n\n[User 0002]\n\nالگورتھم
+سوشل میڈیا پر مواد کو کس طرح فلٹر کرتے ہیں؟'","'\n\n[User 0001]\n\n<b>What is the algorithm of social media like Facebook, Instagram, Twitter, etc.
+that filters the content?</b>\n \n\n[User 0002]\n\n<b>What is the algorithm of social media like
+Facebook, Instagram, Twitter, etc. that filters'",یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر ؍ یوزر

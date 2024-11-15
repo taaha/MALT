@@ -1,0 +1,16 @@
+huggingface_hub
+notebook
+jupyter
+ipython
+ipykernel
+transformers
+transformers_stream_generator 
+tiktoken 
+transformer_lens 
+einops 
+jaxtyping 
+colorama
+scikit-learn 
+scipy 
+matplotlib
+googletrans==4.0.0-rc1
