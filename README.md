@@ -2,8 +2,24 @@
 
 To be published soon.
 
+## Input Dataset
+[huggingface link](https://huggingface.co/datasets/darthPanda/ur_en_questions)
+
 ## Viewing Results
 Results can be viewed in the results folder.
+Following columns can be found in CSV
+
+
+| **Column**                       | **Description**                                                                                             |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------|
+| **Original Instruction**         | This is the input instruction in Urdu given to MALT.                                                       |
+| **Translated Instruction**       | This is the English translation of the input instruction. (not part of our methodology) |
+| **Baseline Completion**          | This is the output from the original unedited LLM in Urdu.                                                 |
+| **Intervention Completion**      | This is the output from the edited LLM in English after ablating translation features.                                |
+| **Translated Completion (Final Output)** | This is the final output generated from MALT after translation of the intervention completion.                     |
+
+
+**Translated Instruction** column is solely for understanding of English speakers and not part of our methodology or seen by MALT.
 
 ## Deployment
 
