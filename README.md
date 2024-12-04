@@ -3,7 +3,7 @@
 To be published soon.
 
 ## Input Dataset
-[huggingface link](https://huggingface.co/datasets/darthPanda/ur_en_questions)
+[link](https://huggingface.co/datasets/darthPanda/ur_en_questions)
 
 ## Viewing Results
 Results can be viewed in the results folder.
@@ -29,6 +29,7 @@ This code was run on following machine
     python: 3.11
     cuda: 12.4.1
     pytorch: 2.4.0
+    GPU: RTX-A4000
 
 
 ## Reproducing the results
