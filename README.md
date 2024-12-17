@@ -1,6 +1,8 @@
 # _MALT: Mechanistic Ablation of Lossy Translation_ in LLMs for low resource languages
 
-To be published soon.
+To be published soon. 
+
+Code is borrowed from implementation of [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717) paper. Thanks a lot to these authors for their efforts.
 
 ## Input Dataset
 [link](https://huggingface.co/datasets/darthPanda/ur_en_questions)
