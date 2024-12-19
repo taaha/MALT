@@ -40,7 +40,7 @@ This code was run on following machine
 
 download or clone this repository.
 
-This code uses Gemma-2-2b and Llama-3.2-3b which both are gated. To run this project, you will need to add tour huggingface token to .env file.
+This code uses Gemma-2-2b and Llama-3.2-3b which both are gated. To run this project, you will need to add your huggingface token to .env file.
 
     HUGGINGFACE_TOKEN="YOUR HUGGINGFACE TOKEN"
 
